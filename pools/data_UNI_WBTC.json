@@ -1,0 +1,2670 @@
+{
+    "0xA57e55ec968aAF937c4Df7179cC884381b684C28": [
+        {
+            "tx_hash": "0xfeb8ef4d6c03d58b5476baad75497f4de8531474581f0125477132b84acb06a9",
+            "user_address": "0xA57e55ec968aAF937c4Df7179cC884381b684C28",
+            "token0": "UNI",
+            "amount0": -89640338894752546918,
+            "token1": "WBTC",
+            "amount1": 942520,
+            "timestamp": "2024-08-13 03:09:23",
+            "pool_liquidity": 8107793037308501
+        },
+        {
+            "tx_hash": "0x35e3425d1ab129cd8c318d5978590ec9de86b488ef048dadb385dd0ad4c26922",
+            "user_address": "0xA57e55ec968aAF937c4Df7179cC884381b684C28",
+            "token0": "UNI",
+            "amount0": 233265745267930824704,
+            "token1": "WBTC",
+            "amount1": -3421812,
+            "timestamp": "2024-06-24 12:37:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xad9320fe7d53b9fa47bcca597984731af0a4773eddb7ac9191c0faf28a91d975",
+            "user_address": "0xA57e55ec968aAF937c4Df7179cC884381b684C28",
+            "token0": "UNI",
+            "amount0": 142443771520276922368,
+            "token1": "WBTC",
+            "amount1": -2112001,
+            "timestamp": "2024-06-24 05:42:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xb3d6587de757ed7aea32a8970221712c082ddf2f469ad7870b3188101ec26ba7",
+            "user_address": "0xA57e55ec968aAF937c4Df7179cC884381b684C28",
+            "token0": "UNI",
+            "amount0": -195366650709991137939,
+            "token1": "WBTC",
+            "amount1": 3003990,
+            "timestamp": "2024-06-26 01:52:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x666659a0e8f4d8f3e4ad330cf5d0f51a799c2f9ef990d6fe162713c506d4d307",
+            "user_address": "0xA57e55ec968aAF937c4Df7179cC884381b684C28",
+            "token0": "UNI",
+            "amount0": 162984432033012908032,
+            "token1": "WBTC",
+            "amount1": -2473328,
+            "timestamp": "2024-06-27 06:40:35",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x346C802df3404BEC2f265603db28B815321251Ee": [
+        {
+            "tx_hash": "0x376ddb3e87fd570573a2b02518987f5abc25cca34ed54f4f9a27e6528f7b64de",
+            "user_address": "0x346C802df3404BEC2f265603db28B815321251Ee",
+            "token0": "UNI",
+            "amount0": 92516183789583325503,
+            "token1": "WBTC",
+            "amount1": -966898,
+            "timestamp": "2024-08-13 03:14:47",
+            "pool_liquidity": 8107793037308501
+        }
+    ],
+    "0x000000422A649825bdA802b2C212c46127bd96Fd": [
+        {
+            "tx_hash": "0xd72222776318cba658dc3b7c875b43f330fa6c6140e7f0d994ee7161913e4416",
+            "user_address": "0x000000422A649825bdA802b2C212c46127bd96Fd",
+            "token0": "UNI",
+            "amount0": 6676323679193815298,
+            "token1": "WBTC",
+            "amount1": -69688,
+            "timestamp": "2024-08-13 05:16:23",
+            "pool_liquidity": 8107793037308501
+        }
+    ],
+    "0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13": [
+        {
+            "tx_hash": "0x200e245961aaea6c9c095edbeee247f3efa4ab9e4405f6e559fd1cc0156e1d88",
+            "user_address": "0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13",
+            "token0": "UNI",
+            "amount0": 44055071126906784670,
+            "token1": "WBTC",
+            "amount1": -459557,
+            "timestamp": "2024-08-13 06:14:11",
+            "pool_liquidity": 8107793037308501
+        }
+    ],
+    "0x41995207Fcf9372864b0f15534CB86Cc304F1587": [
+        {
+            "tx_hash": "0xb6a15bccbbf5ee2d9f9521489120cfd90516b15227fb61c574c9e4af6f6aea62",
+            "user_address": "0x41995207Fcf9372864b0f15534CB86Cc304F1587",
+            "token0": "UNI",
+            "amount0": 93531989569109524480,
+            "token1": "WBTC",
+            "amount1": -973985,
+            "timestamp": "2024-08-13 06:22:35",
+            "pool_liquidity": 8107793037308501
+        },
+        {
+            "tx_hash": "0xfc3c23bd199eaa4e12e4cbff407297d2390d03132632408c8d7c04d136b9fa5c",
+            "user_address": "0x41995207Fcf9372864b0f15534CB86Cc304F1587",
+            "token0": "UNI",
+            "amount0": 190681311915866554368,
+            "token1": "WBTC",
+            "amount1": -2799502,
+            "timestamp": "2024-06-24 08:56:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xa289bcfaf322cbf14d6dfa9dad50200a8cd1a6f8ea7b22ae3907842c9a998d51",
+            "user_address": "0x41995207Fcf9372864b0f15534CB86Cc304F1587",
+            "token0": "UNI",
+            "amount0": -183810574873656689543,
+            "token1": "WBTC",
+            "amount1": 2827187,
+            "timestamp": "2024-06-25 04:54:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x50f569ca746ed67af5696d7cdb1b190098c6e51f4e40992277d934174556e040",
+            "user_address": "0x41995207Fcf9372864b0f15534CB86Cc304F1587",
+            "token0": "UNI",
+            "amount0": 146070027429095063552,
+            "token1": "WBTC",
+            "amount1": -2246864,
+            "timestamp": "2024-06-27 00:02:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x09a9cf305e29304420fe198b7161d4c02b14f64e34a2d86a1b751de66e2ab6d0",
+            "user_address": "0x41995207Fcf9372864b0f15534CB86Cc304F1587",
+            "token0": "UNI",
+            "amount0": -215702862291668806457,
+            "token1": "WBTC",
+            "amount1": 3228292,
+            "timestamp": "2024-06-18 09:35:11",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xF9DD6fC91f26Ade2050a89F324dE5d64De2AD99a": [
+        {
+            "tx_hash": "0x1735a35c45d399eca5d05f318a5c9374b63dbf9b46ecda643c9528d4333fece4",
+            "user_address": "0xF9DD6fC91f26Ade2050a89F324dE5d64De2AD99a",
+            "token0": "UNI",
+            "amount0": 67180737696035889152,
+            "token1": "WBTC",
+            "amount1": -698168,
+            "timestamp": "2024-08-13 07:54:11",
+            "pool_liquidity": 8107793037308501
+        },
+        {
+            "tx_hash": "0xe375ab2b90e3d9286ee1d60e38146fc57155ab610d0640f42d4e50299df2ccfd",
+            "user_address": "0xF9DD6fC91f26Ade2050a89F324dE5d64De2AD99a",
+            "token0": "UNI",
+            "amount0": 159254994690675179520,
+            "token1": "WBTC",
+            "amount1": -2402464,
+            "timestamp": "2024-06-24 05:13:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xb4627944a7c5d0fda13cd595b67ea1a467dc7be4216be24cdec114fa040feae6",
+            "user_address": "0xF9DD6fC91f26Ade2050a89F324dE5d64De2AD99a",
+            "token0": "UNI",
+            "amount0": -150062540010292094111,
+            "token1": "WBTC",
+            "amount1": 2313032,
+            "timestamp": "2024-06-26 02:18:59",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x0cAEde3439f86f6E048869EAF8b458fD4cD046aB": [
+        {
+            "tx_hash": "0xd9f49311db9e7713883557f4faa9f6f5cc484eaf128e2400a794c64397e8ebda",
+            "user_address": "0x0cAEde3439f86f6E048869EAF8b458fD4cD046aB",
+            "token0": "UNI",
+            "amount0": 24900600000000000000,
+            "token1": "WBTC",
+            "amount1": -312089,
+            "timestamp": "2024-07-17 03:41:59",
+            "pool_liquidity": 17803483921813565
+        }
+    ],
+    "0x65Fb9DB5fC926eB22aC5ae86e74242e0df44718c": [
+        {
+            "tx_hash": "0x4c028efe2dcd918a86d9d3a5467c1aa8f1c69b493a1079366ad292172f56fe38",
+            "user_address": "0x65Fb9DB5fC926eB22aC5ae86e74242e0df44718c",
+            "token0": "UNI",
+            "amount0": 72904927028229373952,
+            "token1": "WBTC",
+            "amount1": -837616,
+            "timestamp": "2024-07-24 14:46:35",
+            "pool_liquidity": 17803483921813565
+        }
+    ],
+    "0x047103830bC29b593ed2f48e5a29f93afc66E399": [
+        {
+            "tx_hash": "0x700194924037c25959c4c826faa19d7a0b67e89a7dd163388d04cfddcf08ae60",
+            "user_address": "0x047103830bC29b593ed2f48e5a29f93afc66E399",
+            "token0": "UNI",
+            "amount0": 77023660366581830712,
+            "token1": "WBTC",
+            "amount1": -843752,
+            "timestamp": "2024-08-02 11:13:35",
+            "pool_liquidity": 8098243995576145
+        }
+    ],
+    "0xa06C3c08A19e51B33309edDFb356c33EAD8517A3": [
+        {
+            "tx_hash": "0x3c12b04a04c030cacafe9f83f6e938f629065b6bed011400d56aa2a2f0b989c5",
+            "user_address": "0xa06C3c08A19e51B33309edDFb356c33EAD8517A3",
+            "token0": "UNI",
+            "amount0": -12630725445853148733,
+            "token1": "WBTC",
+            "amount1": 133698,
+            "timestamp": "2024-08-02 18:54:35",
+            "pool_liquidity": 8098243995576145
+        }
+    ],
+    "0xbF7a18C881e971041fCB0D57a679e8944C742edF": [
+        {
+            "tx_hash": "0xa99962e9e06ee8c3d105b483b2e4758c3a592ac148771b7f7d84a768e919f727",
+            "user_address": "0xbF7a18C881e971041fCB0D57a679e8944C742edF",
+            "token0": "UNI",
+            "amount0": 132359975016855863296,
+            "token1": "WBTC",
+            "amount1": -1429779,
+            "timestamp": "2024-08-03 13:51:47",
+            "pool_liquidity": 8107793037308501
+        },
+        {
+            "tx_hash": "0xd4889caf72a7644c3cc30a060f7bb5234fd09bb0f9af4cc6ed32484f8272337b",
+            "user_address": "0xbF7a18C881e971041fCB0D57a679e8944C742edF",
+            "token0": "UNI",
+            "amount0": 315941205597516988416,
+            "token1": "WBTC",
+            "amount1": -4653164,
+            "timestamp": "2024-06-24 19:30:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xb095344b048cd09ae6e8de0df0d96ac8ff388b1ad20e103386d78f46ce2d2fb7",
+            "user_address": "0xbF7a18C881e971041fCB0D57a679e8944C742edF",
+            "token0": "UNI",
+            "amount0": 165946957611160174592,
+            "token1": "WBTC",
+            "amount1": -2536801,
+            "timestamp": "2024-06-26 08:18:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xc335fb577871ea6b93d56a40d9af3ce85a6cb820c1abc53ed1769e10375b4574",
+            "user_address": "0xbF7a18C881e971041fCB0D57a679e8944C742edF",
+            "token0": "UNI",
+            "amount0": 351722878728183873536,
+            "token1": "WBTC",
+            "amount1": -5821917,
+            "timestamp": "2024-06-17 18:46:35",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x81b99aa16b0c205ef5a2128115fa41b24627b415c4ebf263989b8bb9c37f8cf9",
+            "user_address": "0xbF7a18C881e971041fCB0D57a679e8944C742edF",
+            "token0": "UNI",
+            "amount0": -260284210140991785010,
+            "token1": "WBTC",
+            "amount1": 3908480,
+            "timestamp": "2024-06-18 09:35:59",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x0000000000bAEE80cBc27085A5249E1bc93B6Af0": [
+        {
+            "tx_hash": "0x1d6b29cc478dcc542d5f37a46e5eb7c37664a4c71b05458b634908af697a3051",
+            "user_address": "0x0000000000bAEE80cBc27085A5249E1bc93B6Af0",
+            "token0": "UNI",
+            "amount0": 3262126417673978510,
+            "token1": "WBTC",
+            "amount1": -35579,
+            "timestamp": "2024-08-04 04:43:11",
+            "pool_liquidity": 8107793037308501
+        }
+    ],
+    "0xfc9928F6590D853752824B0B403A6AE36785e535": [
+        {
+            "tx_hash": "0xe9681936d5505013ebda52cb09e090071618de2a42f181e651b6544cd7e8ab6f",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": 2621922833578233338,
+            "token1": "WBTC",
+            "amount1": -28595,
+            "timestamp": "2024-08-04 05:11:59",
+            "pool_liquidity": 8107793037308501
+        },
+        {
+            "tx_hash": "0x8d5c3b67dde9e1579761d413abcc78bea1a39255244e04ad31ee75eb623d45fe",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": 6867841578543071393,
+            "token1": "WBTC",
+            "amount1": -71704,
+            "timestamp": "2024-08-13 00:42:35",
+            "pool_liquidity": 8107793037308501
+        },
+        {
+            "tx_hash": "0x836106abcfe396bb6f2a16f9cce3cfb26709bce870792ca8904ab1550f11f4fb",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -36864745813957410816,
+            "token1": "WBTC",
+            "amount1": 571986,
+            "timestamp": "2024-06-24 00:59:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x121c1ea76d97c3e91a83b10c8405a4c4f7abd4f86a2fa76596b43e998275f08d",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -17256905903559409664,
+            "token1": "WBTC",
+            "amount1": 258956,
+            "timestamp": "2024-06-24 05:31:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x121c1ea76d97c3e91a83b10c8405a4c4f7abd4f86a2fa76596b43e998275f08d",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -11950712536518623232,
+            "token1": "WBTC",
+            "amount1": 179369,
+            "timestamp": "2024-06-24 05:31:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xe78035e87059358eb5c6667f29589905cfbebade2488dc3421edee5b13df5c17",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": 9515215860757245170,
+            "token1": "WBTC",
+            "amount1": -146515,
+            "timestamp": "2024-06-24 23:49:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xe78035e87059358eb5c6667f29589905cfbebade2488dc3421edee5b13df5c17",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": 9241340808345275803,
+            "token1": "WBTC",
+            "amount1": -142279,
+            "timestamp": "2024-06-24 23:49:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x3f321ac25006da86eaa782a761e672c06d4d884f8248946231aedf5812c37f99",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": 40936085110509627722,
+            "token1": "WBTC",
+            "amount1": -571828,
+            "timestamp": "2024-07-08 08:19:59",
+            "pool_liquidity": 17800703656544704
+        },
+        {
+            "tx_hash": "0x7f4d533dd893482f9d18aa85ce538f5c03443a6bbf97b44dcfd454e4cadb3f1b",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -13942467014032359424,
+            "token1": "WBTC",
+            "amount1": 223272,
+            "timestamp": "2024-06-17 23:53:23",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x7f4d533dd893482f9d18aa85ce538f5c03443a6bbf97b44dcfd454e4cadb3f1b",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -19998227548268920832,
+            "token1": "WBTC",
+            "amount1": 320326,
+            "timestamp": "2024-06-17 23:53:23",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x17660e21086d8e7283122be35b42e7ff977ec7590f22350f746a63980451094b",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -17218153251166224384,
+            "token1": "WBTC",
+            "amount1": 265590,
+            "timestamp": "2024-06-18 02:29:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xc7d49c7046a7b377ab2edf11f2757cba92353fb95d3884c07894dd128063ae17",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -8257680320027951104,
+            "token1": "WBTC",
+            "amount1": 124938,
+            "timestamp": "2024-06-18 03:34:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xc6B9EFD99763cbbAb529A834B6D04137D0E380e7": [
+        {
+            "tx_hash": "0x8f06dce976580cc47fcc204937a334ea40a016b98c842e17086767bb3ae258c7",
+            "user_address": "0xc6B9EFD99763cbbAb529A834B6D04137D0E380e7",
+            "token0": "UNI",
+            "amount0": -46993730116207911651,
+            "token1": "WBTC",
+            "amount1": 467257,
+            "timestamp": "2024-08-06 00:04:59",
+            "pool_liquidity": 2274432632309278
+        },
+        {
+            "tx_hash": "0x4462987e62d83d8a4aa727532b9694e13172ea8524c88ead73d67527ccacda4d",
+            "user_address": "0xc6B9EFD99763cbbAb529A834B6D04137D0E380e7",
+            "token0": "UNI",
+            "amount0": 213912473129030057984,
+            "token1": "WBTC",
+            "amount1": -3195098,
+            "timestamp": "2024-06-24 05:31:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xa86e63b62fcafeab0da6c73eac61b7d56f95a071b3b39836fd80ec411c61ccbf",
+            "user_address": "0xc6B9EFD99763cbbAb529A834B6D04137D0E380e7",
+            "token0": "UNI",
+            "amount0": 207920204544895680512,
+            "token1": "WBTC",
+            "amount1": -3049666,
+            "timestamp": "2024-06-24 08:11:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x88ac69ddf28b3be524c2b817bb346ebb707af6afd3c56b55f0f8d544a58b06b5",
+            "user_address": "0xc6B9EFD99763cbbAb529A834B6D04137D0E380e7",
+            "token0": "UNI",
+            "amount0": 259652170801635393536,
+            "token1": "WBTC",
+            "amount1": -3876434,
+            "timestamp": "2024-06-18 11:13:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x5e1eecaf1c1ba356d3d6bc259cb46e87face64b980033504d69e435332c2a25e",
+            "user_address": "0xc6B9EFD99763cbbAb529A834B6D04137D0E380e7",
+            "token0": "UNI",
+            "amount0": -535516872706245406850,
+            "token1": "WBTC",
+            "amount1": 8813649,
+            "timestamp": "2024-06-17 16:22:11",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x424d3f5f19c4eaa995d3e514af808e5f615b0e932e29949d14f492be27ec4e21",
+            "user_address": "0xc6B9EFD99763cbbAb529A834B6D04137D0E380e7",
+            "token0": "UNI",
+            "amount0": -197043553682903063581,
+            "token1": "WBTC",
+            "amount1": 3147613,
+            "timestamp": "2024-06-18 01:03:23",
+            "pool_liquidity": 17513661325986508
+        }
+    ],
+    "0x4E0fb94480f579F136832EE9542d67D92Bfe8Dd1": [
+        {
+            "tx_hash": "0x48af9de1164a7ca08499de592ad8adcb7a180dfa3e1498fbd85327348204d9e2",
+            "user_address": "0x4E0fb94480f579F136832EE9542d67D92Bfe8Dd1",
+            "token0": "UNI",
+            "amount0": -70681370311600944079,
+            "token1": "WBTC",
+            "amount1": 706418,
+            "timestamp": "2024-08-06 00:20:47",
+            "pool_liquidity": 2274432632309278
+        },
+        {
+            "tx_hash": "0x6331712764a6bd60409e8bc853ccaa2bba809e40b0b44c6120822d75af48b000",
+            "user_address": "0x4E0fb94480f579F136832EE9542d67D92Bfe8Dd1",
+            "token0": "UNI",
+            "amount0": -245472941263806423179,
+            "token1": "WBTC",
+            "amount1": 4094006,
+            "timestamp": "2024-06-17 12:47:23",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x7fc16d4bda68ff641adc6d986f36ac609c4fc704b4280cc16dadcb34397f8147",
+            "user_address": "0x4E0fb94480f579F136832EE9542d67D92Bfe8Dd1",
+            "token0": "UNI",
+            "amount0": 203789156422896910336,
+            "token1": "WBTC",
+            "amount1": -3052281,
+            "timestamp": "2024-06-18 10:39:47",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xbf54079c9Bc879Ae4dD6BC79bCe11d3988fD9C2b": [
+        {
+            "tx_hash": "0xea287d5805e26ccbf623afabbafa673c7ed323ac7a3e7e346cde6a6d8dffacf8",
+            "user_address": "0xbf54079c9Bc879Ae4dD6BC79bCe11d3988fD9C2b",
+            "token0": "UNI",
+            "amount0": 39583620647998685917,
+            "token1": "WBTC",
+            "amount1": -407992,
+            "timestamp": "2024-08-06 08:57:35",
+            "pool_liquidity": 8107793037308501
+        }
+    ],
+    "0x17222617419e584D61034e1a6d7cf28E8F861F63": [
+        {
+            "tx_hash": "0xb729605aa4fed2b47c5c1328ae0ea0a8d4f29a5cff699c70ab7681211b4fb857",
+            "user_address": "0x17222617419e584D61034e1a6d7cf28E8F861F63",
+            "token0": "UNI",
+            "amount0": 4451955180288890953,
+            "token1": "WBTC",
+            "amount1": -48365,
+            "timestamp": "2024-08-15 00:58:11",
+            "pool_liquidity": 8107793037308501
+        }
+    ],
+    "0x0CA5Dc4c3b675B441229fc1D8e8b5ad912588e5e": [
+        {
+            "tx_hash": "0xa6691896b268f88a5064882464d28cd143f08bbdf9f038e71872be9a8a1cb62d",
+            "user_address": "0x0CA5Dc4c3b675B441229fc1D8e8b5ad912588e5e",
+            "token0": "UNI",
+            "amount0": 87755177049498730496,
+            "token1": "WBTC",
+            "amount1": -885693,
+            "timestamp": "2024-08-09 02:59:35",
+            "pool_liquidity": 8107793037308501
+        },
+        {
+            "tx_hash": "0xafca0d867a28d0085e4749dd7913fb96d95f5327e74ff433e6d4e55a9946c005",
+            "user_address": "0x0CA5Dc4c3b675B441229fc1D8e8b5ad912588e5e",
+            "token0": "UNI",
+            "amount0": 153917202120288370688,
+            "token1": "WBTC",
+            "amount1": -2336320,
+            "timestamp": "2024-06-24 04:17:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xe52fd89492f134c626ae7666efa930df080f4a40b0e704b877eba82672c1760b",
+            "user_address": "0x0CA5Dc4c3b675B441229fc1D8e8b5ad912588e5e",
+            "token0": "UNI",
+            "amount0": -265130419714421336903,
+            "token1": "WBTC",
+            "amount1": 4065054,
+            "timestamp": "2024-06-25 04:50:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xcc18735beaf55748b7f2d6acb7439dac55acee86c6d26a13b6c1603a1553d6bb",
+            "user_address": "0x0CA5Dc4c3b675B441229fc1D8e8b5ad912588e5e",
+            "token0": "UNI",
+            "amount0": 264664891910088785920,
+            "token1": "WBTC",
+            "amount1": -4422053,
+            "timestamp": "2024-06-17 15:22:59",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0xb144c6e5e39fef70b39e5cc2c89b338ca405c25d3c207027b9e03667884018cf",
+            "user_address": "0x0CA5Dc4c3b675B441229fc1D8e8b5ad912588e5e",
+            "token0": "UNI",
+            "amount0": 438055366500943593472,
+            "token1": "WBTC",
+            "amount1": -6544048,
+            "timestamp": "2024-06-18 09:04:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x12bbca6e08f4657fd4dd7c61d057b95e1f2088113be283c9a18abf9033f7e66f",
+            "user_address": "0x0CA5Dc4c3b675B441229fc1D8e8b5ad912588e5e",
+            "token0": "UNI",
+            "amount0": 235541212250890403840,
+            "token1": "WBTC",
+            "amount1": -3696332,
+            "timestamp": "2024-06-18 01:35:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x77edfcf3d859b2c0a2fb55eee5adbe06cbc23bab95af79d5f5e2bb3c7aa6d866",
+            "user_address": "0x0CA5Dc4c3b675B441229fc1D8e8b5ad912588e5e",
+            "token0": "UNI",
+            "amount0": -140058950231492868677,
+            "token1": "WBTC",
+            "amount1": 2146908,
+            "timestamp": "2024-06-26 04:21:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xeD57cD1f7AD81c2F3505448e0d8d271afD5f7f35": [
+        {
+            "tx_hash": "0xe0f1ea6b6c523291a6220c0c4ed088ec471a911895d707e58fde179d3b1fddeb",
+            "user_address": "0xeD57cD1f7AD81c2F3505448e0d8d271afD5f7f35",
+            "token0": "UNI",
+            "amount0": -3074396719985873070,
+            "token1": "WBTC",
+            "amount1": 31184,
+            "timestamp": "2024-08-09 03:39:11",
+            "pool_liquidity": 8107793037308501
+        }
+    ],
+    "0x77777D91c0B8Ec9984a05302E4Ef041dcCf77FeE": [
+        {
+            "tx_hash": "0x9cb7bc6057dc40239e3265a98002f855ceb3520ee7482c09d36d5db195b830ac",
+            "user_address": "0x77777D91c0B8Ec9984a05302E4Ef041dcCf77FeE",
+            "token0": "UNI",
+            "amount0": 41088855565116088942,
+            "token1": "WBTC",
+            "amount1": -429249,
+            "timestamp": "2024-08-13 00:31:47",
+            "pool_liquidity": 8107793037308501
+        }
+    ],
+    "0x4FA75ea1571010B0b6327FC39101Be4BAEC37cce": [
+        {
+            "tx_hash": "0x0f0fd0206a5b2bca20757f0aa939f85dc01bd2151be24d58fc16f74a490fada8",
+            "user_address": "0x4FA75ea1571010B0b6327FC39101Be4BAEC37cce",
+            "token0": "UNI",
+            "amount0": 132946396263752089600,
+            "token1": "WBTC",
+            "amount1": -2051805,
+            "timestamp": "2024-06-23 22:31:35",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x5EC4eBA528C8eB8477aE9Ec625555f412a710c9F": [
+        {
+            "tx_hash": "0x3eb9bce9632244894c2623446d267d838bf3a21478c82a5d462cee040cdcdcbf",
+            "user_address": "0x5EC4eBA528C8eB8477aE9Ec625555f412a710c9F",
+            "token0": "UNI",
+            "amount0": 149625973535536447488,
+            "token1": "WBTC",
+            "amount1": -2305818,
+            "timestamp": "2024-06-24 01:21:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x48fb4e437f736bae37890589307396d3c6dfd271a2a71528792905439c635d4f",
+            "user_address": "0x5EC4eBA528C8eB8477aE9Ec625555f412a710c9F",
+            "token0": "UNI",
+            "amount0": 276045497547461197824,
+            "token1": "WBTC",
+            "amount1": -4035919,
+            "timestamp": "2024-06-24 14:49:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x81e715fd628ded4c742bb992a7f38c431fe40e231c2d76f785344bc06ea6d717",
+            "user_address": "0x5EC4eBA528C8eB8477aE9Ec625555f412a710c9F",
+            "token0": "UNI",
+            "amount0": -396714744533714219595,
+            "token1": "WBTC",
+            "amount1": 6665734,
+            "timestamp": "2024-06-17 17:45:35",
+            "pool_liquidity": 17513661325986508
+        }
+    ],
+    "0x6e1227282D945b98E6e6e6C2c0fCfa33bBe22cAD": [
+        {
+            "tx_hash": "0xc1ebc7c50f3539c78a8c69e4ba89f696d00150c470d3b29228822dd123c0836c",
+            "user_address": "0x6e1227282D945b98E6e6e6C2c0fCfa33bBe22cAD",
+            "token0": "UNI",
+            "amount0": 165918421485720567808,
+            "token1": "WBTC",
+            "amount1": -2551194,
+            "timestamp": "2024-06-24 02:14:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xa5beb135a2cc0d800938d8aba19f007f044fd6cca671349f1dd669cf8753a27c",
+            "user_address": "0x6e1227282D945b98E6e6e6C2c0fCfa33bBe22cAD",
+            "token0": "UNI",
+            "amount0": 222288135764935376896,
+            "token1": "WBTC",
+            "amount1": -3254250,
+            "timestamp": "2024-06-24 09:01:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x21efa93cb5ea2d9e907bc5bcba2f97a981480ea44e44dbd767405b5134432d24",
+            "user_address": "0x6e1227282D945b98E6e6e6C2c0fCfa33bBe22cAD",
+            "token0": "UNI",
+            "amount0": -162098289391538468046,
+            "token1": "WBTC",
+            "amount1": 2458680,
+            "timestamp": "2024-06-24 22:42:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xf52ea44ae81156ce7d3f181d10671ac63cbfdda4b3d7a1419509d004030d2691",
+            "user_address": "0x6e1227282D945b98E6e6e6C2c0fCfa33bBe22cAD",
+            "token0": "UNI",
+            "amount0": 304877711350835249152,
+            "token1": "WBTC",
+            "amount1": -4827455,
+            "timestamp": "2024-06-18 00:41:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x3a367acc4b899d6d29514c8c628896480255db49671bcc23312977b52104eb5f",
+            "user_address": "0x6e1227282D945b98E6e6e6C2c0fCfa33bBe22cAD",
+            "token0": "UNI",
+            "amount0": 237131482246670483456,
+            "token1": "WBTC",
+            "amount1": -3585868,
+            "timestamp": "2024-06-18 03:23:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x47b3ddc1307afedc5f3e5a3a303a2ec4ed10c6b992b1c6a27c8a6807162eab42",
+            "user_address": "0x6e1227282D945b98E6e6e6C2c0fCfa33bBe22cAD",
+            "token0": "UNI",
+            "amount0": -212570028523640623962,
+            "token1": "WBTC",
+            "amount1": 3229584,
+            "timestamp": "2024-06-18 04:20:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xc093612a7f1c2c5a5e90c592237135225c193433dc7fb044abbb4751175f1e19",
+            "user_address": "0x6e1227282D945b98E6e6e6C2c0fCfa33bBe22cAD",
+            "token0": "UNI",
+            "amount0": -252087094329529694543,
+            "token1": "WBTC",
+            "amount1": 3859002,
+            "timestamp": "2024-06-27 04:57:35",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819": [
+        {
+            "tx_hash": "0xd9c5db97462aaed6d72948a92280894c47c838b47294732c97810750a3595521",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": 129849062120563638272,
+            "token1": "WBTC",
+            "amount1": -1992416,
+            "timestamp": "2024-06-24 02:21:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xa56d7c821620f7663ace316ddbb5b568a860c2c2a26701ad722cd0c20c24e484",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": 149476476319024545792,
+            "token1": "WBTC",
+            "amount1": -2208148,
+            "timestamp": "2024-06-24 06:02:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x97502be9f4302111158d76f3819ccc2f2f8dc635d226b7fb3069f0e826c36610",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": -439140816540707730821,
+            "token1": "WBTC",
+            "amount1": 6442911,
+            "timestamp": "2024-06-24 16:34:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x4d2f53805957c42489cc492b87a7211f166da0b8f0e811e62978121a669b4158",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": 193976543820697075712,
+            "token1": "WBTC",
+            "amount1": -2886810,
+            "timestamp": "2024-06-18 11:19:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x308ef7e1bf85f6a45b698e815350d78e3e81f860d3fe60fbf1173ed39b4e1ed4",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": 385072826702450982912,
+            "token1": "WBTC",
+            "amount1": -6408534,
+            "timestamp": "2024-06-17 18:24:47",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0xf1af9a8568ab6e95c5226980d0d2ae18ada45a4354b341f2f9991b2ed0d25fcc",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": 181677542767130542080,
+            "token1": "WBTC",
+            "amount1": -2738647,
+            "timestamp": "2024-06-18 07:34:47",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x2A91d154CDCdf08A553017afDcdea398C8b706a6": [
+        {
+            "tx_hash": "0xdd172c99d49f67d770f8410a1f75f83528bd06d73179cd5a53c43b83a1c33d5c",
+            "user_address": "0x2A91d154CDCdf08A553017afDcdea398C8b706a6",
+            "token0": "UNI",
+            "amount0": -357714869057845844082,
+            "token1": "WBTC",
+            "amount1": 5254453,
+            "timestamp": "2024-06-24 09:35:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x0Fc06977378fd94aa23Af24ee75B993C265c140B": [
+        {
+            "tx_hash": "0x9d7bbf176c75b19af6f98268783df584d6c1a7e4dfd68b2885d28a4325d2d5ba",
+            "user_address": "0x0Fc06977378fd94aa23Af24ee75B993C265c140B",
+            "token0": "UNI",
+            "amount0": -333454962395367766356,
+            "token1": "WBTC",
+            "amount1": 4921576,
+            "timestamp": "2024-06-24 09:45:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xfb728bc6f026b1a84020c4a7c004bb9bee5a9ad3fac78b7953eddcce7540f3b9",
+            "user_address": "0x0Fc06977378fd94aa23Af24ee75B993C265c140B",
+            "token0": "UNI",
+            "amount0": 164167368818659328000,
+            "token1": "WBTC",
+            "amount1": -2414916,
+            "timestamp": "2024-06-24 12:00:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x85f56a4a332c5c9078cd9cf2751eb4b14423b1a5360e70726ad7ab875f3ed38f",
+            "user_address": "0x0Fc06977378fd94aa23Af24ee75B993C265c140B",
+            "token0": "UNI",
+            "amount0": -257429113095584467667,
+            "token1": "WBTC",
+            "amount1": 3786889,
+            "timestamp": "2024-06-24 13:25:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x40c1bce1ba5aaae2ea7526d7434b2cf65d39264f73e2219d31a860b0f06059f3",
+            "user_address": "0x0Fc06977378fd94aa23Af24ee75B993C265c140B",
+            "token0": "UNI",
+            "amount0": -417454706543554483165,
+            "token1": "WBTC",
+            "amount1": 6194892,
+            "timestamp": "2024-06-24 16:57:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x5d336081e6ceaadf98de7a1f17b8a201369bd3e35cc42b41f69064e96303c26f",
+            "user_address": "0x0Fc06977378fd94aa23Af24ee75B993C265c140B",
+            "token0": "UNI",
+            "amount0": -200911549777192849267,
+            "token1": "WBTC",
+            "amount1": 3380183,
+            "timestamp": "2024-06-17 13:47:47",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x52c45f689c5bd3e0a1e31bd04f1777af714491735f95d240256afbef30be5496",
+            "user_address": "0x0Fc06977378fd94aa23Af24ee75B993C265c140B",
+            "token0": "UNI",
+            "amount0": -362588566337615202392,
+            "token1": "WBTC",
+            "amount1": 5928539,
+            "timestamp": "2024-06-17 16:21:23",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0xbcebbdabbb0c64cc6bcd2938f592cf8e5affa5fae1c1c99db994f6591d23eac7",
+            "user_address": "0x0Fc06977378fd94aa23Af24ee75B993C265c140B",
+            "token0": "UNI",
+            "amount0": -253681527232227467727,
+            "token1": "WBTC",
+            "amount1": 4242023,
+            "timestamp": "2024-06-17 17:35:35",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x679de9d116dd574bbdfbee5faed01afcff4dfd42ed6dcc71b39ca7fb7e681ee0",
+            "user_address": "0x0Fc06977378fd94aa23Af24ee75B993C265c140B",
+            "token0": "UNI",
+            "amount0": 240415112565907685376,
+            "token1": "WBTC",
+            "amount1": -3911297,
+            "timestamp": "2024-06-17 21:00:35",
+            "pool_liquidity": 17513661325986508
+        }
+    ],
+    "0x408613bA0Eaf85675999cD3729ea3cbff84a6b21": [
+        {
+            "tx_hash": "0x0e8048e3987e27031430219b747000f4e551ac7855249f711b5af9f978b86503",
+            "user_address": "0x408613bA0Eaf85675999cD3729ea3cbff84a6b21",
+            "token0": "UNI",
+            "amount0": -282143618644585806487,
+            "token1": "WBTC",
+            "amount1": 4182066,
+            "timestamp": "2024-06-24 09:54:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x49ad51cbd66d01f513145bbe18f059c48546eac5747546b5273e6f96c9d47716",
+            "user_address": "0x408613bA0Eaf85675999cD3729ea3cbff84a6b21",
+            "token0": "UNI",
+            "amount0": -209179671378875667951,
+            "token1": "WBTC",
+            "amount1": 3184952,
+            "timestamp": "2024-06-25 17:57:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x2d26e2fd32968da7706b302ae79453d1c0508815eb7aab252d26d14d4b0958ba",
+            "user_address": "0x408613bA0Eaf85675999cD3729ea3cbff84a6b21",
+            "token0": "UNI",
+            "amount0": -225508242292845157910,
+            "token1": "WBTC",
+            "amount1": 3457159,
+            "timestamp": "2024-06-25 19:15:47",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x8686301A430112D76FeF8331821aEf42c8c48686": [
+        {
+            "tx_hash": "0x3337993ded92f5fcedf2271de24d987a4f191844b7b0a6c4d8bfb5b9e7ed4314",
+            "user_address": "0x8686301A430112D76FeF8331821aEf42c8c48686",
+            "token0": "UNI",
+            "amount0": -164599593661598977053,
+            "token1": "WBTC",
+            "amount1": 2447355,
+            "timestamp": "2024-06-24 11:05:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x93c01efe9a7c3ac412dce4be60911d697ac96000a6a3446244714c28508ddf3d",
+            "user_address": "0x8686301A430112D76FeF8331821aEf42c8c48686",
+            "token0": "UNI",
+            "amount0": -360150412510113138811,
+            "token1": "WBTC",
+            "amount1": 5429391,
+            "timestamp": "2024-06-24 22:09:11",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9": [
+        {
+            "tx_hash": "0x7105fe993751cac700bc7b2c2a16fe1a090e77019b2e9974ba89e839b312cbcc",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": 175471232469209677824,
+            "token1": "WBTC",
+            "amount1": -2593182,
+            "timestamp": "2024-06-24 11:33:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xfeec9e2d93a89c97ef9881c211632c97f3b1f1533501408e30990d125c6732d4",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": -274547480515538271832,
+            "token1": "WBTC",
+            "amount1": 4004569,
+            "timestamp": "2024-06-24 16:14:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x76233408a382496b8c8cede1247f6e198531016cc99b7aeaf7a5cf3e0ee43a6a",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": 161372755550156980224,
+            "token1": "WBTC",
+            "amount1": -2469217,
+            "timestamp": "2024-06-25 02:18:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x6b74bc109a78cabe13b271dee8b88e9d7e5622b2afcd71291a5fc419b0277164",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": 235274456879873032192,
+            "token1": "WBTC",
+            "amount1": -3478360,
+            "timestamp": "2024-06-24 18:56:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x06c48e0f17c4264950afa0c76fffb47c703e42cdc87bb6d7b400cfc86f9f894c",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": 290627607682222063616,
+            "token1": "WBTC",
+            "amount1": -4409705,
+            "timestamp": "2024-06-25 02:34:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xa0168f20a387cd2884d540e72b8da3dd87630665133f52553b60b50dcb5928c0",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": 223331342647284924416,
+            "token1": "WBTC",
+            "amount1": -3401262,
+            "timestamp": "2024-06-25 14:18:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x593894a726e5c5c033714b293f9af059dfc31f21f0befe56a13d974df3bd1380",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": 347908642621927653376,
+            "token1": "WBTC",
+            "amount1": -5332341,
+            "timestamp": "2024-06-25 08:40:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x28d5979cdc62eb4dddc41c2692dcdbd73020e93857b123972d5d6e783df4d2da",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": 266539644650881646592,
+            "token1": "WBTC",
+            "amount1": -4352347,
+            "timestamp": "2024-06-17 20:47:35",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x40fd390df757dcae8d07fad2f750d41908fc59e797da6b529b18d57e8513689a",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": 279319121835391123456,
+            "token1": "WBTC",
+            "amount1": -4685663,
+            "timestamp": "2024-06-17 14:50:59",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x8a8af5f6e5fe6848296a4b4da6a9f1835f033e3761e5f462cfc4dbc46539520c",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": 336030977689007620096,
+            "token1": "WBTC",
+            "amount1": -5047103,
+            "timestamp": "2024-06-18 08:02:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xc343e091959ddd6955838828771aa92a7fc5c0b82db0c3d854d0c016c85ef3ac",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": -632279583842628947105,
+            "token1": "WBTC",
+            "amount1": 9680561,
+            "timestamp": "2024-06-18 01:46:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x3092400d0a6fcd4545aefa8ec1ae9a651be877cbe045247612cfca6c2a469556",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": -672360541795415626462,
+            "token1": "WBTC",
+            "amount1": 10389632,
+            "timestamp": "2024-06-18 01:47:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x28b2c9ae82137a6249caf3c0e6a012aa23e9b616c97c06345aa36470f6f728a6",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": -453198799643686696420,
+            "token1": "WBTC",
+            "amount1": 6910083,
+            "timestamp": "2024-06-18 03:43:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xD530068Ae13De839B9D9f40364B780E9345422FE": [
+        {
+            "tx_hash": "0x43ed03618cb1c891cb614abbc4c0a7cbfde1588136cc954203cbfe0f0ff90b7f",
+            "user_address": "0xD530068Ae13De839B9D9f40364B780E9345422FE",
+            "token0": "UNI",
+            "amount0": 164772881514872832000,
+            "token1": "WBTC",
+            "amount1": -2429345,
+            "timestamp": "2024-06-24 11:55:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x356399816067bb0f675daff2763445577c521a245cf6b15941b2f8a6d0978203",
+            "user_address": "0xD530068Ae13De839B9D9f40364B780E9345422FE",
+            "token0": "UNI",
+            "amount0": -175170082269575163625,
+            "token1": "WBTC",
+            "amount1": 2650670,
+            "timestamp": "2024-06-24 22:38:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x4df115fe3a7c6e7ca6c1c8ea0469626be53e825d6ffecbae9819827be178df63",
+            "user_address": "0xD530068Ae13De839B9D9f40364B780E9345422FE",
+            "token0": "UNI",
+            "amount0": -200350171368717714980,
+            "token1": "WBTC",
+            "amount1": 3102003,
+            "timestamp": "2024-06-25 08:01:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xd7652b1a1750296c0b424cb3fbf5508345f01487304f4ee220629ef69fb53e19",
+            "user_address": "0xD530068Ae13De839B9D9f40364B780E9345422FE",
+            "token0": "UNI",
+            "amount0": 226426702941366124544,
+            "token1": "WBTC",
+            "amount1": -3459342,
+            "timestamp": "2024-06-25 13:08:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xb474f5572a1fa4dd72ba3c2381e3c8d9f82c9133a44fad2e98f252008c7fe586",
+            "user_address": "0xD530068Ae13De839B9D9f40364B780E9345422FE",
+            "token0": "UNI",
+            "amount0": 143224550467841622016,
+            "token1": "WBTC",
+            "amount1": -2183466,
+            "timestamp": "2024-06-27 00:48:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x76da88ceaa6c61e3759013f942126c55cc84009aba53e2337a33e80b1052d5a5",
+            "user_address": "0xD530068Ae13De839B9D9f40364B780E9345422FE",
+            "token0": "UNI",
+            "amount0": -333936140413479743301,
+            "token1": "WBTC",
+            "amount1": 5609968,
+            "timestamp": "2024-06-17 13:12:59",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x28af86135bb9c7659ddfe6c24e74b8e89349df9182b41bbf46a2dbc1382d058c",
+            "user_address": "0xD530068Ae13De839B9D9f40364B780E9345422FE",
+            "token0": "UNI",
+            "amount0": 231403389759982895104,
+            "token1": "WBTC",
+            "amount1": -3755237,
+            "timestamp": "2024-06-17 21:06:47",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0xe30ffa60201856caefe71483ce711e87551150eef9eb859f11e8d3f56498dd77",
+            "user_address": "0xD530068Ae13De839B9D9f40364B780E9345422FE",
+            "token0": "UNI",
+            "amount0": -229699459108314521207,
+            "token1": "WBTC",
+            "amount1": 3519201,
+            "timestamp": "2024-06-18 03:44:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x9FfDeBd64CfA0e59CFf3211000DBF869b57F6f6d": [
+        {
+            "tx_hash": "0x0bff38674f849cd0040e3aa352d1cd9263e6392e5f3364435768d098e85e6cc0",
+            "user_address": "0x9FfDeBd64CfA0e59CFf3211000DBF869b57F6f6d",
+            "token0": "UNI",
+            "amount0": 2910699199246609679,
+            "token1": "WBTC",
+            "amount1": -42767,
+            "timestamp": "2024-06-24 12:13:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xe2e71C4Bc2943A132914da31b598b923B09FF7D8": [
+        {
+            "tx_hash": "0x2f8b6df62859a1671dc756dcf4a6d7eed15c9a42ddb07056bb22a8345ca0b782",
+            "user_address": "0xe2e71C4Bc2943A132914da31b598b923B09FF7D8",
+            "token0": "UNI",
+            "amount0": 244418927686494420992,
+            "token1": "WBTC",
+            "amount1": -3573622,
+            "timestamp": "2024-06-24 12:40:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x121c34270c03c7ab36b4879de395d975520cc4f6495f78cb655ebf3dcaf922ce",
+            "user_address": "0xe2e71C4Bc2943A132914da31b598b923B09FF7D8",
+            "token0": "UNI",
+            "amount0": 203782787271114817536,
+            "token1": "WBTC",
+            "amount1": -3034953,
+            "timestamp": "2024-06-24 18:08:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xd1883e5d9e18d8d4bacd489577e2b8bbb6e016e74b15c21f8d331f6d49e48277",
+            "user_address": "0xe2e71C4Bc2943A132914da31b598b923B09FF7D8",
+            "token0": "UNI",
+            "amount0": -229521109022607739123,
+            "token1": "WBTC",
+            "amount1": 3483909,
+            "timestamp": "2024-06-25 17:49:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xa9481413a6b2402d946ee78c36cffc82c89aea95345c8327163d197403a759f0",
+            "user_address": "0xe2e71C4Bc2943A132914da31b598b923B09FF7D8",
+            "token0": "UNI",
+            "amount0": 289825053798030934016,
+            "token1": "WBTC",
+            "amount1": -4416852,
+            "timestamp": "2024-06-18 02:51:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xf7de31dd703ada5444187280b710146ade1754459ff0567ac8f87bd61762fbe9",
+            "user_address": "0xe2e71C4Bc2943A132914da31b598b923B09FF7D8",
+            "token0": "UNI",
+            "amount0": 255912152320542375936,
+            "token1": "WBTC",
+            "amount1": -3863633,
+            "timestamp": "2024-06-18 04:30:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x657ed4a092a5292394ca0ad00fc0e156989d58b87411b701bd5f237bf802ff57",
+            "user_address": "0xe2e71C4Bc2943A132914da31b598b923B09FF7D8",
+            "token0": "UNI",
+            "amount0": -123301361862666119825,
+            "token1": "WBTC",
+            "amount1": 1893556,
+            "timestamp": "2024-06-26 04:55:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x188c91DAa2dd6B99331a65F87bE6F9b0F18F218f": [
+        {
+            "tx_hash": "0xc8e43d4b9c5b0a7c60858938269236e8b084f0c0915b49fdf8a429f7e26d6b09",
+            "user_address": "0x188c91DAa2dd6B99331a65F87bE6F9b0F18F218f",
+            "token0": "UNI",
+            "amount0": 154601355524946165760,
+            "token1": "WBTC",
+            "amount1": -2341628,
+            "timestamp": "2024-06-24 04:31:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x165a7b00dd89d8c675ce500e4fccf3c01ed71a60657b4eb00a8f5b191ca9cb52",
+            "user_address": "0x188c91DAa2dd6B99331a65F87bE6F9b0F18F218f",
+            "token0": "UNI",
+            "amount0": 165631005960027111424,
+            "token1": "WBTC",
+            "amount1": -2450553,
+            "timestamp": "2024-06-24 05:44:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x9854e8964b972d8eb68de42d58875e879f5710d7b3d72c5c70b5030dfbb1d5c9",
+            "user_address": "0x188c91DAa2dd6B99331a65F87bE6F9b0F18F218f",
+            "token0": "UNI",
+            "amount0": 248117022458239483904,
+            "token1": "WBTC",
+            "amount1": -3614518,
+            "timestamp": "2024-06-24 15:35:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x07658e82b7b2396f8231b5d9ff8b6cd6a871fae251537c2436be6cc31b148e8d",
+            "user_address": "0x188c91DAa2dd6B99331a65F87bE6F9b0F18F218f",
+            "token0": "UNI",
+            "amount0": -248046298082784108630,
+            "token1": "WBTC",
+            "amount1": 3949666,
+            "timestamp": "2024-06-18 00:56:11",
+            "pool_liquidity": 17513661325986508
+        }
+    ],
+    "0x5eB81De97e7C97DDE69250E9a5c57331f0d189ed": [
+        {
+            "tx_hash": "0x125e5cef32b3ae72e459d4d919d960df6cce16af0e6a7d5abcde69caa9c693ee",
+            "user_address": "0x5eB81De97e7C97DDE69250E9a5c57331f0d189ed",
+            "token0": "UNI",
+            "amount0": 128995293153278164992,
+            "token1": "WBTC",
+            "amount1": -1949910,
+            "timestamp": "2024-06-24 05:04:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xc4f1778ec78ed4321543cb8a01e6dd0ee73da5631fe988b52c0cfdf467e7e066",
+            "user_address": "0x5eB81De97e7C97DDE69250E9a5c57331f0d189ed",
+            "token0": "UNI",
+            "amount0": 134687027115683315712,
+            "token1": "WBTC",
+            "amount1": -2007689,
+            "timestamp": "2024-06-24 05:35:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xd6cd5df5c2b317ea94f131518f82efea1fc2d804118d08b8210da1b62d778ebc",
+            "user_address": "0x5eB81De97e7C97DDE69250E9a5c57331f0d189ed",
+            "token0": "UNI",
+            "amount0": 223516616718235598848,
+            "token1": "WBTC",
+            "amount1": -3288215,
+            "timestamp": "2024-06-24 08:06:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x50e433b5c0c50a02a60c1249984a3303bb4d979ded40f5fe9617e8bd75260d7e",
+            "user_address": "0x5eB81De97e7C97DDE69250E9a5c57331f0d189ed",
+            "token0": "UNI",
+            "amount0": -125894912954483050153,
+            "token1": "WBTC",
+            "amount1": 1940634,
+            "timestamp": "2024-06-25 06:15:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xd5a809D6dbEe62A34Cf4106080C6e04B8d9ce285": [
+        {
+            "tx_hash": "0x5f9c84dff70032d8f3bc42d2f1db78f6260bfdbd56ae2c5f681120c6a6cfce71",
+            "user_address": "0xd5a809D6dbEe62A34Cf4106080C6e04B8d9ce285",
+            "token0": "UNI",
+            "amount0": 132043689913437765632,
+            "token1": "WBTC",
+            "amount1": -1987907,
+            "timestamp": "2024-06-24 05:16:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x30b91b5efe232355f763d1cb383cc717c046b3f4be15b0af0d4a616f809a4d40",
+            "user_address": "0xd5a809D6dbEe62A34Cf4106080C6e04B8d9ce285",
+            "token0": "UNI",
+            "amount0": 134970354863211560960,
+            "token1": "WBTC",
+            "amount1": -2028177,
+            "timestamp": "2024-06-24 05:22:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xf63cbbcff8cef7d9f4cef73de56bc1671e787d0ca8f750feef6ebc52c6902f77",
+            "user_address": "0xd5a809D6dbEe62A34Cf4106080C6e04B8d9ce285",
+            "token0": "UNI",
+            "amount0": 359589460854003269632,
+            "token1": "WBTC",
+            "amount1": -5216592,
+            "timestamp": "2024-06-24 15:46:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x75a8cdd0237d9cbcb42b8f28ce0fca029d5cc301af455337f0c28f6c2600aa33",
+            "user_address": "0xd5a809D6dbEe62A34Cf4106080C6e04B8d9ce285",
+            "token0": "UNI",
+            "amount0": -148294742880498214188,
+            "token1": "WBTC",
+            "amount1": 2290365,
+            "timestamp": "2024-06-25 07:38:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x01c875583b209c581f6c46679c69e57d5b32d4831dc9d805dc59bc970593c68f",
+            "user_address": "0xd5a809D6dbEe62A34Cf4106080C6e04B8d9ce285",
+            "token0": "UNI",
+            "amount0": -317750942955934689438,
+            "token1": "WBTC",
+            "amount1": 5291070,
+            "timestamp": "2024-06-17 17:22:47",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0xb252485709d99048a3e333a4b7a574e5af8efb6c2fa5927daffe7c1f0ef3556c",
+            "user_address": "0xd5a809D6dbEe62A34Cf4106080C6e04B8d9ce285",
+            "token0": "UNI",
+            "amount0": -262418382673631470376,
+            "token1": "WBTC",
+            "amount1": 4078326,
+            "timestamp": "2024-06-26 20:46:47",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8": [
+        {
+            "tx_hash": "0x23287112d282a759ecdf9f25f3302c0426fcd9521022622a4c2cd54a205e4eac",
+            "user_address": "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8",
+            "token0": "UNI",
+            "amount0": 127802640302683013120,
+            "token1": "WBTC",
+            "amount1": -1916947,
+            "timestamp": "2024-06-24 05:23:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xf736fa27205b69ae1986945c745d1a2f238cb93da7dc5d142bf4404d4abb90b5",
+            "user_address": "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8",
+            "token0": "UNI",
+            "amount0": 308414173446060244992,
+            "token1": "WBTC",
+            "amount1": -4576914,
+            "timestamp": "2024-06-24 18:38:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xf16ee97e0d6c14d452f87ac201be078476eee9bb91182a163aa1d60e0de6ce02",
+            "user_address": "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8",
+            "token0": "UNI",
+            "amount0": 343138214631242268672,
+            "token1": "WBTC",
+            "amount1": -5181403,
+            "timestamp": "2024-06-25 16:51:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x5d740ab13b82e0559b913556f03f855951b2dbfa6bb6e51fa2dbe0e31c1ef3fd",
+            "user_address": "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8",
+            "token0": "UNI",
+            "amount0": 151913071700949630976,
+            "token1": "WBTC",
+            "amount1": -2327503,
+            "timestamp": "2024-06-26 03:26:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x16df6caba66a6b6ac66f4f94de657c164b8d19e42de197f758702319c27993b9",
+            "user_address": "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8",
+            "token0": "UNI",
+            "amount0": -156305490964792824212,
+            "token1": "WBTC",
+            "amount1": 2412593,
+            "timestamp": "2024-06-25 11:05:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xf73658310c3942cba57804736c374e74fd49849c771e6e3659e306e0e6b3d1b2",
+            "user_address": "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8",
+            "token0": "UNI",
+            "amount0": 275635060123914895360,
+            "token1": "WBTC",
+            "amount1": -4214491,
+            "timestamp": "2024-06-27 00:23:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xb6b150651bceac5fb5a4fe43bac55f05737a54abdf2466eecfd77e26d397d3b1",
+            "user_address": "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8",
+            "token0": "UNI",
+            "amount0": 293909639905661943808,
+            "token1": "WBTC",
+            "amount1": -4846230,
+            "timestamp": "2024-06-17 15:32:23",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x7d1993f2bed4f44c1e3f7b77d12c2fdc981654e0eafb30252854463b4bac6ddd",
+            "user_address": "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8",
+            "token0": "UNI",
+            "amount0": 285956255968808599552,
+            "token1": "WBTC",
+            "amount1": -4297626,
+            "timestamp": "2024-06-18 10:18:47",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xCc9F0501f408D5b0e4Bf73c3422DE880F4CE279e": [
+        {
+            "tx_hash": "0xe7ada0b07ab354411057bc485b45bb23506618b39c0b285f7a61f4ce8d6f0662",
+            "user_address": "0xCc9F0501f408D5b0e4Bf73c3422DE880F4CE279e",
+            "token0": "UNI",
+            "amount0": 129949565708741836800,
+            "token1": "WBTC",
+            "amount1": -1945646,
+            "timestamp": "2024-06-24 05:23:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x048b8082444e670d669c6aea3db9b80f9f9390e9fa35de58407fd52689135b87",
+            "user_address": "0xCc9F0501f408D5b0e4Bf73c3422DE880F4CE279e",
+            "token0": "UNI",
+            "amount0": -120113802725539814078,
+            "token1": "WBTC",
+            "amount1": 1770921,
+            "timestamp": "2024-06-24 06:30:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x2f1afc5058ac27a2793f1c005d4e2a0274755bf898f321f10f06d6d3fe6dc348",
+            "user_address": "0xCc9F0501f408D5b0e4Bf73c3422DE880F4CE279e",
+            "token0": "UNI",
+            "amount0": 261037602133580939264,
+            "token1": "WBTC",
+            "amount1": -3808825,
+            "timestamp": "2024-06-24 09:05:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xf30205eef84bd23d2bd4db84194da44a580705f050ec22c23ce374671592f901",
+            "user_address": "0xCc9F0501f408D5b0e4Bf73c3422DE880F4CE279e",
+            "token0": "UNI",
+            "amount0": 333696793062070419456,
+            "token1": "WBTC",
+            "amount1": -5477082,
+            "timestamp": "2024-06-17 16:18:11",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x7f8571bf4cf95d55310353503a5199c27e0fa2729121490fefbf69667fe93065",
+            "user_address": "0xCc9F0501f408D5b0e4Bf73c3422DE880F4CE279e",
+            "token0": "UNI",
+            "amount0": 1047949673774554021888,
+            "token1": "WBTC",
+            "amount1": -16200421,
+            "timestamp": "2024-06-18 01:42:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x0bfc51ae6600ae2a377dfc0e38f71d2bd718c68045c2d46f8a83126e335923c8",
+            "user_address": "0xCc9F0501f408D5b0e4Bf73c3422DE880F4CE279e",
+            "token0": "UNI",
+            "amount0": 294680152164095098880,
+            "token1": "WBTC",
+            "amount1": -4509374,
+            "timestamp": "2024-06-18 02:42:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x0665c277ff049531f0ffde6c29701f053467a0ca4b1cff525e981561e97ad1e9",
+            "user_address": "0xCc9F0501f408D5b0e4Bf73c3422DE880F4CE279e",
+            "token0": "UNI",
+            "amount0": -290368006601540398611,
+            "token1": "WBTC",
+            "amount1": 4384691,
+            "timestamp": "2024-06-18 05:25:47",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xA594a83ecCfe5fc56E5e2400bF9abBDd7781A2d9": [
+        {
+            "tx_hash": "0x19ca85faf2dd1fc6eb2ae52c3f6183218b4b5cd775d2f4e408aa4bd454d8b006",
+            "user_address": "0xA594a83ecCfe5fc56E5e2400bF9abBDd7781A2d9",
+            "token0": "UNI",
+            "amount0": 245669573037072711680,
+            "token1": "WBTC",
+            "amount1": -3652358,
+            "timestamp": "2024-06-24 05:37:35",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xfD0169aC61763adC2168237757DC7e4a792b2A43": [
+        {
+            "tx_hash": "0x4c642c33f781783b66e2077997fa2276a3a6a0bda1f5a07832ec0ad57a3c5ad4",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -46619106350644909400,
+            "token1": "WBTC",
+            "amount1": 693327,
+            "timestamp": "2024-06-24 05:47:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x13b4209ce9daa7c635bf937caf115462d732f1e31bec14c1d89f4ae85ae2d96c",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": 37107012168914135429,
+            "token1": "WBTC",
+            "amount1": -552597,
+            "timestamp": "2024-06-24 17:40:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xf2d1879addd36b058b196ec0571b574e0d7e5046a5ce013ad0717ed4b7e0661c",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -62827736330279021672,
+            "token1": "WBTC",
+            "amount1": 1026975,
+            "timestamp": "2024-06-17 21:04:59",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0xb8c1a9bc4a311a5003c03993ab7ebe85e8c3d195a3830ddce32c09ea86bb54dc",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -35851462675508830673,
+            "token1": "WBTC",
+            "amount1": 580259,
+            "timestamp": "2024-06-17 21:52:47",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0xd743b49523295a59e5ee37dfd0dd06918c11c49fee67fe4849a7a679b37cb0e9",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -4206277727254127707,
+            "token1": "WBTC",
+            "amount1": 63648,
+            "timestamp": "2024-06-18 06:16:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x80747eb67a4ea6ea539ad2992d5b9d993933b828e8047c52a515b2dd38cb424f",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -9141377969105177473,
+            "token1": "WBTC",
+            "amount1": 139246,
+            "timestamp": "2024-06-18 03:11:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x80747eb67a4ea6ea539ad2992d5b9d993933b828e8047c52a515b2dd38cb424f",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -22686775033388937581,
+            "token1": "WBTC",
+            "amount1": 345653,
+            "timestamp": "2024-06-18 03:11:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x1357253c50f394217e70ed20432c7e29c4a077791c072b07d4708bbc019350d7",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -3640004154012636497,
+            "token1": "WBTC",
+            "amount1": 55189,
+            "timestamp": "2024-06-18 04:42:47",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xdE00bf46Db0024002d80b2b36d913c3800dcC953": [
+        {
+            "tx_hash": "0x02888d0c5b8cc86818bd6b0678f11eb2627e7167d06f1a63dc8bd0aa93d0ab37",
+            "user_address": "0xdE00bf46Db0024002d80b2b36d913c3800dcC953",
+            "token0": "UNI",
+            "amount0": 225787725306427837236,
+            "token1": "WBTC",
+            "amount1": -3326804,
+            "timestamp": "2024-06-24 06:05:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F": [
+        {
+            "tx_hash": "0x39222bf37eb56e2e1f2b7c01c6456c38441f658c54d721225f7324f000bbcd18",
+            "user_address": "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F",
+            "token0": "UNI",
+            "amount0": 181952772767023857664,
+            "token1": "WBTC",
+            "amount1": -2673381,
+            "timestamp": "2024-06-24 06:05:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x2bd2500c9c01052bc3c5b6e4520b18a58ba3aafb692c2767abe07dd71d3e5d6b",
+            "user_address": "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F",
+            "token0": "UNI",
+            "amount0": -578423090412493116571,
+            "token1": "WBTC",
+            "amount1": 8925187,
+            "timestamp": "2024-06-24 23:41:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x30084826c01b9fb5fa2fae9bedd61d8f4064b162daa7d56192245ae7100b0743",
+            "user_address": "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F",
+            "token0": "UNI",
+            "amount0": 209166624733688692736,
+            "token1": "WBTC",
+            "amount1": -3192180,
+            "timestamp": "2024-06-25 02:20:59",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xcf16f855286d87c40105038e6613babfeec80f83b0ba4a3ec5ffb1a30501a4de",
+            "user_address": "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F",
+            "token0": "UNI",
+            "amount0": 218249100262803308544,
+            "token1": "WBTC",
+            "amount1": -3358474,
+            "timestamp": "2024-06-25 08:26:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x3dda236dd01f67ddc24ecf7443e863cb97dbd579c19a98de49fa3c9a83d3c63d",
+            "user_address": "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F",
+            "token0": "UNI",
+            "amount0": 125270177060837359616,
+            "token1": "WBTC",
+            "amount1": -1911882,
+            "timestamp": "2024-06-26 03:29:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x8e393682e06b18060527acf6e3ff8ec81fa23f1af4c9c0de535aaac1afaa09b7",
+            "user_address": "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F",
+            "token0": "UNI",
+            "amount0": 180128240703106809856,
+            "token1": "WBTC",
+            "amount1": -2894355,
+            "timestamp": "2024-06-17 23:14:59",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x86486fb73a06ad040a1e0d1ea7d2a9bfd3f6c2745444ff59823810446244efa1",
+            "user_address": "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F",
+            "token0": "UNI",
+            "amount0": 276728671702737289216,
+            "token1": "WBTC",
+            "amount1": -4169617,
+            "timestamp": "2024-06-18 03:31:11",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x9fd86d2a6C0a8aC88d2c8a165EbE72BD655940FD": [
+        {
+            "tx_hash": "0x03264b60908053ce563dcf195670bbcd1645c87455fd4b3ba1ef888c1735d102",
+            "user_address": "0x9fd86d2a6C0a8aC88d2c8a165EbE72BD655940FD",
+            "token0": "UNI",
+            "amount0": 200000000000000000000,
+            "token1": "WBTC",
+            "amount1": -2930803,
+            "timestamp": "2024-06-24 06:07:35",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x923C549BF5362dA1D15b1Fde8fAF95770Bd24BDe": [
+        {
+            "tx_hash": "0x37fd835f179cb3c033a123b6c2fc95cc02b89a71a7e86fbac6d878c389b38c3a",
+            "user_address": "0x923C549BF5362dA1D15b1Fde8fAF95770Bd24BDe",
+            "token0": "UNI",
+            "amount0": -46288405219258075037,
+            "token1": "WBTC",
+            "amount1": 681678,
+            "timestamp": "2024-06-24 06:11:59",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x2A31c7C2C45Bc8f5e9113BA4C9E3CB6b7FeDCfa9": [
+        {
+            "tx_hash": "0x0fed82118aaf6b4a6f81b91246e4ac44ab1ee3ed034751fd9c2e356b9e9f8a2a",
+            "user_address": "0x2A31c7C2C45Bc8f5e9113BA4C9E3CB6b7FeDCfa9",
+            "token0": "UNI",
+            "amount0": -326136298892407330738,
+            "token1": "WBTC",
+            "amount1": 4823348,
+            "timestamp": "2024-06-24 07:49:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x3ac1063c172c1c74c237a206d43c48aa8d933a88ad2a343deb9b74cbfaf14701",
+            "user_address": "0x2A31c7C2C45Bc8f5e9113BA4C9E3CB6b7FeDCfa9",
+            "token0": "UNI",
+            "amount0": 170799539703543136256,
+            "token1": "WBTC",
+            "amount1": -2604795,
+            "timestamp": "2024-06-26 08:38:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x76639cc8ce29ab8814e8474588ec4ff0a344bb453efd9b5f2763fe41678bc028",
+            "user_address": "0x2A31c7C2C45Bc8f5e9113BA4C9E3CB6b7FeDCfa9",
+            "token0": "UNI",
+            "amount0": 690244681382329319424,
+            "token1": "WBTC",
+            "amount1": -11245023,
+            "timestamp": "2024-06-17 16:19:59",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0xd5215747ca4c1e6d63be12442c877fcb36589cce8aa7915aa50bb865a68d53f0",
+            "user_address": "0x2A31c7C2C45Bc8f5e9113BA4C9E3CB6b7FeDCfa9",
+            "token0": "UNI",
+            "amount0": -176688156831992638639,
+            "token1": "WBTC",
+            "amount1": 2673475,
+            "timestamp": "2024-06-18 09:46:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x8cea77dfaa02e48af453e9ded0d15fcba816c0f78b04c8dfe1cc73a0f3509cc0",
+            "user_address": "0x2A31c7C2C45Bc8f5e9113BA4C9E3CB6b7FeDCfa9",
+            "token0": "UNI",
+            "amount0": 201839920061531586560,
+            "token1": "WBTC",
+            "amount1": -3055137,
+            "timestamp": "2024-06-27 07:28:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x3f22f60936F4f5D1E96cEdEb44beE66d0Cd7c220": [
+        {
+            "tx_hash": "0xe29d546c477980b7617b9d193b5a2e42bf62098cefc05fc8a880bd23ea650fa5",
+            "user_address": "0x3f22f60936F4f5D1E96cEdEb44beE66d0Cd7c220",
+            "token0": "UNI",
+            "amount0": -268018029314389534058,
+            "token1": "WBTC",
+            "amount1": 3956510,
+            "timestamp": "2024-06-24 08:35:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xbf44860c3ddd701df534b2f9be800e37604027cb3fc42f7d75fd8014b3d6ad9d",
+            "user_address": "0x3f22f60936F4f5D1E96cEdEb44beE66d0Cd7c220",
+            "token0": "UNI",
+            "amount0": 317677129619431844441,
+            "token1": "WBTC",
+            "amount1": -4801080,
+            "timestamp": "2024-06-18 04:06:47",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x3C3CF3d74403236253c1880b98B6003308f67b3F": [
+        {
+            "tx_hash": "0x080a5c1227fb91fbf42c6a46d3e2aa887cb9cab6a50df0cdc837b113251bdcb2",
+            "user_address": "0x3C3CF3d74403236253c1880b98B6003308f67b3F",
+            "token0": "UNI",
+            "amount0": -67134777853130871819,
+            "token1": "WBTC",
+            "amount1": 981540,
+            "timestamp": "2024-06-24 16:17:11",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x872837E964D00E1e11B575e5B338f2499B7046c0": [
+        {
+            "tx_hash": "0x61a2601148d5100da6fe17283d18566b7daa81920208bc141bbd3c3d428d570a",
+            "user_address": "0x872837E964D00E1e11B575e5B338f2499B7046c0",
+            "token0": "UNI",
+            "amount0": -393955911504439449784,
+            "token1": "WBTC",
+            "amount1": 5813370,
+            "timestamp": "2024-06-24 16:46:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x78ba5c6704fb172c215d877707cf51507dba313d41e3325cfb7c470e1cd31ce7",
+            "user_address": "0x872837E964D00E1e11B575e5B338f2499B7046c0",
+            "token0": "UNI",
+            "amount0": -343901850842953652271,
+            "token1": "WBTC",
+            "amount1": 5262498,
+            "timestamp": "2024-06-26 14:08:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x70425717b6e70368aae0c0996d27ea5e687e25cb36c341f4960e8bae0386fdaa",
+            "user_address": "0x872837E964D00E1e11B575e5B338f2499B7046c0",
+            "token0": "UNI",
+            "amount0": 901932059314749571072,
+            "token1": "WBTC",
+            "amount1": -13752319,
+            "timestamp": "2024-06-18 01:44:47",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xaE326BCD07536F1d5403B19F41563c70f3275748": [
+        {
+            "tx_hash": "0x220c8ae7169cfc38904b49211b5fbec5d0c72b20b9d994c3530ba2a7bb0635e4",
+            "user_address": "0xaE326BCD07536F1d5403B19F41563c70f3275748",
+            "token0": "UNI",
+            "amount0": -259764365738807132329,
+            "token1": "WBTC",
+            "amount1": 3951761,
+            "timestamp": "2024-06-24 23:02:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x60b41624e4d16fed9a9abb43d791718a2a056f311a11c4142d88134fb5eecbe7",
+            "user_address": "0xaE326BCD07536F1d5403B19F41563c70f3275748",
+            "token0": "UNI",
+            "amount0": 185138859466306125824,
+            "token1": "WBTC",
+            "amount1": -2854506,
+            "timestamp": "2024-06-26 23:32:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xf3019b62bb4e660181495392e129473d59a1bbfce73e0701e274eb57fb52ed27",
+            "user_address": "0xaE326BCD07536F1d5403B19F41563c70f3275748",
+            "token0": "UNI",
+            "amount0": 190300613708234358784,
+            "token1": "WBTC",
+            "amount1": -3066010,
+            "timestamp": "2024-06-17 23:00:35",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0xd3192c2094df96b27efc9dbe274358b4b568fdd08033a5461f86b06abd8e1632",
+            "user_address": "0xaE326BCD07536F1d5403B19F41563c70f3275748",
+            "token0": "UNI",
+            "amount0": 289219146344911011840,
+            "token1": "WBTC",
+            "amount1": -4576673,
+            "timestamp": "2024-06-18 01:13:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x5e4f81693a12cfbf2b9dcbbcbf9ab2822422fbd09dab6e8996602dbe9a4d6b61",
+            "user_address": "0xaE326BCD07536F1d5403B19F41563c70f3275748",
+            "token0": "UNI",
+            "amount0": 471459693465302532096,
+            "token1": "WBTC",
+            "amount1": -7251944,
+            "timestamp": "2024-06-18 01:55:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x236eef1b754b6f899f8da2862178723ca0f7a7d04f5a98bacff88771ad2a9bd8",
+            "user_address": "0xaE326BCD07536F1d5403B19F41563c70f3275748",
+            "token0": "UNI",
+            "amount0": 200993658818658205696,
+            "token1": "WBTC",
+            "amount1": -3048704,
+            "timestamp": "2024-06-18 04:05:59",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x50dcb3f5766527319CA2F3BE8dae5FD24b72C807": [
+        {
+            "tx_hash": "0x2470c0737939c25320504fc0c06838b57c0c694a3a0016fa74438858e735e07c",
+            "user_address": "0x50dcb3f5766527319CA2F3BE8dae5FD24b72C807",
+            "token0": "UNI",
+            "amount0": -240815901418348503279,
+            "token1": "WBTC",
+            "amount1": 3676430,
+            "timestamp": "2024-06-24 23:07:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x0f007c0d7a736f269da656857f26020e34a6e5a343a4d3a6f88b43dfa53e0c2a",
+            "user_address": "0x50dcb3f5766527319CA2F3BE8dae5FD24b72C807",
+            "token0": "UNI",
+            "amount0": 213971268198509576192,
+            "token1": "WBTC",
+            "amount1": -3282965,
+            "timestamp": "2024-06-27 00:15:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x95927a937b29ae393cc29a18a87dd1c8ab3ffd4b266509a0fea880d2c542a5aa",
+            "user_address": "0x50dcb3f5766527319CA2F3BE8dae5FD24b72C807",
+            "token0": "UNI",
+            "amount0": 281179406177626226688,
+            "token1": "WBTC",
+            "amount1": -4655904,
+            "timestamp": "2024-06-17 15:29:59",
+            "pool_liquidity": 17513661325986508
+        }
+    ],
+    "0x2c0aca65aB8e5A53c3b45458Fe34EBb231C3370E": [
+        {
+            "tx_hash": "0x9c2614098b6d42101b5dca51e469b3ada3a802ca62af73ecfa441ba2f64a29bc",
+            "user_address": "0x2c0aca65aB8e5A53c3b45458Fe34EBb231C3370E",
+            "token0": "UNI",
+            "amount0": -154959748108240016526,
+            "token1": "WBTC",
+            "amount1": 2372310,
+            "timestamp": "2024-06-24 23:09:11",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xDe2a3B8017453b4068a7B2a692f2456DabDb7A25": [
+        {
+            "tx_hash": "0xa7d2f42c19c102f711e9bac2e5631f0be4ad948da1023eb89a4e4d7d47fc513e",
+            "user_address": "0xDe2a3B8017453b4068a7B2a692f2456DabDb7A25",
+            "token0": "UNI",
+            "amount0": -189966566757323927967,
+            "token1": "WBTC",
+            "amount1": 2915326,
+            "timestamp": "2024-06-24 23:20:35",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x578aFFeE4b4AE2E34d3D6E9661c8c812BB60131B": [
+        {
+            "tx_hash": "0xb5d80074ac264df77b72a894d44e5c2f9064c7370ab7920720c7a69f05ee2449",
+            "user_address": "0x578aFFeE4b4AE2E34d3D6E9661c8c812BB60131B",
+            "token0": "UNI",
+            "amount0": 7869615412062397498,
+            "token1": "WBTC",
+            "amount1": -121191,
+            "timestamp": "2024-06-24 23:47:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9": [
+        {
+            "tx_hash": "0x8460d44a9c01b20f8821d47dcc1d191d0ef3d932ada2830095e61d4217b35f1e",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": 203285806944278478848,
+            "token1": "WBTC",
+            "amount1": -3125074,
+            "timestamp": "2024-06-25 00:28:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x2a5e08dcfcc2822c83e9ce6f196629e769fe9cc6573f01e96247fc3583d33784",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": 253937715642081705984,
+            "token1": "WBTC",
+            "amount1": -3893405,
+            "timestamp": "2024-06-25 12:26:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xcf23ab9fda9b2af69866d76017a1fad88b7952760e067bb3ec447d55b3e42b29",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": 125465904752359718912,
+            "token1": "WBTC",
+            "amount1": -1911492,
+            "timestamp": "2024-06-26 03:35:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x6034d8d6979096f3f73e13dd233194177478662acd164362f68876ba0a69dc7c",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": 242018006730798170112,
+            "token1": "WBTC",
+            "amount1": -3847208,
+            "timestamp": "2024-06-18 00:16:35",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0xfebb60b43331a32c3007d5a7a0fd01a3cce16d0520378103f53beceaaefafe9c",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": 308435770991697920000,
+            "token1": "WBTC",
+            "amount1": -4527015,
+            "timestamp": "2024-06-18 12:46:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x4f50117c3a35de178a25aaf52b200b61877a5f4e9406d950c79d1ac331ac2d68",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": 272012822361508020224,
+            "token1": "WBTC",
+            "amount1": -3961389,
+            "timestamp": "2024-06-18 13:03:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x303322e77691042847f5db6d5b0d7b74348b2d2c185492eb30b8ac091168c3f8",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": 319731806308817371136,
+            "token1": "WBTC",
+            "amount1": -5037490,
+            "timestamp": "2024-06-18 01:23:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x99b0558f858c7773341fb3cb6335d02728cab132a7da453cba1246acf944c0aa",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": 413861086251473829888,
+            "token1": "WBTC",
+            "amount1": -6464685,
+            "timestamp": "2024-06-18 01:41:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x0a55f10f61f1fb5ac42141baf0492abbfe7b17c641f56d167433a5d44468a273",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": 277353981619461586944,
+            "token1": "WBTC",
+            "amount1": -4195064,
+            "timestamp": "2024-06-26 15:09:11",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xF7bF389531Bea3bA0fdD3EcD63B8fEEb37b039E3": [
+        {
+            "tx_hash": "0xecf690f88f3d8a3e7d201c0bd7519e8784701b6f0f68e1dc4dc76076131070b4",
+            "user_address": "0xF7bF389531Bea3bA0fdD3EcD63B8fEEb37b039E3",
+            "token0": "UNI",
+            "amount0": 147720303689730228224,
+            "token1": "WBTC",
+            "amount1": -2265252,
+            "timestamp": "2024-06-25 00:30:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x0c5dfb98db196073498f72cc5cd8bcea4fc8240f12dbf1f1a19f26823c592b3e",
+            "user_address": "0xF7bF389531Bea3bA0fdD3EcD63B8fEEb37b039E3",
+            "token0": "UNI",
+            "amount0": 275765592309509095424,
+            "token1": "WBTC",
+            "amount1": -4031220,
+            "timestamp": "2024-06-18 13:01:11",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x137d923E679ed4fE7A0eCc01C34F5BFb2722D562": [
+        {
+            "tx_hash": "0xd9fc807810cd53d6409d73f74914d17df068bbf0280fb82e1faa8c82e6c9379f",
+            "user_address": "0x137d923E679ed4fE7A0eCc01C34F5BFb2722D562",
+            "token0": "UNI",
+            "amount0": 163049220009883615579,
+            "token1": "WBTC",
+            "amount1": -2481852,
+            "timestamp": "2024-06-25 02:34:11",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xE4613aF9ecdF8db83707546Af9d4Bd9dA76CE504": [
+        {
+            "tx_hash": "0xf871f76309a9dfba6774e67fc08cae6dacf46d4ad98731d887e7a737e9caa8be",
+            "user_address": "0xE4613aF9ecdF8db83707546Af9d4Bd9dA76CE504",
+            "token0": "UNI",
+            "amount0": -494219628132275764817,
+            "token1": "WBTC",
+            "amount1": 7380724,
+            "timestamp": "2024-06-24 17:36:11",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x4E11a7802CA0C7872E45C322beaBC80A2c5c0Ae2": [
+        {
+            "tx_hash": "0x728ecf6831d8f3b1f7c634ffacfc02967de975bbf68ff601fc5b47132e6eebe1",
+            "user_address": "0x4E11a7802CA0C7872E45C322beaBC80A2c5c0Ae2",
+            "token0": "UNI",
+            "amount0": -125318621737027786437,
+            "token1": "WBTC",
+            "amount1": 1878649,
+            "timestamp": "2024-06-24 17:50:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x5Ba138a436D13B2a826456D009e5A3E5dAECD629": [
+        {
+            "tx_hash": "0xa41b2771dbfe8b423844a881803dff88a7ea6dad918d0c178a1b206450f79f7c",
+            "user_address": "0x5Ba138a436D13B2a826456D009e5A3E5dAECD629",
+            "token0": "UNI",
+            "amount0": 427525445988885987328,
+            "token1": "WBTC",
+            "amount1": -6264312,
+            "timestamp": "2024-06-24 19:40:35",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xc66C26709fc9319EC3F346280A9641BD7f243C15": [
+        {
+            "tx_hash": "0xe5a88e2d2cbfb7960ff915aff9ec603671d5a7989385a54eb458c02f32ca2a8d",
+            "user_address": "0xc66C26709fc9319EC3F346280A9641BD7f243C15",
+            "token0": "UNI",
+            "amount0": -338684051620475864908,
+            "token1": "WBTC",
+            "amount1": 4989447,
+            "timestamp": "2024-06-24 19:54:59",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xC7a4bF73644c6e23117b9B8066528157ADCDAc9a": [
+        {
+            "tx_hash": "0x4f347a8285399005931755298cf3b4e176cacc1ccaee6973470addeab3cbd16a",
+            "user_address": "0xC7a4bF73644c6e23117b9B8066528157ADCDAc9a",
+            "token0": "UNI",
+            "amount0": -508891009727183413157,
+            "token1": "WBTC",
+            "amount1": 7541090,
+            "timestamp": "2024-06-24 20:00:47",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x30eC532078216741416AD12F8d8682FB0B3e03f8": [
+        {
+            "tx_hash": "0xef558c878d8c8f36292ebdfc64e5034e76336b483ff5648c8af5d6eeb5fcf25a",
+            "user_address": "0x30eC532078216741416AD12F8d8682FB0B3e03f8",
+            "token0": "UNI",
+            "amount0": -379422868825616543080,
+            "token1": "WBTC",
+            "amount1": 5657361,
+            "timestamp": "2024-06-24 20:37:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x6F7869a321442659b9c5D2463600c40De73C84A9": [
+        {
+            "tx_hash": "0x7d7a0c153e1e454c371d2dbbf6fbd8c4f0428d725e7b7aea3a837411e15d3394",
+            "user_address": "0x6F7869a321442659b9c5D2463600c40De73C84A9",
+            "token0": "UNI",
+            "amount0": -418022640732641648347,
+            "token1": "WBTC",
+            "amount1": 6267649,
+            "timestamp": "2024-06-24 21:14:59",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x03D9c4E0840626354D395c01aD5514FEDE8C7f8c": [
+        {
+            "tx_hash": "0xc86ff660f4cfb9c9f6be76e8df35726e95c1ff38b55d489472f48a095d64f743",
+            "user_address": "0x03D9c4E0840626354D395c01aD5514FEDE8C7f8c",
+            "token0": "UNI",
+            "amount0": -164173113615739547404,
+            "token1": "WBTC",
+            "amount1": 2503803,
+            "timestamp": "2024-06-25 04:13:35",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xc3f4f4f9202e8ed40fe0d5b26860d08adf2d5756b3a4785e25a3ed1935ccdaa9",
+            "user_address": "0x03D9c4E0840626354D395c01aD5514FEDE8C7f8c",
+            "token0": "UNI",
+            "amount0": -268434365945181358728,
+            "token1": "WBTC",
+            "amount1": 4100928,
+            "timestamp": "2024-06-25 18:12:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x5fd6dde63752b9815025f3a7e3fd3a89944b7af8a790d69309be0b6ff988cbbc",
+            "user_address": "0x03D9c4E0840626354D395c01aD5514FEDE8C7f8c",
+            "token0": "UNI",
+            "amount0": 170328445902141980672,
+            "token1": "WBTC",
+            "amount1": -2587625,
+            "timestamp": "2024-06-26 10:34:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xab2a411859cd87fd617f91ff685d5e382213e0f0e165a08db5644f8db43253ce",
+            "user_address": "0x03D9c4E0840626354D395c01aD5514FEDE8C7f8c",
+            "token0": "UNI",
+            "amount0": 247884733481231351808,
+            "token1": "WBTC",
+            "amount1": -4144663,
+            "timestamp": "2024-06-17 17:59:35",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x862813e07d89d2e33799e2c0fc73492f98bdbb4b24f07edb7a371ac778e1adb9",
+            "user_address": "0x03D9c4E0840626354D395c01aD5514FEDE8C7f8c",
+            "token0": "UNI",
+            "amount0": 338840856134773637120,
+            "token1": "WBTC",
+            "amount1": -5636302,
+            "timestamp": "2024-06-17 15:26:35",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0xa60e5e10592c733f83bbcb02b48f8992d373f4ba34cbd04cfeea07a39393dbbe",
+            "user_address": "0x03D9c4E0840626354D395c01aD5514FEDE8C7f8c",
+            "token0": "UNI",
+            "amount0": 291209990830874755072,
+            "token1": "WBTC",
+            "amount1": -4663355,
+            "timestamp": "2024-06-17 23:20:23",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x86c41a2e49143ee554f9c4ab8a2d3e256c8fe1c64d02e3821e98a46c20480201",
+            "user_address": "0x03D9c4E0840626354D395c01aD5514FEDE8C7f8c",
+            "token0": "UNI",
+            "amount0": -325735067094235889150,
+            "token1": "WBTC",
+            "amount1": 4911393,
+            "timestamp": "2024-06-18 09:37:11",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x000C227e72D9Ed7A35A09E260cdD5Bd468dCd29B": [
+        {
+            "tx_hash": "0xcb99c238505b357eeed166fc5d68e25546524ae0d4d35aa6a304312118149a32",
+            "user_address": "0x000C227e72D9Ed7A35A09E260cdD5Bd468dCd29B",
+            "token0": "UNI",
+            "amount0": -162315024764019769347,
+            "token1": "WBTC",
+            "amount1": 2481166,
+            "timestamp": "2024-06-25 04:15:47",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x5a7Dbec2d602405D20D8839579e19c7B092d1Efd": [
+        {
+            "tx_hash": "0x2d425247b01bc6bcf434db1a54978f0a4405c1ab7dab3d0ebe1b41377d4424ce",
+            "user_address": "0x5a7Dbec2d602405D20D8839579e19c7B092d1Efd",
+            "token0": "UNI",
+            "amount0": 10611540550000000000,
+            "token1": "WBTC",
+            "amount1": -162393,
+            "timestamp": "2024-06-25 12:27:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xF0361B42b5b28D31F7c407F792c343b86E4983FE": [
+        {
+            "tx_hash": "0x152e7871b99e2c6c2189c708898f8e150edd856dbb83df7ff7f69872e2678eb6",
+            "user_address": "0xF0361B42b5b28D31F7c407F792c343b86E4983FE",
+            "token0": "UNI",
+            "amount0": 325552793435846344704,
+            "token1": "WBTC",
+            "amount1": -4938972,
+            "timestamp": "2024-06-25 16:06:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x8424225eaa55f46671df655c4fef159c2c52ac9af2d938fc39b9f953b62f3eb4",
+            "user_address": "0xF0361B42b5b28D31F7c407F792c343b86E4983FE",
+            "token0": "UNI",
+            "amount0": 136017557897267101696,
+            "token1": "WBTC",
+            "amount1": -2079735,
+            "timestamp": "2024-06-26 03:27:59",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x3B40aF8E80b09F4A54b1eb763031D4880f765BdC": [
+        {
+            "tx_hash": "0xb82ccc840f05695caef490a67613d3837379b9755ad227e32e6611ad609bdce7",
+            "user_address": "0x3B40aF8E80b09F4A54b1eb763031D4880f765BdC",
+            "token0": "UNI",
+            "amount0": -168093240181257242803,
+            "token1": "WBTC",
+            "amount1": 2588587,
+            "timestamp": "2024-06-25 11:03:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x4aad9fc53f8fa8bdb266ff7f5e7820749bc9670911d172dc7f231bd7e324a60c",
+            "user_address": "0x3B40aF8E80b09F4A54b1eb763031D4880f765BdC",
+            "token0": "UNI",
+            "amount0": 207847549260571115520,
+            "token1": "WBTC",
+            "amount1": -3362236,
+            "timestamp": "2024-06-17 21:07:47",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x39f1fd96d74792cf472d538d299d9ec497d705588b41cae7ba0a3cc3b56be0d2",
+            "user_address": "0x3B40aF8E80b09F4A54b1eb763031D4880f765BdC",
+            "token0": "UNI",
+            "amount0": -176600577449969616705,
+            "token1": "WBTC",
+            "amount1": 2862706,
+            "timestamp": "2024-06-17 22:08:47",
+            "pool_liquidity": 17513661325986508
+        }
+    ],
+    "0x364b46483E6c6517144c63CD7884495928B57473": [
+        {
+            "tx_hash": "0xb3e155ec123408201d615542a4a7396c0334ede594448072cf0935d8b2460791",
+            "user_address": "0x364b46483E6c6517144c63CD7884495928B57473",
+            "token0": "UNI",
+            "amount0": 103217115157974473764,
+            "token1": "WBTC",
+            "amount1": -1571089,
+            "timestamp": "2024-06-26 09:37:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xAb7B44AE25af88D306DC0A5C6c39bBEB8916EabB": [
+        {
+            "tx_hash": "0x713c12f7ae4cc098dfc1f84b16ea94beaa80c5317cd192fc67887708d70a492e",
+            "user_address": "0xAb7B44AE25af88D306DC0A5C6c39bBEB8916EabB",
+            "token0": "UNI",
+            "amount0": 434396247195473543168,
+            "token1": "WBTC",
+            "amount1": -6603299,
+            "timestamp": "2024-06-26 14:40:23",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x99667bbd8ca6e956368ecbc35e87d7179399087365a5219e51cdb9dc64aa3877",
+            "user_address": "0xAb7B44AE25af88D306DC0A5C6c39bBEB8916EabB",
+            "token0": "UNI",
+            "amount0": -121508147849837011482,
+            "token1": "WBTC",
+            "amount1": 1869249,
+            "timestamp": "2024-06-26 05:16:47",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x8967aCa6dcB7fD4AcAf3899BC85a98E8a54ba787": [
+        {
+            "tx_hash": "0x76d78a3e27fdd253727f8391320c82cc860e09ff96e71a4b188a0d090c8e9c7f",
+            "user_address": "0x8967aCa6dcB7fD4AcAf3899BC85a98E8a54ba787",
+            "token0": "UNI",
+            "amount0": 176280141806743093248,
+            "token1": "WBTC",
+            "amount1": -2724888,
+            "timestamp": "2024-06-26 21:46:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x8bcf0b6ec2e4b4828e05792bcb232616a60fdbf098a779270604c73fb30338ab",
+            "user_address": "0x8967aCa6dcB7fD4AcAf3899BC85a98E8a54ba787",
+            "token0": "UNI",
+            "amount0": 188103119963453915136,
+            "token1": "WBTC",
+            "amount1": -2860966,
+            "timestamp": "2024-06-27 04:05:47",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xf16c3e2e565d69d5f7d6f817a65e018e09862e8ba7c6f35cb01e0476d971c83d",
+            "user_address": "0x8967aCa6dcB7fD4AcAf3899BC85a98E8a54ba787",
+            "token0": "UNI",
+            "amount0": -202253360241465152599,
+            "token1": "WBTC",
+            "amount1": 3384335,
+            "timestamp": "2024-06-17 13:11:47",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x61e1404e79a0a8c88a6e92d9c428caed97d681ed194f52ab6df53402cf1f0623",
+            "user_address": "0x8967aCa6dcB7fD4AcAf3899BC85a98E8a54ba787",
+            "token0": "UNI",
+            "amount0": 168453382756937072640,
+            "token1": "WBTC",
+            "amount1": -2816432,
+            "timestamp": "2024-06-17 13:32:23",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0xa7b171c59daba32a8e8c5ba271453858448adf12b5ed70eacea30a5b3d68ac2a",
+            "user_address": "0x8967aCa6dcB7fD4AcAf3899BC85a98E8a54ba787",
+            "token0": "UNI",
+            "amount0": -247965563986424070809,
+            "token1": "WBTC",
+            "amount1": 4185715,
+            "timestamp": "2024-06-17 14:27:47",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0xdc82ae194dafd497aafb2b2abdcf0387ddb15f24cbc0d41f1d674da432f9c336",
+            "user_address": "0x8967aCa6dcB7fD4AcAf3899BC85a98E8a54ba787",
+            "token0": "UNI",
+            "amount0": -245636527132254185926,
+            "token1": "WBTC",
+            "amount1": 3723412,
+            "timestamp": "2024-06-18 06:59:47",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x6077A212C08B711d856263081EfCc994B396f7a1": [
+        {
+            "tx_hash": "0xa8d77864beb0657fc86a7c2bddf7365a81b29a4955cf43531e0406335b07b504",
+            "user_address": "0x6077A212C08B711d856263081EfCc994B396f7a1",
+            "token0": "UNI",
+            "amount0": 225703652193337311232,
+            "token1": "WBTC",
+            "amount1": -3349198,
+            "timestamp": "2024-06-18 11:25:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x91aaE0aAfd9D2d730111b395c6871f248d7Bd728": [
+        {
+            "tx_hash": "0x9211428832a53616dc0304e922559f585c8f2aef6391beb3f40c5279cfb93cd2",
+            "user_address": "0x91aaE0aAfd9D2d730111b395c6871f248d7Bd728",
+            "token0": "UNI",
+            "amount0": -369890497928825172786,
+            "token1": "WBTC",
+            "amount1": 6128239,
+            "timestamp": "2024-06-17 16:48:11",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x76aacaeca3d81c2a9a678891d492edadf62a1b62037cbb1a8e0aabf1456deac8",
+            "user_address": "0x91aaE0aAfd9D2d730111b395c6871f248d7Bd728",
+            "token0": "UNI",
+            "amount0": 292117780152599409232,
+            "token1": "WBTC",
+            "amount1": -4708347,
+            "timestamp": "2024-06-17 21:15:23",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x9a1484525f4347492d4a4d7e517af5c50cce50b24c36b88d89d27124ec51b0f5",
+            "user_address": "0x91aaE0aAfd9D2d730111b395c6871f248d7Bd728",
+            "token0": "UNI",
+            "amount0": -319416696598728257755,
+            "token1": "WBTC",
+            "amount1": 4843871,
+            "timestamp": "2024-06-18 03:38:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0xed0c80035ef6294a5e077096755fcee04facee9ae5c814a73479637bab0af45a",
+            "user_address": "0x91aaE0aAfd9D2d730111b395c6871f248d7Bd728",
+            "token0": "UNI",
+            "amount0": 299928369269976251909,
+            "token1": "WBTC",
+            "amount1": -4565408,
+            "timestamp": "2024-06-18 04:05:35",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xD560D0C9d1F8C8d202f9310A5307F09fA2d35c9b": [
+        {
+            "tx_hash": "0x203d75ef7fcec40ec9a22307071839c65e1b4cc4bc9f60b4a8c3d26abea9f62c",
+            "user_address": "0xD560D0C9d1F8C8d202f9310A5307F09fA2d35c9b",
+            "token0": "UNI",
+            "amount0": 316258049457000593233,
+            "token1": "WBTC",
+            "amount1": -5209326,
+            "timestamp": "2024-06-17 19:30:59",
+            "pool_liquidity": 17513661325986508
+        }
+    ],
+    "0x0e3E59824b920e63911eadBb49d714CE90376a6f": [
+        {
+            "tx_hash": "0xf41fa892f0990e20b350aecf0f3947b728ced54c2e6925e30183b61f3c7d0801",
+            "user_address": "0x0e3E59824b920e63911eadBb49d714CE90376a6f",
+            "token0": "UNI",
+            "amount0": 304350984347771863040,
+            "token1": "WBTC",
+            "amount1": -4990507,
+            "timestamp": "2024-06-17 20:07:35",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x87c1e55381eb1b4adc18901f6bc15ac3bdfa0e9cc7b65d433787342571111662",
+            "user_address": "0x0e3E59824b920e63911eadBb49d714CE90376a6f",
+            "token0": "UNI",
+            "amount0": 238020069738221666304,
+            "token1": "WBTC",
+            "amount1": -3622208,
+            "timestamp": "2024-06-27 05:31:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x5E2B6c6B2240d582995537D3FafdB556E4A3822F": [
+        {
+            "tx_hash": "0xba0b443280cb9455a34e42069de839794742599a433c5fc2df4bceb1dd214c56",
+            "user_address": "0x5E2B6c6B2240d582995537D3FafdB556E4A3822F",
+            "token0": "UNI",
+            "amount0": 278050331437220193348,
+            "token1": "WBTC",
+            "amount1": -4434388,
+            "timestamp": "2024-06-17 23:46:35",
+            "pool_liquidity": 17513661325986508
+        },
+        {
+            "tx_hash": "0x8819dc895149ba369d883a4f17aa764d1e104711c2379e6318863779bf01b094",
+            "user_address": "0x5E2B6c6B2240d582995537D3FafdB556E4A3822F",
+            "token0": "UNI",
+            "amount0": 327646263012375343471,
+            "token1": "WBTC",
+            "amount1": -4971609,
+            "timestamp": "2024-06-18 03:09:47",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x1057c855a823203B32f49e1C1741a77FBe13Ae31": [
+        {
+            "tx_hash": "0x4d6d610b56de6c30ee8c2cb83f440243215cff8898ddd59cd70aabf1e1fc44c6",
+            "user_address": "0x1057c855a823203B32f49e1C1741a77FBe13Ae31",
+            "token0": "UNI",
+            "amount0": 192666507941759057920,
+            "token1": "WBTC",
+            "amount1": -3059363,
+            "timestamp": "2024-06-18 01:10:23",
+            "pool_liquidity": 17513661325986508
+        }
+    ],
+    "0xe97881a663A97B1FeCbfe51A6318f2d53c7A49cD": [
+        {
+            "tx_hash": "0xc41cb78fde69ee9692c4cdf2111a5f8b80ca23061d5f064617aaba2f791f13ab",
+            "user_address": "0xe97881a663A97B1FeCbfe51A6318f2d53c7A49cD",
+            "token0": "UNI",
+            "amount0": 188430683648277610496,
+            "token1": "WBTC",
+            "amount1": -2802686,
+            "timestamp": "2024-06-18 09:18:11",
+            "pool_liquidity": 17513649113251616
+        },
+        {
+            "tx_hash": "0x8f86d14d019055252c59e34fc34713ec2fb5c81abba8f72ac0f3318c3f46d999",
+            "user_address": "0xe97881a663A97B1FeCbfe51A6318f2d53c7A49cD",
+            "token0": "UNI",
+            "amount0": 289027668374602842112,
+            "token1": "WBTC",
+            "amount1": -4273569,
+            "timestamp": "2024-06-18 12:15:11",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x17B4051556118ed22424b9230725b08E4acd939F": [
+        {
+            "tx_hash": "0x2f115036111952982759f5d48b85de3049979ac365fdc6d729545fb4d1c38082",
+            "user_address": "0x17B4051556118ed22424b9230725b08E4acd939F",
+            "token0": "UNI",
+            "amount0": 234357893352020443136,
+            "token1": "WBTC",
+            "amount1": -3452680,
+            "timestamp": "2024-06-18 12:22:47",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x08E0d320C00B3bC4990D2BD464b0f7F2Fc7339b2": [
+        {
+            "tx_hash": "0xb9fd75aa23c85e758ab376833b4d84ca7f352c62e9a82feef9393b8679002160",
+            "user_address": "0x08E0d320C00B3bC4990D2BD464b0f7F2Fc7339b2",
+            "token0": "UNI",
+            "amount0": -6575463128469425990,
+            "token1": "WBTC",
+            "amount1": 100150,
+            "timestamp": "2024-06-18 03:10:35",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x9b7e7f21d98f21C0354035798C40E9040e25787f": [
+        {
+            "tx_hash": "0x98b1f6b8a1dc48186b475bc59a80734b41748a31e08214f47efdc8412ada8985",
+            "user_address": "0x9b7e7f21d98f21C0354035798C40E9040e25787f",
+            "token0": "UNI",
+            "amount0": 436841020641170377158,
+            "token1": "WBTC",
+            "amount1": -6563662,
+            "timestamp": "2024-06-18 04:45:59",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0xe75eD6F453c602Bd696cE27AF11565eDc9b46B0D": [
+        {
+            "tx_hash": "0x74b60e9618c06ba58f93752b60fdd31bcdfb9eaf05137ecddca7215754c2014c",
+            "user_address": "0xe75eD6F453c602Bd696cE27AF11565eDc9b46B0D",
+            "token0": "UNI",
+            "amount0": -323220766901613363200,
+            "token1": "WBTC",
+            "amount1": 4919897,
+            "timestamp": "2024-06-26 19:16:35",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x5B3FdC5A62A0a69e29F2dB1459E9D4EC5155913F": [
+        {
+            "tx_hash": "0xf5f3e401febd7a499cc066f5a02caf441fbbfc9fd3d660699dc503ee439fc8fb",
+            "user_address": "0x5B3FdC5A62A0a69e29F2dB1459E9D4EC5155913F",
+            "token0": "UNI",
+            "amount0": -425978082136747060155,
+            "token1": "WBTC",
+            "amount1": 6518326,
+            "timestamp": "2024-06-26 19:36:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x38Aa29800C87b6a691c1Dbcbfd10546dDdA69b9C": [
+        {
+            "tx_hash": "0x5c4298b580b8f3229079025a25f4f7399c2411ea7b07570c86b474e9d1e39be8",
+            "user_address": "0x38Aa29800C87b6a691c1Dbcbfd10546dDdA69b9C",
+            "token0": "UNI",
+            "amount0": -260845315292569532231,
+            "token1": "WBTC",
+            "amount1": 4010860,
+            "timestamp": "2024-06-26 19:53:59",
+            "pool_liquidity": 17513649113251616
+        }
+    ],
+    "0x1b0851136b34Ec2D9025553cF07B95912E2Fe5fe": [
+        {
+            "tx_hash": "0x53ad4d8d4569ec17b6d9d9a613fc7f8864f66607ff31ec235e1d569910cb4db3",
+            "user_address": "0x1b0851136b34Ec2D9025553cF07B95912E2Fe5fe",
+            "token0": "UNI",
+            "amount0": -490885093522357446491,
+            "token1": "WBTC",
+            "amount1": 7588332,
+            "timestamp": "2024-06-26 20:04:23",
+            "pool_liquidity": 17513649113251616
+        }
+    ]
+}

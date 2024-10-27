@@ -1,0 +1,2602 @@
+{
+    "0x64154cB239716bbAB07Cf25c1B112e9f847f8878": [
+        {
+            "tx_hash": "0xf544f26165b6f7a1f13a642b32d49c8fd7c9fabf0e8c943330d165271d51b83d",
+            "user_address": "0x64154cB239716bbAB07Cf25c1B112e9f847f8878",
+            "token0": "SAFE",
+            "amount0": 1000000000000000000000,
+            "token1": "WETH",
+            "amount1": -408513010878757414,
+            "timestamp": "2024-06-17 14:32:35",
+            "pool_liquidity": 23287257424754062083827
+        }
+    ],
+    "0xbf54079c9Bc879Ae4dD6BC79bCe11d3988fD9C2b": [
+        {
+            "tx_hash": "0x1bc24af9f739ddb5e087036e3546e49323f56dfa80e64ecd50e70209cb2aec57",
+            "user_address": "0xbf54079c9Bc879Ae4dD6BC79bCe11d3988fD9C2b",
+            "token0": "SAFE",
+            "amount0": 7207087442557564988872,
+            "token1": "WETH",
+            "amount1": -2923460105168007598,
+            "timestamp": "2024-06-17 17:35:59",
+            "pool_liquidity": 23287257424754062083827
+        },
+        {
+            "tx_hash": "0xe0094d6db918713a5dda7ca6df61fed49c5898e26b451410d8add5743031d02f",
+            "user_address": "0xbf54079c9Bc879Ae4dD6BC79bCe11d3988fD9C2b",
+            "token0": "SAFE",
+            "amount0": 9546429785377427234158,
+            "token1": "WETH",
+            "amount1": -3470191349349710097,
+            "timestamp": "2024-06-19 08:38:59",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0xec0c4deb8852ef5af35e4f25c89031f4500ef18b97df59a148495e8eb63c56f9",
+            "user_address": "0xbf54079c9Bc879Ae4dD6BC79bCe11d3988fD9C2b",
+            "token0": "SAFE",
+            "amount0": 10689165103573848729425,
+            "token1": "WETH",
+            "amount1": -4197318384423493900,
+            "timestamp": "2024-06-20 12:11:59",
+            "pool_liquidity": 26416182546640423692373
+        },
+        {
+            "tx_hash": "0x568b9480478927294f5f8c397dc464179350cae75428b39be9be623e92e50384",
+            "user_address": "0xbf54079c9Bc879Ae4dD6BC79bCe11d3988fD9C2b",
+            "token0": "SAFE",
+            "amount0": 3301899787991797742754,
+            "token1": "WETH",
+            "amount1": -1300883410805417900,
+            "timestamp": "2024-06-20 21:42:47",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0x1f186e1b0ef682907443ce50a5044b8cf04fb1227cacf20a5d469943c33e8816",
+            "user_address": "0xbf54079c9Bc879Ae4dD6BC79bCe11d3988fD9C2b",
+            "token0": "SAFE",
+            "amount0": 1211124297335169235993,
+            "token1": "WETH",
+            "amount1": -470472562335422175,
+            "timestamp": "2024-06-19 23:01:23",
+            "pool_liquidity": 26416182546640423692373
+        },
+        {
+            "tx_hash": "0xc5a5f5cff4ef973fd3c228bf7c3f80b2a4ac368003a0ee4ca5f28507c0f771aa",
+            "user_address": "0xbf54079c9Bc879Ae4dD6BC79bCe11d3988fD9C2b",
+            "token0": "SAFE",
+            "amount0": 1696862373344186607701,
+            "token1": "WETH",
+            "amount1": -707527785620526192,
+            "timestamp": "2024-06-21 12:14:59",
+            "pool_liquidity": 27534966603472212910833
+        }
+    ],
+    "0x16C473448E770Ff647c69CBe19e28528877fba1B": [
+        {
+            "tx_hash": "0x4fe97cacd5e426f078c3b526f4780ddb9972d6e4f23789c1b94be6f74bb2638a",
+            "user_address": "0x16C473448E770Ff647c69CBe19e28528877fba1B",
+            "token0": "SAFE",
+            "amount0": -4810242320506576794097,
+            "token1": "WETH",
+            "amount1": 1819179508989689856,
+            "timestamp": "2024-06-19 05:47:59",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x89f830d672c528e5d5c6d6f6f40fc8a01b0fc1e7d7fdf261526457b417aaccf9",
+            "user_address": "0x16C473448E770Ff647c69CBe19e28528877fba1B",
+            "token0": "SAFE",
+            "amount0": -1519395320742223924600,
+            "token1": "WETH",
+            "amount1": 615795849506586624,
+            "timestamp": "2024-06-17 21:10:59",
+            "pool_liquidity": 23288335029255197533420
+        },
+        {
+            "tx_hash": "0xaab894f02eed00017dce6b1886eb2534744a5c832e3ed37ea93484ddbc88c344",
+            "user_address": "0x16C473448E770Ff647c69CBe19e28528877fba1B",
+            "token0": "SAFE",
+            "amount0": -2826461875167530881513,
+            "token1": "WETH",
+            "amount1": 1057063400837742592,
+            "timestamp": "2024-06-18 01:51:23",
+            "pool_liquidity": 22879146984489325424295
+        },
+        {
+            "tx_hash": "0xcafafe460b4d1660208dc5dcb6bedf9cc3ffc0e71c45114ffb22582350ac771a",
+            "user_address": "0x16C473448E770Ff647c69CBe19e28528877fba1B",
+            "token0": "SAFE",
+            "amount0": -214771883464369498728,
+            "token1": "WETH",
+            "amount1": 90818303244632064,
+            "timestamp": "2024-06-22 04:26:35",
+            "pool_liquidity": 27534966603472212910833
+        },
+        {
+            "tx_hash": "0x50fe07137f88e001f0ef2180d6eee49a21323f409ca0377e6929d2e25f5a5507",
+            "user_address": "0x16C473448E770Ff647c69CBe19e28528877fba1B",
+            "token0": "SAFE",
+            "amount0": 900496856555056005120,
+            "token1": "WETH",
+            "amount1": -337276783663308839,
+            "timestamp": "2024-06-19 10:36:11",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0x1f76c0e7ba130dfebdffecf1de92f084f2be5ac066779c77f68b95d4be8c9637",
+            "user_address": "0x16C473448E770Ff647c69CBe19e28528877fba1B",
+            "token0": "SAFE",
+            "amount0": -13700501451647662212354,
+            "token1": "WETH",
+            "amount1": 5380490936847433728,
+            "timestamp": "2024-06-19 18:36:47",
+            "pool_liquidity": 26423309731515024603441
+        },
+        {
+            "tx_hash": "0x2bffee4cd47628df1642f69ef46d1d066799a61f91b56c3008950442ca8ad144",
+            "user_address": "0x16C473448E770Ff647c69CBe19e28528877fba1B",
+            "token0": "SAFE",
+            "amount0": 1733943418170378289152,
+            "token1": "WETH",
+            "amount1": -691744201646743799,
+            "timestamp": "2024-06-20 07:48:59",
+            "pool_liquidity": 27137150406191680737439
+        }
+    ],
+    "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4": [
+        {
+            "tx_hash": "0xa8977edbb842b8c20f40d30308e085a37628e6824487ad6dd03d4a00a053eb38",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 2753792590456991510910,
+            "token1": "WETH",
+            "amount1": -1022545779435528081,
+            "timestamp": "2024-06-19 05:48:23",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x167ea572529e2ffeaa8a903d7489d2899dafe85cf23e1499b712d800919a154b",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 2192980068789277659340,
+            "token1": "WETH",
+            "amount1": -794432147982470570,
+            "timestamp": "2024-06-19 09:12:59",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0xac69ee88735cee917054150c0f43823100d0495b559a265cdb2a3ef42c78c894",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 3420281778013926511516,
+            "token1": "WETH",
+            "amount1": -1253083266391273505,
+            "timestamp": "2024-06-18 02:34:47",
+            "pool_liquidity": 22879146984489325424295
+        },
+        {
+            "tx_hash": "0x2445c00a1a3d6fa15f23d3b55d626291fa09b8f18f06a10575d60fcad4268d4d",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 3601199554818029177884,
+            "token1": "WETH",
+            "amount1": -1433009088848139097,
+            "timestamp": "2024-06-17 21:10:35",
+            "pool_liquidity": 23288335029255197533420
+        },
+        {
+            "tx_hash": "0xc0741ae7e54210d7f3eb3c1f7345a940e06b613e1df594e1498b9709ed3afb67",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 2176797254923514749476,
+            "token1": "WETH",
+            "amount1": -858979089325900995,
+            "timestamp": "2024-06-17 21:42:47",
+            "pool_liquidity": 23273940282546457844208
+        },
+        {
+            "tx_hash": "0xe1abc2ca167865f7657f9ab6c7361633b153ce9f0f2ee987470f05338262b699",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 2863761359492795316234,
+            "token1": "WETH",
+            "amount1": -1058227178594440450,
+            "timestamp": "2024-06-18 04:55:11",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x0c8939a26398cb0f3bd4f2d523edac14104aa397f4b04eceb97c0f80a9034056",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 2990908386285067244606,
+            "token1": "WETH",
+            "amount1": -1099197440889140430,
+            "timestamp": "2024-06-18 12:17:23",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x22558a7a21c28bd3cb2628757ad2c022884597770925d0906faf844bf4825bd5",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 3181363625705918512229,
+            "token1": "WETH",
+            "amount1": -1167117186165582471,
+            "timestamp": "2024-06-18 12:27:11",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xa0ace20d851d0cb68a911959e620fed5c097a9899567342a1a75b70a67829429",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 3919887901498626622450,
+            "token1": "WETH",
+            "amount1": -1428086752155064900,
+            "timestamp": "2024-06-18 14:12:11",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x4258dffdb710bf9e2cb5ad3d16d2482cf1ed83c04e55cd52f60aec2df524d5da",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 3552292654589281357979,
+            "token1": "WETH",
+            "amount1": -1286161583308667645,
+            "timestamp": "2024-06-18 14:19:23",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xb29846c8423b0b9181b4f3a7a09bc42b09aa7fb2af01aea25867e3757179ca58",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 3964026422158638627535,
+            "token1": "WETH",
+            "amount1": -1432769689234356453,
+            "timestamp": "2024-06-18 15:16:11",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x8f2a962e7f9b23107e3690f6f684671b8d7051c2b383985be27707710f565aec",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 1646946928941028837038,
+            "token1": "WETH",
+            "amount1": -612465007689343855,
+            "timestamp": "2024-06-19 01:20:47",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x7f9ee2aa40db0ac4d93023e007636bc296b7abc36d11183ee993c018e3419347",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 2255257458832969040923,
+            "token1": "WETH",
+            "amount1": -838936007217193027,
+            "timestamp": "2024-06-19 01:27:23",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x38e394ead92fd24e5ae711968338dd799905a75cf7532669cd6edc7452eabad8",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 3856177623308467131265,
+            "token1": "WETH",
+            "amount1": -1437401351063009237,
+            "timestamp": "2024-06-19 10:31:47",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0xc5db54ff02ab9f690a35baccf7ef524c845e8e1ab397cbace0330c6f5799c703",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 725034095410153777142,
+            "token1": "WETH",
+            "amount1": -269218256812885826,
+            "timestamp": "2024-06-19 10:32:11",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0xbaf5c609e9ce3476d6eeaf855c793620e82ec55de9d1642707f59e53cd4967fb",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 1296870952773392043520,
+            "token1": "WETH",
+            "amount1": -491300929906486130,
+            "timestamp": "2024-06-19 10:33:59",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0xfd988b1473cd6af850d486408fb6d70f0e9453dd45d98f74a0c8f3d6109649dc",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 2496167841824588237304,
+            "token1": "WETH",
+            "amount1": -926154265390816462,
+            "timestamp": "2024-06-19 12:49:59",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0xcf186f3c3c331b40967f1604296a3dd23428a9e65500731420b2287324606eb3",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 2835508537352770447147,
+            "token1": "WETH",
+            "amount1": -1068294323413939985,
+            "timestamp": "2024-06-19 18:20:11",
+            "pool_liquidity": 26423309731515024603441
+        },
+        {
+            "tx_hash": "0x8bc4fb80221d369d46dba7219007062dace8414a62bc502cb8cedbba2aac0bc9",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": 2686537172605807522657,
+            "token1": "WETH",
+            "amount1": -1008094259571636856,
+            "timestamp": "2024-06-19 18:25:47",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0xb720922cc64552037b98c9e7fe60f653fb0ac0f5c4cbd0637b6167c0ea5bffe4",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": -2711300698169052212233,
+            "token1": "WETH",
+            "amount1": 1076906573979155200,
+            "timestamp": "2024-06-19 19:46:23",
+            "pool_liquidity": 27145355195567417098100
+        },
+        {
+            "tx_hash": "0x5438560eeb78060c6c534938f4c32f0808bccdc5863f02fbeb1e55c0e89ddff6",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": -2498062383712039356198,
+            "token1": "WETH",
+            "amount1": 990464715181717888,
+            "timestamp": "2024-06-20 01:34:23",
+            "pool_liquidity": 26416182546640423692373
+        },
+        {
+            "tx_hash": "0x15df86d7af4472325f0a0db91d1ea496da674233a8d34a30fa6cb7a95b940bb5",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": -1397695825255215554731,
+            "token1": "WETH",
+            "amount1": 560431135586303296,
+            "timestamp": "2024-06-20 01:53:11",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0x9ed5052794e574082bf9e74b87cafbd653bc58d238b5c20f0f3cf3cd169308de",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": -2690875116930933806809,
+            "token1": "WETH",
+            "amount1": 1081761607750988160,
+            "timestamp": "2024-06-20 02:05:11",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0x85aadbd08081887644069545ccf0f0a04a541853c5a099c733b85b90d90b8222",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": -1755674282495413328572,
+            "token1": "WETH",
+            "amount1": 708112848989857152,
+            "timestamp": "2024-06-20 02:09:11",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0x3c0c9acaff02c6873d65f4659835a38e2690a1d057eeea6e1ee6f9a82b4de463",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": -2441571340328122862624,
+            "token1": "WETH",
+            "amount1": 990283437697611136,
+            "timestamp": "2024-06-20 07:43:11",
+            "pool_liquidity": 27137150406191680737439
+        },
+        {
+            "tx_hash": "0xe720880915bfb6165b7d1d705f5d44047eef67b4e2850dea240afe1887bd7747",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": -1716855831128396138923,
+            "token1": "WETH",
+            "amount1": 699899783437849856,
+            "timestamp": "2024-06-20 22:23:23",
+            "pool_liquidity": 27536381031265731712564
+        },
+        {
+            "tx_hash": "0x18a06ca70b700b707678fc6be8632a1dada0fd635499f0cc3362d23d5c8b37af",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": -776783184518688442275,
+            "token1": "WETH",
+            "amount1": 318834406169608960,
+            "timestamp": "2024-06-20 22:24:47",
+            "pool_liquidity": 27536381031265731712564
+        },
+        {
+            "tx_hash": "0xc5aa369f340d98dd3189871787b376bd865b3113691084e316fded3c282dfcc9",
+            "user_address": "0x7692527F9F291e8bCe0cBBe5732Bf39654eEF8e4",
+            "token0": "SAFE",
+            "amount0": -1467870570542449825780,
+            "token1": "WETH",
+            "amount1": 610119681486988416,
+            "timestamp": "2024-06-20 23:18:47",
+            "pool_liquidity": 27536381031265731712564
+        }
+    ],
+    "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9": [
+        {
+            "tx_hash": "0x57155da7e8d3be9f234683b310b1ff3bb284d87f91ed6feddd41cf84f71242ef",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 1996350252226233090263,
+            "token1": "WETH",
+            "amount1": -738317001391295296,
+            "timestamp": "2024-06-19 05:50:35",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x130844df44c7a087b85378e21be263e4a510e8a90c39efcba3d820c19d9bd153",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 1988816318571913917311,
+            "token1": "WETH",
+            "amount1": -733059824874489689,
+            "timestamp": "2024-06-19 06:09:11",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0xce309b1e759a5d4955bffcc7b9ba12996a4240d5d8fcba78b6703b118bcbb663",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 1741913088029435641196,
+            "token1": "WETH",
+            "amount1": -639173487256372111,
+            "timestamp": "2024-06-19 08:29:23",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0x8ce9ea531af8d2a9177e5a5b1775d0a5288f8e6bcfab49405fff35ff2b3da9d7",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 3056312868414853500963,
+            "token1": "WETH",
+            "amount1": -1130326666398223843,
+            "timestamp": "2024-06-18 02:32:23",
+            "pool_liquidity": 22879146984489325424295
+        },
+        {
+            "tx_hash": "0xe4859307b823d1a574d2b1b7e616efc94541d0cd101f9d8f4f6c8e01603b3aa6",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 2402875458263286380404,
+            "token1": "WETH",
+            "amount1": -884619581414287258,
+            "timestamp": "2024-06-18 02:33:11",
+            "pool_liquidity": 22879146984489325424295
+        },
+        {
+            "tx_hash": "0x9f40648cbdc730e362ebd27933b8652db6d60958bcf6f39e7228b4551ec76a7f",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 2362416216183014284094,
+            "token1": "WETH",
+            "amount1": -940860095241340450,
+            "timestamp": "2024-06-17 21:09:11",
+            "pool_liquidity": 23288335029255197533420
+        },
+        {
+            "tx_hash": "0x20d4657e528c930aca63f21bd4647a772b6d0708ca596a45156d5ca36b7785fe",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 3634724781190239912169,
+            "token1": "WETH",
+            "amount1": -1427236807482329715,
+            "timestamp": "2024-06-17 21:50:23",
+            "pool_liquidity": 23273940282546457844208
+        },
+        {
+            "tx_hash": "0xa8a989d7a9e83aa232f97cf3119b362edb24289f48a0d20fa96b4ce80d412971",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 2658305817805073554793,
+            "token1": "WETH",
+            "amount1": -1042654163409657712,
+            "timestamp": "2024-06-17 23:01:23",
+            "pool_liquidity": 23258237984268147932224
+        },
+        {
+            "tx_hash": "0x8bf870a9c696185112a2de359798b2b7da93dea4c9f4697ab79e332b9ce73b56",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 2461149808409330026347,
+            "token1": "WETH",
+            "amount1": -961843762892963669,
+            "timestamp": "2024-06-17 23:26:23",
+            "pool_liquidity": 23601192448541717918954
+        },
+        {
+            "tx_hash": "0x95ba5aa56614d9e729bd141538d112bc8cb9225d5ba9049c1204c0c9a48cb02a",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 2727546218527922001171,
+            "token1": "WETH",
+            "amount1": -1064600438210501239,
+            "timestamp": "2024-06-18 01:44:47",
+            "pool_liquidity": 22879146984489325424295
+        },
+        {
+            "tx_hash": "0x0bf82223e43732e6f2f3c40641c970a7450f185a22b69e0ff35af891d859e752",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 4003802791205460874888,
+            "token1": "WETH",
+            "amount1": -1535341597469450271,
+            "timestamp": "2024-06-18 01:49:59",
+            "pool_liquidity": 22879146984489325424295
+        },
+        {
+            "tx_hash": "0x2476b57dbe247618f78e95c21b7b7a41bdfa71f65b4d6afee6afc10e78f86fb5",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 2289512911926008714198,
+            "token1": "WETH",
+            "amount1": -873273142304951629,
+            "timestamp": "2024-06-18 01:50:23",
+            "pool_liquidity": 22879146984489325424295
+        },
+        {
+            "tx_hash": "0xd019c264efd7dc880b50d7774b95797edf65deec74f6a859447e1faa09817886",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 1714489520567612849410,
+            "token1": "WETH",
+            "amount1": -626416602053462673,
+            "timestamp": "2024-06-18 12:30:23",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xc3bcc3191fa5a5bbff966f500f38b65f03ec85632e0585ff4e581867118e14eb",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 2740091081592790287510,
+            "token1": "WETH",
+            "amount1": -995907025440372867,
+            "timestamp": "2024-06-18 15:10:23",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x258f72a823517c432174e6eb14a9cdbe405ce7c4d5e3a4cb460bc4d0a0e4e0d4",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 2324152381740148654571,
+            "token1": "WETH",
+            "amount1": -844477393274025064,
+            "timestamp": "2024-06-18 15:16:47",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xb69fb40b43c9dd19be1ffb14ca6c430b287b2261883c33c9dd27e1113f8f0661",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 2506986111195587000225,
+            "token1": "WETH",
+            "amount1": -980671741903671514,
+            "timestamp": "2024-06-18 21:22:59",
+            "pool_liquidity": 23364417134434895604711
+        },
+        {
+            "tx_hash": "0x82d23ce5170b94012b619023fb273df56687a0b5702a07659931dc262c9d15b9",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 2505789405822429442793,
+            "token1": "WETH",
+            "amount1": -968765451660076502,
+            "timestamp": "2024-06-18 21:23:23",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0xe645989ce347cf63fcca694f513a9a7b84b7af78444a5932b67cbb8ac7f60769",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 1902559795578904425879,
+            "token1": "WETH",
+            "amount1": -719383594956600969,
+            "timestamp": "2024-06-19 00:42:11",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x9c547431d2f331197e99779e2c5b2428bc8f4c34d07639be3aada6b60d6d534b",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 1854206740743514295398,
+            "token1": "WETH",
+            "amount1": -698855418172925275,
+            "timestamp": "2024-06-19 00:46:23",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x3fc941f4c65a20cc69219a374f28cf1c201b99ef18d3fee2306a06beb721108d",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 2040449122005321624909,
+            "token1": "WETH",
+            "amount1": -766501861756484513,
+            "timestamp": "2024-06-19 01:02:11",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0xe9456e922bb27adb6a17d8cfc7ad93c156ea5252b4919c51f2dab8dc14c3496c",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 2004445665906338967574,
+            "token1": "WETH",
+            "amount1": -750389653597842675,
+            "timestamp": "2024-06-19 01:04:35",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x66c662bcefe2edf8473e4135454577dd95d7bc459c27699ff07dde09bf8fbc11",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 2095153008523061595894,
+            "token1": "WETH",
+            "amount1": -781620323102662273,
+            "timestamp": "2024-06-19 01:16:23",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x257f8be86b5c67e964b476339a222ff884b88d63d68529c503345e5dba2a6b0e",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 893901152764654953400,
+            "token1": "WETH",
+            "amount1": -325636749840056531,
+            "timestamp": "2024-06-19 09:13:59",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0x132a8efc3932053b6027e6417a4a05c6286eba76db49428d5c8cf4beca4eef5a",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 2191084610267696267955,
+            "token1": "WETH",
+            "amount1": -796138662973288951,
+            "timestamp": "2024-06-19 09:14:47",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0x2a15ca407c15016ef3e2ed13e6e85df5c7ec1e22195983ad6f0adcbc804662d7",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 3834095980399982636867,
+            "token1": "WETH",
+            "amount1": -1458843313658825785,
+            "timestamp": "2024-06-19 10:33:35",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0x630675e91279b5f41679fefcb064a30b3f9a2a8eb15fafb74897d44fcb86e386",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 1762144718860400140886,
+            "token1": "WETH",
+            "amount1": -658401053477517594,
+            "timestamp": "2024-06-19 10:49:35",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0x5eb1b6b7f99958ee0c6f65b60f512dff1e822692f9770813d8d61a8ed395b231",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": 2028858434805579366887,
+            "token1": "WETH",
+            "amount1": -755637978813036256,
+            "timestamp": "2024-06-19 12:47:23",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0x0fff62fdf3aa511f57c9ea10ed566c227b0aae69580c402aeab0a5a54b3b325d",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": -707736821315070850089,
+            "token1": "WETH",
+            "amount1": 279939118958435584,
+            "timestamp": "2024-06-20 01:34:11",
+            "pool_liquidity": 26416182546640423692373
+        },
+        {
+            "tx_hash": "0x50f113742f1eb10dcfd9077326a829fbb2f5b4d5b10a69e4a189ba79ce65bab9",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": -1769169594933869936542,
+            "token1": "WETH",
+            "amount1": 711174568806619264,
+            "timestamp": "2024-06-20 22:18:47",
+            "pool_liquidity": 27537458635766867162157
+        },
+        {
+            "tx_hash": "0x7248520edfdf3db8092395cbde312edd1acd79958552fee0d2679e7467fb51d9",
+            "user_address": "0x2A0eFF97Bb68298e36BEa8c86852436E96Af92b9",
+            "token0": "SAFE",
+            "amount0": -2007046490807576430526,
+            "token1": "WETH",
+            "amount1": 820427532734269440,
+            "timestamp": "2024-06-20 22:24:11",
+            "pool_liquidity": 27536381031265731712564
+        }
+    ],
+    "0x1Dd333d27746D2283D01C5a759cB04A0eAD821D4": [
+        {
+            "tx_hash": "0x0a13670f4d241caaa26aa5b2bb96bb528043c31424817ab5c17dafecc3c80742",
+            "user_address": "0x1Dd333d27746D2283D01C5a759cB04A0eAD821D4",
+            "token0": "SAFE",
+            "amount0": 3017890512404479474893,
+            "token1": "WETH",
+            "amount1": -1107426408921846233,
+            "timestamp": "2024-06-19 06:09:59",
+            "pool_liquidity": 20737184362230971105806
+        },
+        {
+            "tx_hash": "0xb2bcf6a4faa315fd66f87d89f6157ab75d6bd8656cf6783744ca60ebaf6d66b5",
+            "user_address": "0x1Dd333d27746D2283D01C5a759cB04A0eAD821D4",
+            "token0": "SAFE",
+            "amount0": 3874906636280058764763,
+            "token1": "WETH",
+            "amount1": -1415514445978283542,
+            "timestamp": "2024-06-18 02:36:47",
+            "pool_liquidity": 20737184362230971105806
+        },
+        {
+            "tx_hash": "0x49f8458627d4d8362eb88c55800876dd253eb58c33efa08e2f2779ef2d069e91",
+            "user_address": "0x1Dd333d27746D2283D01C5a759cB04A0eAD821D4",
+            "token0": "SAFE",
+            "amount0": 2816399675833417611561,
+            "token1": "WETH",
+            "amount1": -1115852070083427726,
+            "timestamp": "2024-06-17 21:11:35",
+            "pool_liquidity": 21131977660288103525719
+        },
+        {
+            "tx_hash": "0xe8390e20d9b7887632af77b92e3ba2afb1b8cb33a14845b0f168024fa7675764",
+            "user_address": "0x1Dd333d27746D2283D01C5a759cB04A0eAD821D4",
+            "token0": "SAFE",
+            "amount0": -3204326361091049436453,
+            "token1": "WETH",
+            "amount1": 1285164683376019673,
+            "timestamp": "2024-06-18 18:32:35",
+            "pool_liquidity": 21459229826283363600465
+        },
+        {
+            "tx_hash": "0x1f3f34cc5b85743da84ee1125e700643ff24d3573910d36ce6ee2cc7cd828f93",
+            "user_address": "0x1Dd333d27746D2283D01C5a759cB04A0eAD821D4",
+            "token0": "SAFE",
+            "amount0": -2743935437973313768353,
+            "token1": "WETH",
+            "amount1": 1097647026588578074,
+            "timestamp": "2024-06-19 19:49:11",
+            "pool_liquidity": 25070678756464627331592
+        }
+    ],
+    "0xcA74F404E0C7bfA35B13B511097df966D5a65597": [
+        {
+            "tx_hash": "0x4ce3c3adbf13fa08806fc7123739f24ba8cf662ac58ab64637ad4b100cda8d86",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": -2405607392525164782191,
+            "token1": "WETH",
+            "amount1": 900000000000000000,
+            "timestamp": "2024-06-19 06:11:23",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0x848f5db4bfcc89d9e31f5c9ea7e50a27dce87030c16c289cf325cb206d398508",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": -2694552100497978354898,
+            "token1": "WETH",
+            "amount1": 1000000000000000000,
+            "timestamp": "2024-06-19 09:13:47",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0x05c7a8e9466758a3e159436fda6ef15349ea9ba1fa757cb2bdf1c003b1600543",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": -3141212813062189093594,
+            "token1": "WETH",
+            "amount1": 1300000000000000000,
+            "timestamp": "2024-06-17 11:00:35",
+            "pool_liquidity": 23287257424754062083827
+        },
+        {
+            "tx_hash": "0x4ff633ab694bf342fddecda62ca5b4b547343dbeca73b41e246dbc1f0ce5f6ac",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": -1536212365111899929054,
+            "token1": "WETH",
+            "amount1": 640000000000000000,
+            "timestamp": "2024-06-17 12:48:59",
+            "pool_liquidity": 23287257424754062083827
+        },
+        {
+            "tx_hash": "0x22d94c86e4e26ad1ee893fb59a38c46fb0eefaa9043508e7809e1ca8f406a943",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": -2433284986532510720268,
+            "token1": "WETH",
+            "amount1": 1000000000000000000,
+            "timestamp": "2024-06-17 17:51:35",
+            "pool_liquidity": 23287257424754062083827
+        },
+        {
+            "tx_hash": "0x2c2fa9d217ac6e440deb73aef12ed9d41965109cd9787d948b65e7b9dca6edbd",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": -2460685512181254046301,
+            "token1": "WETH",
+            "amount1": 1000000000000000000,
+            "timestamp": "2024-06-17 21:10:23",
+            "pool_liquidity": 23287257424754062083827
+        },
+        {
+            "tx_hash": "0xb831af72da009ded914011b4beb9bfac5a00cdf36d466eb146153d5bed748f30",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": -2481277763414495154688,
+            "token1": "WETH",
+            "amount1": 1000000000000000000,
+            "timestamp": "2024-06-17 21:37:35",
+            "pool_liquidity": 23273940282546457844208
+        },
+        {
+            "tx_hash": "0x2e4fe3fd49c42f4c354e22fe547cd35713edcf907ddd9bef715844e829b04bc9",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": -2498532329452114048887,
+            "token1": "WETH",
+            "amount1": 1000000000000000000,
+            "timestamp": "2024-06-17 22:45:35",
+            "pool_liquidity": 23273940282546457844208
+        },
+        {
+            "tx_hash": "0xb904079709e0ea88ebd5d1a420d84d3e6f4c02180584bdea57ad5ff543b99452",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": -5311205919809916718281,
+            "token1": "WETH",
+            "amount1": 2000000000000000000,
+            "timestamp": "2024-06-18 01:51:47",
+            "pool_liquidity": 22879146984489325424295
+        },
+        {
+            "tx_hash": "0x2507da7294f5585d6c8a3419b46da0df01552846b4576e88d19538a644213681",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": -3446368182678299643006,
+            "token1": "WETH",
+            "amount1": 1300000000000000000,
+            "timestamp": "2024-06-18 02:27:59",
+            "pool_liquidity": 22879146984489325424295
+        },
+        {
+            "tx_hash": "0x16a06dcb74f960f330600a946ff1d515dab7cc74702dd4c385a1604f981b2041",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": -2001754221832286205958,
+            "token1": "WETH",
+            "amount1": 750000000000000000,
+            "timestamp": "2024-06-18 12:22:35",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x3d1f872c6b09ba2ab40dee217b663b34cf9916d4289676da95373b77f046fa45",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": -3519055478220879736664,
+            "token1": "WETH",
+            "amount1": 1300000000000000000,
+            "timestamp": "2024-06-18 14:26:11",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xabf6930a6f3bdcd3eb5338bf220639bffe1b2e7fa96775d01e9dcfddb7511511",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": 2124602079036753372550,
+            "token1": "WETH",
+            "amount1": -824400305374560028,
+            "timestamp": "2024-06-18 18:25:23",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xb905e6c72979fb83f5c38c1729a033802db3af593a82e7b89bba89b5089e9404",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": 2096815405126660349116,
+            "token1": "WETH",
+            "amount1": -825230956089922013,
+            "timestamp": "2024-06-18 18:34:35",
+            "pool_liquidity": 23364417134434895604711
+        },
+        {
+            "tx_hash": "0xbe4c3682f4d4e1edc1ac5448f06988719ba81a8797434fb18490d0c9fb93538e",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": 3335992519787511871254,
+            "token1": "WETH",
+            "amount1": -1302127732948352188,
+            "timestamp": "2024-06-18 18:44:23",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x51ddc7a55739afad01163f8703a299fe3113c1ad2507d80cee5a5e22dae4c958",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": -2107566003084091900568,
+            "token1": "WETH",
+            "amount1": 800000000000000000,
+            "timestamp": "2024-06-19 01:24:47",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0xb59727a87e367a884ca96e4452d6dacac60ccc5f95d367bc7b6b972b89bdb10d",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": 2590903387146348128804,
+            "token1": "WETH",
+            "amount1": -1013259539723695509,
+            "timestamp": "2024-06-19 19:58:23",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0x305439453ca5930c20184d947969cb3af91b3d90201f492cbc33daaabcd1e529",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": 2151765409692483240129,
+            "token1": "WETH",
+            "amount1": -847469756185800934,
+            "timestamp": "2024-06-20 02:04:11",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0x19e61eac846d82c9581e28527db9bb55505349ae116edb4726e86573e6ab562d",
+            "user_address": "0xcA74F404E0C7bfA35B13B511097df966D5a65597",
+            "token0": "SAFE",
+            "amount0": 2022282259053068291895,
+            "token1": "WETH",
+            "amount1": -824937466435747700,
+            "timestamp": "2024-06-20 23:31:23",
+            "pool_liquidity": 27536381031265731712564
+        }
+    ],
+    "0x2dCD5a8F499dd1515025F1D60960b0227186d706": [
+        {
+            "tx_hash": "0xa0c14706e9139ae5cce6686296d1d5341fe7bbd2d30f790ff59594d4db08f0ce",
+            "user_address": "0x2dCD5a8F499dd1515025F1D60960b0227186d706",
+            "token0": "SAFE",
+            "amount0": -74684671547759583724,
+            "token1": "WETH",
+            "amount1": 28000000000000000,
+            "timestamp": "2024-06-19 07:31:59",
+            "pool_liquidity": 22811860801333760872314
+        }
+    ],
+    "0x4339889FD9dFCa20a423fbA011e9dfF1C856CAEb": [
+        {
+            "tx_hash": "0xc205ec2a37d3dd89e3106866039649171551559da8fa01c17efd76b0b1dca52f",
+            "user_address": "0x4339889FD9dFCa20a423fbA011e9dfF1C856CAEb",
+            "token0": "SAFE",
+            "amount0": -3775527929339953571315,
+            "token1": "WETH",
+            "amount1": 1393625317818283520,
+            "timestamp": "2024-06-19 08:40:11",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0xb6b9bebf1be2d608342e672eeee0292616c29bce37fb583728b570773e6878fb",
+            "user_address": "0x4339889FD9dFCa20a423fbA011e9dfF1C856CAEb",
+            "token0": "SAFE",
+            "amount0": -2154215516573963429378,
+            "token1": "WETH",
+            "amount1": 796223057220742016,
+            "timestamp": "2024-06-19 09:13:35",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0xa3ac47b8920ee705dcef957150998a8f8dd9987c8f9d8a4ecad685730d8f2b2b",
+            "user_address": "0x4339889FD9dFCa20a423fbA011e9dfF1C856CAEb",
+            "token0": "SAFE",
+            "amount0": 10000000000000000000000,
+            "token1": "WETH",
+            "amount1": -4080175016456621510,
+            "timestamp": "2024-06-17 11:00:11",
+            "pool_liquidity": 23287257424754062083827
+        },
+        {
+            "tx_hash": "0x22116071c5f6a193b763c8f4f11836e73d71b6b97956d9b3a8461ef6851314eb",
+            "user_address": "0x4339889FD9dFCa20a423fbA011e9dfF1C856CAEb",
+            "token0": "SAFE",
+            "amount0": 1098060812525805199494,
+            "token1": "WETH",
+            "amount1": -414892399647516718,
+            "timestamp": "2024-06-19 17:46:59",
+            "pool_liquidity": 26423309731515024603441
+        },
+        {
+            "tx_hash": "0x36cfe5f1102b1b3d3f6d6ee1857edf47d2e8d2351c01c26f83b5bad446f58e80",
+            "user_address": "0x4339889FD9dFCa20a423fbA011e9dfF1C856CAEb",
+            "token0": "SAFE",
+            "amount0": -732206948614934317313,
+            "token1": "WETH",
+            "amount1": 279932538640441440,
+            "timestamp": "2024-06-19 18:26:47",
+            "pool_liquidity": 26423309731515024603441
+        },
+        {
+            "tx_hash": "0xcae971cb1668af000bb099598238f789f7113d40624e327486bcf89d99703838",
+            "user_address": "0x4339889FD9dFCa20a423fbA011e9dfF1C856CAEb",
+            "token0": "SAFE",
+            "amount0": 1933706876359117531206,
+            "token1": "WETH",
+            "amount1": -758727572129458015,
+            "timestamp": "2024-06-19 19:49:35",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0xc4872cb674b6387a5b4e13286594446da8d182ffd18d2f5f7d6a37e6c644b5dc",
+            "user_address": "0x4339889FD9dFCa20a423fbA011e9dfF1C856CAEb",
+            "token0": "SAFE",
+            "amount0": 731879874700000000000,
+            "token1": "WETH",
+            "amount1": -283731444752989925,
+            "timestamp": "2024-06-20 00:24:35",
+            "pool_liquidity": 26416182546640423692373
+        }
+    ],
+    "0x0DdcB0769a3591230cAa80F85469240b71442089": [
+        {
+            "tx_hash": "0x599b6cff568dea0b055b40f49bfa93e28dc8fe62fbc93bc3a74f8e498d840975",
+            "user_address": "0x0DdcB0769a3591230cAa80F85469240b71442089",
+            "token0": "SAFE",
+            "amount0": -2075221197796591193993,
+            "token1": "WETH",
+            "amount1": 774877331778431586,
+            "timestamp": "2024-06-18 02:35:59",
+            "pool_liquidity": 22879146984489325424295
+        },
+        {
+            "tx_hash": "0xaad647c4555705ce1bda481ec85498baee71e8e9f31bb5396d117aac4f3b2076",
+            "user_address": "0x0DdcB0769a3591230cAa80F85469240b71442089",
+            "token0": "SAFE",
+            "amount0": -804422228071272455308,
+            "token1": "WETH",
+            "amount1": 320319398204732245,
+            "timestamp": "2024-06-18 01:02:11",
+            "pool_liquidity": 23601192448541717918954
+        },
+        {
+            "tx_hash": "0xdae4bd8e215fd38b2a1966b0026c323365744bffbb2c97c56fc98f404713b8ed",
+            "user_address": "0x0DdcB0769a3591230cAa80F85469240b71442089",
+            "token0": "SAFE",
+            "amount0": -3454661406604284586974,
+            "token1": "WETH",
+            "amount1": 1298772106663667462,
+            "timestamp": "2024-06-18 04:06:47",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xc7d0af5b08e4336bfb16f0d60b532f8abaa59c51d81456af4e45fee023554b40",
+            "user_address": "0x0DdcB0769a3591230cAa80F85469240b71442089",
+            "token0": "SAFE",
+            "amount0": 441231626263323111533,
+            "token1": "WETH",
+            "amount1": -162594949440635037,
+            "timestamp": "2024-06-18 05:12:35",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x3ce7f53fd4a1b1a08a81bfbd28808645cadcd4c3b2d4a7bb1e1106246506e4f7",
+            "user_address": "0x0DdcB0769a3591230cAa80F85469240b71442089",
+            "token0": "SAFE",
+            "amount0": -778234217562275103805,
+            "token1": "WETH",
+            "amount1": 329591544829782411,
+            "timestamp": "2024-06-22 05:53:11",
+            "pool_liquidity": 27534966603472212910833
+        },
+        {
+            "tx_hash": "0x29f2c4d7a46abe0244a842a24318d30a9a3754625a1a9355085800f3abebf4d1",
+            "user_address": "0x0DdcB0769a3591230cAa80F85469240b71442089",
+            "token0": "SAFE",
+            "amount0": 1637969947402090421149,
+            "token1": "WETH",
+            "amount1": -624805485960056691,
+            "timestamp": "2024-06-19 18:31:11",
+            "pool_liquidity": 26423309731515024603441
+        },
+        {
+            "tx_hash": "0xc0a4b011bc38a5b3c95a062ae0625ef1f739a587034b3b17de53613ede4fcde0",
+            "user_address": "0x0DdcB0769a3591230cAa80F85469240b71442089",
+            "token0": "SAFE",
+            "amount0": 6369775908149631228827,
+            "token1": "WETH",
+            "amount1": -2501972582568890640,
+            "timestamp": "2024-06-20 19:00:35",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0xa1ed08d7f88a45a72a119517e8369b61921003bb8d5c57800e9a59e7228e856b",
+            "user_address": "0x0DdcB0769a3591230cAa80F85469240b71442089",
+            "token0": "SAFE",
+            "amount0": 1544346458034413146487,
+            "token1": "WETH",
+            "amount1": -616960801131783484,
+            "timestamp": "2024-06-20 22:23:11",
+            "pool_liquidity": 27536381031265731712564
+        },
+        {
+            "tx_hash": "0xd8a59326df224564689b2548b365fecee66da55d79ad1915a3d8080bc20caa2a",
+            "user_address": "0x0DdcB0769a3591230cAa80F85469240b71442089",
+            "token0": "SAFE",
+            "amount0": 439148923753912918992,
+            "token1": "WETH",
+            "amount1": -179267097634967832,
+            "timestamp": "2024-06-21 00:11:47",
+            "pool_liquidity": 27536381031265731712564
+        }
+    ],
+    "0xA2F7E3fF984aE10bE9Ca37929a60c71E828D6833": [
+        {
+            "tx_hash": "0x544136c63e0ee33636c266b54798028e54e84e7f2c9c6408a2e6a9199e6d4174",
+            "user_address": "0xA2F7E3fF984aE10bE9Ca37929a60c71E828D6833",
+            "token0": "SAFE",
+            "amount0": -2150136191830437077247,
+            "token1": "WETH",
+            "amount1": 800000000000000000,
+            "timestamp": "2024-06-18 02:48:59",
+            "pool_liquidity": 22841696013439595832455
+        }
+    ],
+    "0x755BaE1cd46C9C27A3230AeF0CE923BDa13d29F7": [
+        {
+            "tx_hash": "0x9b0cc62cc4bb912607dd1f587e4de53d7f1988126d65989868144e13f626f5dd",
+            "user_address": "0x755BaE1cd46C9C27A3230AeF0CE923BDa13d29F7",
+            "token0": "SAFE",
+            "amount0": -1474043930231052150982,
+            "token1": "WETH",
+            "amount1": 612491060009253072,
+            "timestamp": "2024-06-17 11:00:59",
+            "pool_liquidity": 23287257424754062083827
+        },
+        {
+            "tx_hash": "0xa9bb3ec3fbdd585df6c41e97f67be152329fc873f16ee6218f0f6fac597ac2c8",
+            "user_address": "0x755BaE1cd46C9C27A3230AeF0CE923BDa13d29F7",
+            "token0": "SAFE",
+            "amount0": -540783909146167951806,
+            "token1": "WETH",
+            "amount1": 228803990649191365,
+            "timestamp": "2024-06-22 05:47:47",
+            "pool_liquidity": 27534966603472212910833
+        },
+        {
+            "tx_hash": "0x21ff9c061966f7bdf2bf21361db210c796f8f0762867a2ef872438baa06f5853",
+            "user_address": "0x755BaE1cd46C9C27A3230AeF0CE923BDa13d29F7",
+            "token0": "SAFE",
+            "amount0": 1677664420481748697088,
+            "token1": "WETH",
+            "amount1": -622001146607959228,
+            "timestamp": "2024-06-19 01:37:11",
+            "pool_liquidity": 22642371670382503110052
+        }
+    ],
+    "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551": [
+        {
+            "tx_hash": "0x8fda9c2125818b223b562e5ea7e67ad3b2e4b2b3d68aede57baa770e275e4610",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -2165199452364918881033,
+            "token1": "WETH",
+            "amount1": 802604278593035378,
+            "timestamp": "2024-06-18 17:25:23",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xe48c265f98ab45d2bdb63bf144ebc2d1efd8e176af48d317500cdf56da796c7e",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -2387561042899160969315,
+            "token1": "WETH",
+            "amount1": 888419249279149770,
+            "timestamp": "2024-06-18 17:27:11",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x91f92d03b0f2e02db40bd7ed06ba050e021a8dff08edfe4f8261c4f12d826ab8",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1929501890102734840420,
+            "token1": "WETH",
+            "amount1": 736668650939774707,
+            "timestamp": "2024-06-18 17:46:23",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x3d305ac7f0b98eb0e98c3e1db52494c5f42bc1496c15cab36b7c65c3169df5ba",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -2617133223519135804262,
+            "token1": "WETH",
+            "amount1": 1003079456885203523,
+            "timestamp": "2024-06-18 17:48:11",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xc9ed8c4d98e3046470e30846167bd636ed5750392b4e6d710fbc3703e9627e41",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1652289188272387136924,
+            "token1": "WETH",
+            "amount1": 635591266156643297,
+            "timestamp": "2024-06-18 18:01:35",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xfc31146e06ca1ec1e1c2aaec09535cc15abdb05adf32e6776458441e541aa244",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1517736676345203439519,
+            "token1": "WETH",
+            "amount1": 587444035677405349,
+            "timestamp": "2024-06-18 18:15:11",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xc2ec96ffa9d9c0c3cdf0a3d7e3e34c2be2dd56ec5cf5730ca632975f6af06659",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": 1485514759611858910901,
+            "token1": "WETH",
+            "amount1": -586266463194439789,
+            "timestamp": "2024-06-17 21:21:59",
+            "pool_liquidity": 23273940282546457844208
+        },
+        {
+            "tx_hash": "0x8db46d81b08c795245a737e7d33324a319a1b8850c84f72bf533f75403d0025d",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": 747939324868205043959,
+            "token1": "WETH",
+            "amount1": -295876193144890920,
+            "timestamp": "2024-06-17 21:37:47",
+            "pool_liquidity": 23273940282546457844208
+        },
+        {
+            "tx_hash": "0xe9257b490d648e729f923025a5a5bc124630024f29de54fe05b3c09f49974206",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1502794220434985007248,
+            "token1": "WETH",
+            "amount1": 595014459480609267,
+            "timestamp": "2024-06-19 19:39:11",
+            "pool_liquidity": 26423309731515024603441
+        },
+        {
+            "tx_hash": "0x8a2c3b82efc05213c234d4a0c46140e106a0f8166f23c3355604f48525e3b62f",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -2488784602554902169939,
+            "token1": "WETH",
+            "amount1": 929620923102334190,
+            "timestamp": "2024-06-18 03:05:23",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x00f512844fd7dc57044c5a7d5aa6caa110c4bd91544662b8947405420424e76c",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1941142072871962275959,
+            "token1": "WETH",
+            "amount1": 730768176606363152,
+            "timestamp": "2024-06-18 06:55:59",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x2a24779ca0b1439f0fdb31f0113f2af74c9beea7f4a20242f0ef9330bc0b626e",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1520274005141197169985,
+            "token1": "WETH",
+            "amount1": 592873606784647499,
+            "timestamp": "2024-06-18 18:18:47",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xd816f62ca013adc37c8df598a729b20d8a427af2d58a01c49cadcc998c74cff5",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1815770094893663943989,
+            "token1": "WETH",
+            "amount1": 710147217155620202,
+            "timestamp": "2024-06-18 18:19:11",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x203f2e23126054c0260bd06522d5b2f0fde76d78051c3403e5e857ff0cfb4d9c",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1636108846236023484732,
+            "token1": "WETH",
+            "amount1": 645229426702265665,
+            "timestamp": "2024-06-18 18:21:35",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x42098827b3379ac98b71d8124f221dc4a0525ed6036bbae02450d79f40cf4604",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -2418316909392998415811,
+            "token1": "WETH",
+            "amount1": 957683590455610440,
+            "timestamp": "2024-06-18 18:25:35",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xd2970acec042f613f127a00c5dfd7dd22f89f6346bd45cd0707328c07e175df3",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1351392135551966978452,
+            "token1": "WETH",
+            "amount1": 539778924998880558,
+            "timestamp": "2024-06-18 18:32:11",
+            "pool_liquidity": 23563741477491988327114
+        },
+        {
+            "tx_hash": "0x9971a958c4b3114e1b4c6377b4e7abf4cbb2aca6c0135b27facbe7c9da57292a",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": 2062763909942662948719,
+            "token1": "WETH",
+            "amount1": -788666158142889545,
+            "timestamp": "2024-06-18 20:09:11",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x2d4b697b9782b4c406f3aad198d96b7ec2c86ea2f26b9d1a87f3f84fc173d1ae",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": 1833507862174178417778,
+            "token1": "WETH",
+            "amount1": -698672494155278898,
+            "timestamp": "2024-06-18 20:52:11",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x4bf9a4e756fa01e702724c5c1fb3264bc6e057402755df6a13b4abc2b1695627",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": 2366595002083740049325,
+            "token1": "WETH",
+            "amount1": -905271874180143346,
+            "timestamp": "2024-06-18 23:41:11",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x18d2e1561cb3cdee7f7d09146f720837a58d2f6cef0a794ee5be6491b832c009",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": 1778979374325433643960,
+            "token1": "WETH",
+            "amount1": -678078251896994666,
+            "timestamp": "2024-06-18 23:43:11",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x076022887fefcf8eecf56536f64402a70d0c3512b921bbcba85fd666b8e2272c",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": 2363110975819728403653,
+            "token1": "WETH",
+            "amount1": -936772795908485457,
+            "timestamp": "2024-06-20 11:04:35",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0x8eb3e8c1a33a9d90c2007d807e99d32cfd033c3a98fc4414e212e642343d2046",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": 2151493579293846352162,
+            "token1": "WETH",
+            "amount1": -835300422513411451,
+            "timestamp": "2024-06-19 18:43:47",
+            "pool_liquidity": 26423309731515024603441
+        },
+        {
+            "tx_hash": "0x308f62db2211c6dcfdd80e00955c81deb003ae1f339eab0d61a41b7920ce1c3d",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1989144809553229945751,
+            "token1": "WETH",
+            "amount1": 792824635835460267,
+            "timestamp": "2024-06-19 19:48:23",
+            "pool_liquidity": 27145355195567417098100
+        },
+        {
+            "tx_hash": "0xd6927516916cbcea4214cdc9769e2ca6b24002e3a734dfbcc1e25e58d23e6de5",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -2272436148115492705246,
+            "token1": "WETH",
+            "amount1": 904223677270566030,
+            "timestamp": "2024-06-20 01:39:59",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0xa4dd3d96b6b0af992449efeff0d1a304852b423efca20d052036018b41c1d2ab",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1595586722784910305221,
+            "token1": "WETH",
+            "amount1": 636703603255680776,
+            "timestamp": "2024-06-20 01:44:47",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0xe4812f7a32d51d84eb8ddd5f47744c958c8df465b0f8043d247fae5961390b44",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -2108344523974647960870,
+            "token1": "WETH",
+            "amount1": 852263251290927063,
+            "timestamp": "2024-06-20 07:35:11",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0xbfaf941f1bb7c333b70badad58be7f8594fa90861a554dade00b8506584dbaf3",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -2052525879560914304062,
+            "token1": "WETH",
+            "amount1": 835258726667009552,
+            "timestamp": "2024-06-20 07:48:35",
+            "pool_liquidity": 27137150406191680737439
+        },
+        {
+            "tx_hash": "0x666b98353fca1e164cf5015973856573b7df3f8da90a5a6983dfab090549c1a0",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1821512739033060640301,
+            "token1": "WETH",
+            "amount1": 774841537631937422,
+            "timestamp": "2024-06-21 11:20:47",
+            "pool_liquidity": 27534966603472212910833
+        },
+        {
+            "tx_hash": "0x5b48886c6f923ca47a0a9b1d588399656eb67000b6ef6837676e26c97072a642",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -4734749858533498819624,
+            "token1": "WETH",
+            "amount1": 1888807367754269516,
+            "timestamp": "2024-06-20 12:12:35",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0x20e992753c65d864bb6e4e57de1e88cf1dcd56e6f8634b4652ff61c1c2127a16",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -2805428850771296561930,
+            "token1": "WETH",
+            "amount1": 1125358004962670158,
+            "timestamp": "2024-06-20 13:05:11",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0xa78db5b03270c4b0ad6aa939de212999eb52d26dd47d5f74ff7d0b4ce2bf3085",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -2167135655001316434445,
+            "token1": "WETH",
+            "amount1": 865264599160678917,
+            "timestamp": "2024-06-20 17:38:35",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0x93ab572568505dc2cbd5f4306f24ccf43ecbb07452fedc72dea7e8888fffc940",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -2149068104102412429484,
+            "token1": "WETH",
+            "amount1": 864277018115963604,
+            "timestamp": "2024-06-20 19:04:23",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0xbb71325d19224a08cdf324aae0b0fdae49c1b7ccdee2f6eeae0a6e44bf495bc3",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -2440643596985847806998,
+            "token1": "WETH",
+            "amount1": 984858960137255305,
+            "timestamp": "2024-06-20 19:09:11",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0x39b9ea1d35664c449b3108fb03114b02b33dc61735556e7812819b125f2b4574",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -2274525573481841093535,
+            "token1": "WETH",
+            "amount1": 926610540465588493,
+            "timestamp": "2024-06-20 22:22:11",
+            "pool_liquidity": 27536381031265731712564
+        },
+        {
+            "tx_hash": "0x22a89d6fd444ac456d44ad743bafd716f0b8308045afefe18c3c1d30987543e9",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1414703332304838330148,
+            "token1": "WETH",
+            "amount1": 579741472358267604,
+            "timestamp": "2024-06-20 22:24:35",
+            "pool_liquidity": 27536381031265731712564
+        },
+        {
+            "tx_hash": "0x76145e819d49a4017ea9de175d4b143b2a60e08301fd5b4a67ea6b6eb12c3cac",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -3064160208092912903287,
+            "token1": "WETH",
+            "amount1": 1261244676680561261,
+            "timestamp": "2024-06-20 22:24:59",
+            "pool_liquidity": 27536381031265731712564
+        },
+        {
+            "tx_hash": "0x468d564521b2ed90675eef61c3879389b50aed5f8015c72b86ee1e1fc86e2b1c",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1525693954629792915111,
+            "token1": "WETH",
+            "amount1": 630111515011258182,
+            "timestamp": "2024-06-20 22:26:35",
+            "pool_liquidity": 27536381031265731712564
+        },
+        {
+            "tx_hash": "0x11088fe685ace8575dc407e1c02b38684737dce49a78a9513db9c714a0663fb9",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1144523353611404484183,
+            "token1": "WETH",
+            "amount1": 473616223405488356,
+            "timestamp": "2024-06-20 22:27:35",
+            "pool_liquidity": 27536381031265731712564
+        },
+        {
+            "tx_hash": "0xbd7c943686910e30e7b45ea578555137f5d3cae45e5cf3dbef61f9119c39da00",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1706069583939660150099,
+            "token1": "WETH",
+            "amount1": 707471911523239046,
+            "timestamp": "2024-06-20 23:17:11",
+            "pool_liquidity": 27536381031265731712564
+        },
+        {
+            "tx_hash": "0xd02fa4de9317ca0decb9d432e52898140c2cf7e7ac44e6c527e3fe4842bda83c",
+            "user_address": "0x93793Bd1f3e35a0Efd098c30e486A860A0ef7551",
+            "token0": "SAFE",
+            "amount0": -1702058210154704795396,
+            "token1": "WETH",
+            "amount1": 708250959354927580,
+            "timestamp": "2024-06-20 23:31:59",
+            "pool_liquidity": 27536381031265731712564
+        }
+    ],
+    "0x3d9aAE030B9661e3605b3acB5d0385EDE221a0cC": [
+        {
+            "tx_hash": "0x67ee0e49453498a180f75652143431fc25a0289c3c4f3ecbe62bce5d8728429b",
+            "user_address": "0x3d9aAE030B9661e3605b3acB5d0385EDE221a0cC",
+            "token0": "SAFE",
+            "amount0": -2066067708823938251148,
+            "token1": "WETH",
+            "amount1": 771675453149821156,
+            "timestamp": "2024-06-18 17:32:47",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x840a2bad92cf93a90273c85daacfad4480a926f7034328f1a1dd51915d27ccc8",
+            "user_address": "0x3d9aAE030B9661e3605b3acB5d0385EDE221a0cC",
+            "token0": "SAFE",
+            "amount0": -2018542066648411996521,
+            "token1": "WETH",
+            "amount1": 778920012033146053,
+            "timestamp": "2024-06-18 18:02:35",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xb10f6f9c42d2de69d6bd28bfbea98f06f00836956ed2d6c263bea789a3377061",
+            "user_address": "0x3d9aAE030B9661e3605b3acB5d0385EDE221a0cC",
+            "token0": "SAFE",
+            "amount0": -2233454084480063954860,
+            "token1": "WETH",
+            "amount1": 915474281163864954,
+            "timestamp": "2024-06-17 20:08:35",
+            "pool_liquidity": 23287257424754062083827
+        },
+        {
+            "tx_hash": "0x6709a81528c248b0bbeb0d889ca72d9591cb4e4816decacad0205dfa3e41317e",
+            "user_address": "0x3d9aAE030B9661e3605b3acB5d0385EDE221a0cC",
+            "token0": "SAFE",
+            "amount0": -2146228251970824780533,
+            "token1": "WETH",
+            "amount1": 864862600845953293,
+            "timestamp": "2024-06-20 07:27:11",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0x637efa27404025896294dbe5d3962e36c3e7e96750e872b25dfd6e54a196e24d",
+            "user_address": "0x3d9aAE030B9661e3605b3acB5d0385EDE221a0cC",
+            "token0": "SAFE",
+            "amount0": -1175553929325484959291,
+            "token1": "WETH",
+            "amount1": 489571258454653156,
+            "timestamp": "2024-06-20 23:20:35",
+            "pool_liquidity": 27536381031265731712564
+        }
+    ],
+    "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123": [
+        {
+            "tx_hash": "0xdc3d3b2527562f487dd58eedc7a7a8f47e9e262bf662dee742a692fb7448aeea",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": -4250324704475926000000,
+            "token1": "WETH",
+            "amount1": 1595973690358073527,
+            "timestamp": "2024-06-18 17:39:11",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x91ce34a19553c1f00e0e12a5a09771f5def069e4c12487740f02fef9e0a34579",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": -4529201604232740000000,
+            "token1": "WETH",
+            "amount1": 1719751833085474556,
+            "timestamp": "2024-06-18 17:40:59",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xfdf00b5a5cc149c1e12b14e10f8565b529e9ab3ce6bf99ef11b185ebb5439380",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": -5424408752618870000000,
+            "token1": "WETH",
+            "amount1": 2214167648846140245,
+            "timestamp": "2024-06-17 17:50:47",
+            "pool_liquidity": 23287257424754062083827
+        },
+        {
+            "tx_hash": "0x042ce8a065677c73e59d988b3238afeda90dbbf0c91d631a1d6924d189ee235d",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": 1698082419206774000000,
+            "token1": "WETH",
+            "amount1": -678628571203388919,
+            "timestamp": "2024-06-17 21:08:11",
+            "pool_liquidity": 23287257424754062083827
+        },
+        {
+            "tx_hash": "0x674ff15c7cd2a74645019c80bb177e477eb41860a4169ef007900e777af5a092",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": 2240745375099463700000,
+            "token1": "WETH",
+            "amount1": -927567356049750992,
+            "timestamp": "2024-06-22 07:12:23",
+            "pool_liquidity": 27534966603472212910833
+        },
+        {
+            "tx_hash": "0xf58414b712b1133f9df3708989d84ba89edc1785fbd0bbf40b4686c79cfbc161",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": 537971343432469100000,
+            "token1": "WETH",
+            "amount1": -222241434320301272,
+            "timestamp": "2024-06-22 07:13:35",
+            "pool_liquidity": 27534966603472212910833
+        },
+        {
+            "tx_hash": "0x6fbcda41330e2602496362589973fa7be3125dd1c0013f81abfe3cc3d14cc642",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": 2177618925092993000000,
+            "token1": "WETH",
+            "amount1": -853945825344649070,
+            "timestamp": "2024-06-18 18:42:11",
+            "pool_liquidity": 23364417134434895604711
+        },
+        {
+            "tx_hash": "0x2ea5f4ac7c06716c53145eee5f4eb606db4e95466a5c48dfb1918ebf225dbf87",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": 1529390236605273600000,
+            "token1": "WETH",
+            "amount1": -594473888273901845,
+            "timestamp": "2024-06-18 19:44:11",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x578a8296918ec96bf7363641c26ab74cf6ee0e71fa88af02e74b26f2cd6ffdce",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": 1133666744356999500000,
+            "token1": "WETH",
+            "amount1": -439641183848390777,
+            "timestamp": "2024-06-18 19:47:23",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x47c3c5b9d5254dde121666692cfbb5d6d756aa28109d10625d40510162088290",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": 1338325698532030300000,
+            "token1": "WETH",
+            "amount1": -514365756017541181,
+            "timestamp": "2024-06-18 19:56:47",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x904086ebca466e764f19793f9438d4452a2038e8341652a81ede473eedaadaf2",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": 1332680118605012000000,
+            "token1": "WETH",
+            "amount1": -511019402474087664,
+            "timestamp": "2024-06-18 19:58:35",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0xa034e776674a4449814de5dc79ea373cd281cb20aeb192960defeba7e5f9468e",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": 1422707416134995700000,
+            "token1": "WETH",
+            "amount1": -566268961024406279,
+            "timestamp": "2024-06-20 10:04:11",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0xedca8a5c2c926350117e3fcf10af22c2fc3af6b689eb13f97a822d323a12c4e7",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": 875672001187960600000,
+            "token1": "WETH",
+            "amount1": -347951509492580951,
+            "timestamp": "2024-06-20 10:07:11",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0x9144f9b99532b8810102af338fde8c5cfcdc8653a1f0f62dec81949bca899bea",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": -9827312340265261000000,
+            "token1": "WETH",
+            "amount1": 3801592121959229178,
+            "timestamp": "2024-06-19 18:28:35",
+            "pool_liquidity": 26423309731515024603441
+        },
+        {
+            "tx_hash": "0x61860e2a71ce695166a340464b2fec234870a00b02833a1e03b8c51aa8b74342",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": 1246790511107878200000,
+            "token1": "WETH",
+            "amount1": -493047823921168103,
+            "timestamp": "2024-06-20 03:32:23",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0xf5b78764b4291814d0f0b7ed83af6cf06a292f5a5ecb467b1cae16b6b6aefe11",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": 1430632378502680000000,
+            "token1": "WETH",
+            "amount1": -577555822631024965,
+            "timestamp": "2024-06-22 14:27:35",
+            "pool_liquidity": 27534966603472212910833
+        },
+        {
+            "tx_hash": "0x694beea730aab96217fb5a05a43798ccbb20ca2d32891a379c9d2f5f937b787c",
+            "user_address": "0xa009fa1aC416Ec02f6f902a3A4A584B092AE6123",
+            "token0": "SAFE",
+            "amount0": -8619235208704043000000,
+            "token1": "WETH",
+            "amount1": 3438842409167939406,
+            "timestamp": "2024-06-20 22:18:35",
+            "pool_liquidity": 27537458635766867162157
+        }
+    ],
+    "0xe4fF520767101c6e13A80Fa78f76c5DE9aEEdfB8": [
+        {
+            "tx_hash": "0xba539756f70e5fb1882b66e074fa2547395122f229c3dcf35ab2584bf5d93cb8",
+            "user_address": "0xe4fF520767101c6e13A80Fa78f76c5DE9aEEdfB8",
+            "token0": "SAFE",
+            "amount0": -2193760000000000000000,
+            "token1": "WETH",
+            "amount1": 828241965489254724,
+            "timestamp": "2024-06-18 17:40:11",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xf9226107cbaedbaa7a48a4bb5a24ac58c5c85b63b11720346d44a2520a0bb2ab",
+            "user_address": "0xe4fF520767101c6e13A80Fa78f76c5DE9aEEdfB8",
+            "token0": "SAFE",
+            "amount0": 736954150142836500000,
+            "token1": "WETH",
+            "amount1": -292935341378890586,
+            "timestamp": "2024-06-17 21:11:11",
+            "pool_liquidity": 23288335029255197533420
+        },
+        {
+            "tx_hash": "0xffa5a0ac8a6f7240c740b7d717b2771cb5a6fd49a2caf6da661ad2c627111379",
+            "user_address": "0xe4fF520767101c6e13A80Fa78f76c5DE9aEEdfB8",
+            "token0": "SAFE",
+            "amount0": 1164640000000000000000,
+            "token1": "WETH",
+            "amount1": -483278704770574550,
+            "timestamp": "2024-06-22 01:40:35",
+            "pool_liquidity": 27534966603472212910833
+        },
+        {
+            "tx_hash": "0x4ea52c676bd97b52bf9abe361c2da663be9b4bc346e30cf869ab7bcd872c73b9",
+            "user_address": "0xe4fF520767101c6e13A80Fa78f76c5DE9aEEdfB8",
+            "token0": "SAFE",
+            "amount0": 4326813845512261000000,
+            "token1": "WETH",
+            "amount1": -1682711437437224248,
+            "timestamp": "2024-06-18 21:23:11",
+            "pool_liquidity": 22642371670382503110052
+        }
+    ],
+    "0xD76f488142aFcA18464dA0cbC215dCd27f127Fbf": [
+        {
+            "tx_hash": "0x30fc075397b2e28e9e9539746d967c206cc1056080f1d6287e17878086f4ed97",
+            "user_address": "0xD76f488142aFcA18464dA0cbC215dCd27f127Fbf",
+            "token0": "SAFE",
+            "amount0": 7200743866545438565695,
+            "token1": "WETH",
+            "amount1": -2885006287509534119,
+            "timestamp": "2024-06-17 17:50:47",
+            "pool_liquidity": 23287257424754062083827
+        },
+        {
+            "tx_hash": "0x1223c5bce85c9a0be942275b97528a8b7c8dda17b2cc58c794f921ded4187b3d",
+            "user_address": "0xD76f488142aFcA18464dA0cbC215dCd27f127Fbf",
+            "token0": "SAFE",
+            "amount0": -17766910175244571093963,
+            "token1": "WETH",
+            "amount1": 7004424640984520892,
+            "timestamp": "2024-06-18 21:22:35",
+            "pool_liquidity": 23364417134434895604711
+        },
+        {
+            "tx_hash": "0x1a2ba5528b704995fd7c9710c351fe71344596ebfcd2bbcb220dc01fbfd66588",
+            "user_address": "0xD76f488142aFcA18464dA0cbC215dCd27f127Fbf",
+            "token0": "SAFE",
+            "amount0": 10022000000000000000000,
+            "token1": "WETH",
+            "amount1": -3955045354196395407,
+            "timestamp": "2024-06-20 17:02:35",
+            "pool_liquidity": 27138228010692816187032
+        }
+    ],
+    "0x9b7e7f21d98f21C0354035798C40E9040e25787f": [
+        {
+            "tx_hash": "0xc0ff80f6f4f632c369fc159a969b499ee5485055f36654efda06d0175801b792",
+            "user_address": "0x9b7e7f21d98f21C0354035798C40E9040e25787f",
+            "token0": "SAFE",
+            "amount0": 3885591331856009813453,
+            "token1": "WETH",
+            "amount1": -1563161023491947466,
+            "timestamp": "2024-06-17 18:23:47",
+            "pool_liquidity": 23287257424754062083827
+        },
+        {
+            "tx_hash": "0x1ca8cd994e937dd478ba54d83af4f87dd44ea89007f14336ff771940effc678b",
+            "user_address": "0x9b7e7f21d98f21C0354035798C40E9040e25787f",
+            "token0": "SAFE",
+            "amount0": -6252463093077987862310,
+            "token1": "WETH",
+            "amount1": 2310301103759873520,
+            "timestamp": "2024-06-18 15:16:35",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x5ee93e6c194aefa958e8115b0580aaa4dc7dc4697c398344d094ea8b692ead83",
+            "user_address": "0x9b7e7f21d98f21C0354035798C40E9040e25787f",
+            "token0": "SAFE",
+            "amount0": -14713591185091148672330,
+            "token1": "WETH",
+            "amount1": 5612672701214920679,
+            "timestamp": "2024-06-19 17:43:35",
+            "pool_liquidity": 26423309731515024603441
+        },
+        {
+            "tx_hash": "0xb772d5673f9d0594d959cc80231d5b984517f3625bc4f9f42cd8acc12f01f870",
+            "user_address": "0x9b7e7f21d98f21C0354035798C40E9040e25787f",
+            "token0": "SAFE",
+            "amount0": 390607072691268445961,
+            "token1": "WETH",
+            "amount1": -151554679952703693,
+            "timestamp": "2024-06-19 23:12:59",
+            "pool_liquidity": 26416182546640423692373
+        },
+        {
+            "tx_hash": "0x86c0a714b9cea83cc5c13b1356c6977062e55d13a04de5adeaee76613dec7c3c",
+            "user_address": "0x9b7e7f21d98f21C0354035798C40E9040e25787f",
+            "token0": "SAFE",
+            "amount0": 7919601852899002314688,
+            "token1": "WETH",
+            "amount1": -3095080669002628983,
+            "timestamp": "2024-06-20 22:17:59",
+            "pool_liquidity": 26815413171714474667498
+        }
+    ],
+    "0xEE28bEAA11e31d10581ee7CFDCb9e95c8d05C53C": [
+        {
+            "tx_hash": "0x61684b87b4a3ca5645974e7c542289f5ee239aa3f1fe98557893bef315103cb3",
+            "user_address": "0xEE28bEAA11e31d10581ee7CFDCb9e95c8d05C53C",
+            "token0": "SAFE",
+            "amount0": 3329214252978825300000,
+            "token1": "WETH",
+            "amount1": -1336234480229419203,
+            "timestamp": "2024-06-17 21:07:11",
+            "pool_liquidity": 23287257424754062083827
+        },
+        {
+            "tx_hash": "0xb88f6a464ec980242f69c2df14828f1864bfd4b363cc502f1da5fd51762b7ea5",
+            "user_address": "0xEE28bEAA11e31d10581ee7CFDCb9e95c8d05C53C",
+            "token0": "SAFE",
+            "amount0": -3127218395440579300000,
+            "token1": "WETH",
+            "amount1": 1244360993034061026,
+            "timestamp": "2024-06-18 18:31:35",
+            "pool_liquidity": 23563741477491988327114
+        },
+        {
+            "tx_hash": "0x8edf1538a67493bcbe4a06f6e7def61e73ecc63a5b88a5b0c9404cda13707725",
+            "user_address": "0xEE28bEAA11e31d10581ee7CFDCb9e95c8d05C53C",
+            "token0": "SAFE",
+            "amount0": 1984164241871424500000,
+            "token1": "WETH",
+            "amount1": -767396517179633152,
+            "timestamp": "2024-06-18 19:49:11",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0xdacb851fa19040d4be3b60c1e5a4e8a1ffbec300af5362218e7ad724f79344ba",
+            "user_address": "0xEE28bEAA11e31d10581ee7CFDCb9e95c8d05C53C",
+            "token0": "SAFE",
+            "amount0": 1983784962091275800000,
+            "token1": "WETH",
+            "amount1": -764625583626208892,
+            "timestamp": "2024-06-18 19:50:23",
+            "pool_liquidity": 22642371670382503110052
+        }
+    ],
+    "0xB35A89bdfd2D60EFD5226a726889b8818a8Ca7Ab": [
+        {
+            "tx_hash": "0x926dfab03ac0677a97ecaba8bde9f0acc6b8d5f5dd47c388e9eadc718421fda9",
+            "user_address": "0xB35A89bdfd2D60EFD5226a726889b8818a8Ca7Ab",
+            "token0": "SAFE",
+            "amount0": 40679916487483199385,
+            "token1": "WETH",
+            "amount1": -15924006840079645,
+            "timestamp": "2024-06-17 22:31:47",
+            "pool_liquidity": 23273940282546457844208
+        }
+    ],
+    "0xD21309b3885181d94Ebf2561A2e6ac6Fd8fB300d": [
+        {
+            "tx_hash": "0xfe2b461c54c8b0b16009456a49693043775fe4593adf4fe8d2d465e0349a0a70",
+            "user_address": "0xD21309b3885181d94Ebf2561A2e6ac6Fd8fB300d",
+            "token0": "SAFE",
+            "amount0": 2187846011668506500000,
+            "token1": "WETH",
+            "amount1": -854615142288740978,
+            "timestamp": "2024-06-17 23:03:35",
+            "pool_liquidity": 23258237984268147932224
+        }
+    ],
+    "0xc3C4ECB0845eC0393408dfAdaddD6f8D4Ac29E57": [
+        {
+            "tx_hash": "0x84abd52693a4b2477fc4cb9159c61099e2047abb7a797ef77d60b5b8717f3bc5",
+            "user_address": "0xc3C4ECB0845eC0393408dfAdaddD6f8D4Ac29E57",
+            "token0": "SAFE",
+            "amount0": -1698850415277366398214,
+            "token1": "WETH",
+            "amount1": 676807558152892661,
+            "timestamp": "2024-06-17 23:05:59",
+            "pool_liquidity": 23258237984268147932224
+        },
+        {
+            "tx_hash": "0xbcf9bc7dd7318e62aea976c7b0fb515460b3631f1138d67ff043677ec2f1c6af",
+            "user_address": "0xc3C4ECB0845eC0393408dfAdaddD6f8D4Ac29E57",
+            "token0": "SAFE",
+            "amount0": -3111522137621447995233,
+            "token1": "WETH",
+            "amount1": 1167218503880833160,
+            "timestamp": "2024-06-18 02:27:35",
+            "pool_liquidity": 22879146984489325424295
+        }
+    ],
+    "0x59d94B1799eb0A31d6CCe4E1C2FCaB6507204ba7": [
+        {
+            "tx_hash": "0xa8dd8707331bf00d2a006c0f2a34f9bbf9c7bc31f6cce60fb99bd007737efd91",
+            "user_address": "0x59d94B1799eb0A31d6CCe4E1C2FCaB6507204ba7",
+            "token0": "SAFE",
+            "amount0": 109421911485650423,
+            "token1": "WETH",
+            "amount1": -42787281834406,
+            "timestamp": "2024-06-17 23:19:23",
+            "pool_liquidity": 23258237984268147932224
+        }
+    ],
+    "0x4Ef22A7356D96dbf95a7FdEaD4a196A668e75B38": [
+        {
+            "tx_hash": "0x8c9b2aadd734214222fe5a347c8ee4eed96ea4903b48b2e63831aaab29ca1615",
+            "user_address": "0x4Ef22A7356D96dbf95a7FdEaD4a196A668e75B38",
+            "token0": "SAFE",
+            "amount0": -884169061230189985609,
+            "token1": "WETH",
+            "amount1": 353019549139754895,
+            "timestamp": "2024-06-17 23:25:35",
+            "pool_liquidity": 23601192448541717918954
+        }
+    ],
+    "0x7839dFA84aA41e4a35fc2B91cBaD41f45Cb10677": [
+        {
+            "tx_hash": "0xecca39799815796947116cc3291bfa1353b1e7aa997ed0e2fa091ca8118022a9",
+            "user_address": "0x7839dFA84aA41e4a35fc2B91cBaD41f45Cb10677",
+            "token0": "SAFE",
+            "amount0": -1011553632384373455038,
+            "token1": "WETH",
+            "amount1": 403414824416112993,
+            "timestamp": "2024-06-18 01:09:11",
+            "pool_liquidity": 23601192448541717918954
+        },
+        {
+            "tx_hash": "0xfc6aefd749b66da90f9e912eb61e59ff66b0fdf5f053576b6b837b8264a4d786",
+            "user_address": "0x7839dFA84aA41e4a35fc2B91cBaD41f45Cb10677",
+            "token0": "SAFE",
+            "amount0": -862702781801482865898,
+            "token1": "WETH",
+            "amount1": 323151072308687460,
+            "timestamp": "2024-06-18 03:23:59",
+            "pool_liquidity": 22841696013439595832455
+        }
+    ],
+    "0xD509fb13b97064062c143B7bDF79A7D36cc7FAeb": [
+        {
+            "tx_hash": "0x91197df2067f9b4b77bef2f9bb4798848d76da15c823c6df711adb71bba1306d",
+            "user_address": "0xD509fb13b97064062c143B7bDF79A7D36cc7FAeb",
+            "token0": "SAFE",
+            "amount0": 3040380000000000000000,
+            "token1": "WETH",
+            "amount1": -1180891883550422135,
+            "timestamp": "2024-06-18 01:48:11",
+            "pool_liquidity": 22879146984489325424295
+        },
+        {
+            "tx_hash": "0xbf5a52c22f1e05670cc8ac779c1717f7c1007754c89f27a21fe068033ee21a96",
+            "user_address": "0xD509fb13b97064062c143B7bDF79A7D36cc7FAeb",
+            "token0": "SAFE",
+            "amount0": 3957610000000000000000,
+            "token1": "WETH",
+            "amount1": -1527970104455031555,
+            "timestamp": "2024-06-18 01:48:59",
+            "pool_liquidity": 22879146984489325424295
+        },
+        {
+            "tx_hash": "0x42ba48e4de38cc3ed25d37a8f2eab861f8d177db7bce125f87f7350f2a130bee",
+            "user_address": "0xD509fb13b97064062c143B7bDF79A7D36cc7FAeb",
+            "token0": "SAFE",
+            "amount0": 3640870000000000000000,
+            "token1": "WETH",
+            "amount1": -1339169114777247442,
+            "timestamp": "2024-06-18 01:54:35",
+            "pool_liquidity": 22879146984489325424295
+        }
+    ],
+    "0x89B537D4E0dE035303Dc1BDae18394f7A6C15c36": [
+        {
+            "tx_hash": "0x8642450f48702a81b3110707182f0235487ba6e45b12bc2901902c5be5b88d78",
+            "user_address": "0x89B537D4E0dE035303Dc1BDae18394f7A6C15c36",
+            "token0": "SAFE",
+            "amount0": 7984033684490000000000,
+            "token1": "WETH",
+            "amount1": -3018927022303561782,
+            "timestamp": "2024-06-18 01:50:35",
+            "pool_liquidity": 22879146984489325424295
+        }
+    ],
+    "0x60FD31A38Eb4582F3E0DE4BA86D4E72827c30ba6": [
+        {
+            "tx_hash": "0xd3c69242e5104dc7ac4566bb525cd858c5c5d0618282f704bef9efd4d5b90883",
+            "user_address": "0x60FD31A38Eb4582F3E0DE4BA86D4E72827c30ba6",
+            "token0": "SAFE",
+            "amount0": 15955080302760000000000,
+            "token1": "WETH",
+            "amount1": -5912837824589839864,
+            "timestamp": "2024-06-18 01:51:11",
+            "pool_liquidity": 22879146984489325424295
+        }
+    ],
+    "0x55AeB56136091E9dCE99c91f4e2592FDB7c07EF2": [
+        {
+            "tx_hash": "0xa90cbcf7fe3b747a4a291ce04587ec6cf9247d405db4c0c8a9970076f640cb15",
+            "user_address": "0x55AeB56136091E9dCE99c91f4e2592FDB7c07EF2",
+            "token0": "SAFE",
+            "amount0": 2897420000000000000000,
+            "token1": "WETH",
+            "amount1": -1071551132358962613,
+            "timestamp": "2024-06-18 01:54:35",
+            "pool_liquidity": 22879146984489325424295
+        }
+    ],
+    "0x448166a91e7BC50D0ac720C2FBED29e0963F5af8": [
+        {
+            "tx_hash": "0x393e16f65b8bcc4a6960a7d50a5d06f2c16bf57bd009328bae2c07a692b299ea",
+            "user_address": "0x448166a91e7BC50D0ac720C2FBED29e0963F5af8",
+            "token0": "SAFE",
+            "amount0": 1753404600861594270255,
+            "token1": "WETH",
+            "amount1": -647008516311967240,
+            "timestamp": "2024-06-18 04:31:59",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x0d775da6261c4621e5d21b9928a71ba9f1fe32c74f8677ba2658342fee83c31c",
+            "user_address": "0x448166a91e7BC50D0ac720C2FBED29e0963F5af8",
+            "token0": "SAFE",
+            "amount0": 735380001693307899684,
+            "token1": "WETH",
+            "amount1": -270791806207653533,
+            "timestamp": "2024-06-18 04:49:11",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xde86a7fd2fc6685c355bf58f1a6ab8cc814f7222b6c797f7b2a1359beb517b60",
+            "user_address": "0x448166a91e7BC50D0ac720C2FBED29e0963F5af8",
+            "token0": "SAFE",
+            "amount0": 1124614322281357262352,
+            "token1": "WETH",
+            "amount1": -466693281444125876,
+            "timestamp": "2024-06-22 07:01:59",
+            "pool_liquidity": 27534966603472212910833
+        },
+        {
+            "tx_hash": "0x3c3bc4e5611dd618f97f15030d7e6ecb71572b4bb1f55f2957124b449b424f68",
+            "user_address": "0x448166a91e7BC50D0ac720C2FBED29e0963F5af8",
+            "token0": "SAFE",
+            "amount0": -2865951290066716041432,
+            "token1": "WETH",
+            "amount1": 1113454369941458489,
+            "timestamp": "2024-06-18 18:17:23",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0xef90ea59dcd97da774eedede3f372b89056066923cc283c49206243e708ea3d7",
+            "user_address": "0x448166a91e7BC50D0ac720C2FBED29e0963F5af8",
+            "token0": "SAFE",
+            "amount0": -3094610915132895956778,
+            "token1": "WETH",
+            "amount1": 1215438912949154909,
+            "timestamp": "2024-06-18 18:20:11",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x6e1cf5be72744eb4bd296e2f5281c4fa4378906fe56221991f6edc8bc4f7c7a3",
+            "user_address": "0x448166a91e7BC50D0ac720C2FBED29e0963F5af8",
+            "token0": "SAFE",
+            "amount0": -2478050169357587653012,
+            "token1": "WETH",
+            "amount1": 980752350432328404,
+            "timestamp": "2024-06-18 18:25:11",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x13abaac4fafde93a49bb28e6967f78b019a8868147127f382d73774bb8e1b6e1",
+            "user_address": "0x448166a91e7BC50D0ac720C2FBED29e0963F5af8",
+            "token0": "SAFE",
+            "amount0": 1579102789388013311483,
+            "token1": "WETH",
+            "amount1": -600162633530575346,
+            "timestamp": "2024-06-18 23:47:23",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x816ef83e71d1e82f64bf640d281fb13521702de03540447316947c66177e05e2",
+            "user_address": "0x448166a91e7BC50D0ac720C2FBED29e0963F5af8",
+            "token0": "SAFE",
+            "amount0": 1268530963159888625002,
+            "token1": "WETH",
+            "amount1": -480950873231907351,
+            "timestamp": "2024-06-18 23:51:47",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0xec16899f0bff18320736132794ff39e8a5a6e07d2ee2a6a8e3fcf08e304548a0",
+            "user_address": "0x448166a91e7BC50D0ac720C2FBED29e0963F5af8",
+            "token0": "SAFE",
+            "amount0": -2677070761513198438300,
+            "token1": "WETH",
+            "amount1": 1026059602159603588,
+            "timestamp": "2024-06-19 18:28:11",
+            "pool_liquidity": 26423309731515024603441
+        },
+        {
+            "tx_hash": "0xd451af6af9013f9c6f1cd01be15ffd5e42f37b21939393c54aa3623b2bd87d99",
+            "user_address": "0x448166a91e7BC50D0ac720C2FBED29e0963F5af8",
+            "token0": "SAFE",
+            "amount0": -1789080361685841677718,
+            "token1": "WETH",
+            "amount1": 715688477076999240,
+            "timestamp": "2024-06-20 01:49:59",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0x88b8fc933c48e0504cceaed77819643aef88dfd29a76d8916db96a878a533903",
+            "user_address": "0x448166a91e7BC50D0ac720C2FBED29e0963F5af8",
+            "token0": "SAFE",
+            "amount0": -2332751135974049399939,
+            "token1": "WETH",
+            "amount1": 939290371289410715,
+            "timestamp": "2024-06-20 13:15:11",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0x6d6b6bf219bdccfe7a11ae7f332859cc258ae10047112ccb063de7a4ea5a01ee",
+            "user_address": "0x448166a91e7BC50D0ac720C2FBED29e0963F5af8",
+            "token0": "SAFE",
+            "amount0": -3778481318540856062084,
+            "token1": "WETH",
+            "amount1": 1528284005527278933,
+            "timestamp": "2024-06-20 13:16:59",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0xec702199abc3f8b0808726c18e480903c28c35fec3607657bfd5bcbc6a23abab",
+            "user_address": "0x448166a91e7BC50D0ac720C2FBED29e0963F5af8",
+            "token0": "SAFE",
+            "amount0": -2429997310031088443333,
+            "token1": "WETH",
+            "amount1": 973492432699921584,
+            "timestamp": "2024-06-20 17:43:35",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0xb04b74628409b5bb06cbe3eeb2608bced62cd9e653f355a6949bd569fa3609d3",
+            "user_address": "0x448166a91e7BC50D0ac720C2FBED29e0963F5af8",
+            "token0": "SAFE",
+            "amount0": -2187836703543550578272,
+            "token1": "WETH",
+            "amount1": 879456946941731548,
+            "timestamp": "2024-06-20 18:01:11",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0xc1406ca247a35ebf5d4dd3a841c46a0c03511bf2afa69fc0804870cb5b714ff7",
+            "user_address": "0x448166a91e7BC50D0ac720C2FBED29e0963F5af8",
+            "token0": "SAFE",
+            "amount0": -2015683984997620828763,
+            "token1": "WETH",
+            "amount1": 818598585856626477,
+            "timestamp": "2024-06-20 22:19:59",
+            "pool_liquidity": 27536381031265731712564
+        }
+    ],
+    "0x96B5637AA9eBccB9B38Dc91aee2b3E2B1b9E5e6C": [
+        {
+            "tx_hash": "0xa5021564d7ffed26f22ad05811ad899e71620264ba42865901c58812961bab2d",
+            "user_address": "0x96B5637AA9eBccB9B38Dc91aee2b3E2B1b9E5e6C",
+            "token0": "SAFE",
+            "amount0": -3849357152840583322868,
+            "token1": "WETH",
+            "amount1": 1450066602081386807,
+            "timestamp": "2024-06-18 04:54:59",
+            "pool_liquidity": 22841696013439595832455
+        }
+    ],
+    "0x3EFf3Dc5A4f5c65d28E88dc8fD22800979C9E7C6": [
+        {
+            "tx_hash": "0xfba8402fc7e60c781d9ec7897bcfdcaee2f4307010e77a7469aac4a9d04baf8c",
+            "user_address": "0x3EFf3Dc5A4f5c65d28E88dc8fD22800979C9E7C6",
+            "token0": "SAFE",
+            "amount0": 1854547851559220135945,
+            "token1": "WETH",
+            "amount1": -684335861376721495,
+            "timestamp": "2024-06-18 12:12:11",
+            "pool_liquidity": 22841696013439595832455
+        },
+        {
+            "tx_hash": "0x1cbc09b20a375c676830ca38714f532f57d00e8860c49bd1380d8f243d6c3cae",
+            "user_address": "0x3EFf3Dc5A4f5c65d28E88dc8fD22800979C9E7C6",
+            "token0": "SAFE",
+            "amount0": -4455711017881735252565,
+            "token1": "WETH",
+            "amount1": 1783258205078861059,
+            "timestamp": "2024-06-20 19:00:47",
+            "pool_liquidity": 27138228010692816187032
+        }
+    ],
+    "0x0a9faAfb19e4df3A23EBEf4cFA01FBBe2a137C78": [
+        {
+            "tx_hash": "0xfe0aaa9cf7aeef41ce321bd067ac62f50fb9c8486adda02ce2ec024beeb2b569",
+            "user_address": "0x0a9faAfb19e4df3A23EBEf4cFA01FBBe2a137C78",
+            "token0": "SAFE",
+            "amount0": -1078851194025589222930,
+            "token1": "WETH",
+            "amount1": 401969931843726304,
+            "timestamp": "2024-06-18 14:11:47",
+            "pool_liquidity": 22841696013439595832455
+        }
+    ],
+    "0x60ed4c73Eb1270EE1A5106BAC9A91cf44b6e44e2": [
+        {
+            "tx_hash": "0xe183159f5c56823d26128eaf5e8bbb42074ef7f969666473ad3020e004b94d02",
+            "user_address": "0x60ed4c73Eb1270EE1A5106BAC9A91cf44b6e44e2",
+            "token0": "SAFE",
+            "amount0": -1886313257901993454009,
+            "token1": "WETH",
+            "amount1": 700000000000000000,
+            "timestamp": "2024-06-18 14:44:47",
+            "pool_liquidity": 22841696013439595832455
+        }
+    ],
+    "0x568e3106eBD686C1E633E8aD9fA3e5abC608C32d": [
+        {
+            "tx_hash": "0x4b5f768e562c1655f3c4c198a2089311bf11d0cb1509f70b478415e1df93792e",
+            "user_address": "0x568e3106eBD686C1E633E8aD9fA3e5abC608C32d",
+            "token0": "SAFE",
+            "amount0": 250000000000000000000,
+            "token1": "WETH",
+            "amount1": -103848025657093127,
+            "timestamp": "2024-06-22 01:30:47",
+            "pool_liquidity": 27534966603472212910833
+        }
+    ],
+    "0x37A6156e4a6E8B60b2415AF040546cF5e91699bd": [
+        {
+            "tx_hash": "0xd650f879d347c6dd7e4ad1c2f87ab60e6458d47e423c39fe43839eb6b3967105",
+            "user_address": "0x37A6156e4a6E8B60b2415AF040546cF5e91699bd",
+            "token0": "SAFE",
+            "amount0": 370266846455412346144,
+            "token1": "WETH",
+            "amount1": -153472358175879722,
+            "timestamp": "2024-06-22 01:56:59",
+            "pool_liquidity": 27534966603472212910833
+        }
+    ],
+    "0xfc9928F6590D853752824B0B403A6AE36785e535": [
+        {
+            "tx_hash": "0x7d6179ecef0ec06df41f1ccff0874bcb99b58a420b9fe1d7cac440fb6fa98abf",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "SAFE",
+            "amount0": 540793608492350254554,
+            "token1": "WETH",
+            "amount1": -212089118618812416,
+            "timestamp": "2024-06-18 21:22:35",
+            "pool_liquidity": 23364417134434895604711
+        }
+    ],
+    "0xb1b2d032AA2F52347fbcfd08E5C3Cc55216E8404": [
+        {
+            "tx_hash": "0xeb139d0eda0e5aa9d141687ce1d9e67ac24792ecaa315529ed80635672a6e3b3",
+            "user_address": "0xb1b2d032AA2F52347fbcfd08E5C3Cc55216E8404",
+            "token0": "SAFE",
+            "amount0": 3734726169892746000000,
+            "token1": "WETH",
+            "amount1": -1436133698302776865,
+            "timestamp": "2024-06-18 21:23:35",
+            "pool_liquidity": 22642371670382503110052
+        },
+        {
+            "tx_hash": "0x99b13e46e8df12e96b46943e4c3fd0b93a73012388e4bfcf6c0e3cc8f8fd3aeb",
+            "user_address": "0xb1b2d032AA2F52347fbcfd08E5C3Cc55216E8404",
+            "token0": "SAFE",
+            "amount0": 1050767487023205800000,
+            "token1": "WETH",
+            "amount1": -389587299584757981,
+            "timestamp": "2024-06-19 10:32:47",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0x7a42efbef5edb24c1143fb685466bba7c7f92eb4dd04a8fba81b6b9376a21989",
+            "user_address": "0xb1b2d032AA2F52347fbcfd08E5C3Cc55216E8404",
+            "token0": "SAFE",
+            "amount0": 5628593867214251000000,
+            "token1": "WETH",
+            "amount1": -2119841718485019300,
+            "timestamp": "2024-06-19 10:35:59",
+            "pool_liquidity": 22811860801333760872314
+        }
+    ],
+    "0xD1508A211D98bb81195dC1F9533eDcdf68aDF036": [
+        {
+            "tx_hash": "0x865de8acf65d370afd570db05b593d9a1bcd4429441469966125a1d1c8101d76",
+            "user_address": "0xD1508A211D98bb81195dC1F9533eDcdf68aDF036",
+            "token0": "SAFE",
+            "amount0": 1738518563981561972480,
+            "token1": "WETH",
+            "amount1": -642703992138323500,
+            "timestamp": "2024-06-19 01:59:11",
+            "pool_liquidity": 22642371670382503110052
+        }
+    ],
+    "0x305C8357807D45dC4F647b72d220027886da4D6D": [
+        {
+            "tx_hash": "0x49b86268c34ecd0a1e20d6c13ca505dbceda961f40313981ea5b16cb07a913c1",
+            "user_address": "0x305C8357807D45dC4F647b72d220027886da4D6D",
+            "token0": "SAFE",
+            "amount0": -152889800674028940083,
+            "token1": "WETH",
+            "amount1": 56585120721581026,
+            "timestamp": "2024-06-19 10:30:23",
+            "pool_liquidity": 22811860801333760872314
+        }
+    ],
+    "0x1c24ec220E0bE34875d8EE3A157Cc81CFA6Efd9A": [
+        {
+            "tx_hash": "0x640a68b22d344510f87d000a2c6201604694be3064b7fd096fd0d8732070902c",
+            "user_address": "0x1c24ec220E0bE34875d8EE3A157Cc81CFA6Efd9A",
+            "token0": "SAFE",
+            "amount0": -17947822668088080566777,
+            "token1": "WETH",
+            "amount1": 6745000000000000000,
+            "timestamp": "2024-06-19 10:31:47",
+            "pool_liquidity": 22811860801333760872314
+        },
+        {
+            "tx_hash": "0xba2f4d46533d4f56b6f8e0d9b19afdf18061757f741315dca3fc61210f5be28f",
+            "user_address": "0x1c24ec220E0bE34875d8EE3A157Cc81CFA6Efd9A",
+            "token0": "SAFE",
+            "amount0": -17582267123964928588392,
+            "token1": "WETH",
+            "amount1": 6745950000000000000,
+            "timestamp": "2024-06-19 10:33:35",
+            "pool_liquidity": 22811860801333760872314
+        }
+    ],
+    "0xdCCbFaaB304E73f1775FF8EF791220C8F94E274F": [
+        {
+            "tx_hash": "0xaa2e74102e52c70668a2c6bc4cecfae4e74df345190b45b225afd86f39e8fbc2",
+            "user_address": "0xdCCbFaaB304E73f1775FF8EF791220C8F94E274F",
+            "token0": "SAFE",
+            "amount0": 109102794087131367516,
+            "token1": "WETH",
+            "amount1": -40829119714060167,
+            "timestamp": "2024-06-19 10:46:47",
+            "pool_liquidity": 22811860801333760872314
+        }
+    ],
+    "0xaE58656D27c561f93dE0e23042B67eDDea69A8fc": [
+        {
+            "tx_hash": "0x7ce1bc4d598e31c47a9ced4b1d70c8f2190dce39fe65077316fdc963f3f3bb2b",
+            "user_address": "0xaE58656D27c561f93dE0e23042B67eDDea69A8fc",
+            "token0": "SAFE",
+            "amount0": 1482216249106194619190,
+            "token1": "WETH",
+            "amount1": -548113376453492815,
+            "timestamp": "2024-06-19 16:12:35",
+            "pool_liquidity": 22811860801333760872314
+        }
+    ],
+    "0x86587327A9DBEa6EF2D4fbc142Be241801B858b2": [
+        {
+            "tx_hash": "0x01f044c1704464487004f66454640d1c368aa4c6b71c7c95c0cbcfa29396731f",
+            "user_address": "0x86587327A9DBEa6EF2D4fbc142Be241801B858b2",
+            "token0": "SAFE",
+            "amount0": 2297218095936225881105,
+            "token1": "WETH",
+            "amount1": -895211504109824774,
+            "timestamp": "2024-06-19 21:38:59",
+            "pool_liquidity": 26416182546640423692373
+        }
+    ],
+    "0x91Bc8697F0db16fe5B68040705ae92CFCF5DD871": [
+        {
+            "tx_hash": "0x8262a5d2378733dff425d9aac278c33322e621b72e173a56bea59c249a01b313",
+            "user_address": "0x91Bc8697F0db16fe5B68040705ae92CFCF5DD871",
+            "token0": "SAFE",
+            "amount0": 384504286455921828747,
+            "token1": "WETH",
+            "amount1": -149541345857078670,
+            "timestamp": "2024-06-19 22:15:23",
+            "pool_liquidity": 26416182546640423692373
+        }
+    ],
+    "0xbbDE9f0C24b6F59D7E828bb4E129992BE0cDC237": [
+        {
+            "tx_hash": "0x12dbd83789bcca11ad27390606f552ad43470b102f9a6fb4c97e49e9aad76fcd",
+            "user_address": "0xbbDE9f0C24b6F59D7E828bb4E129992BE0cDC237",
+            "token0": "SAFE",
+            "amount0": -1853910572418312567195,
+            "token1": "WETH",
+            "amount1": 745136474436800388,
+            "timestamp": "2024-06-20 02:02:23",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0xa976e9c2f0d61831b634b65b9c8d0ba102eb519bdde5637edf05100c3a22f46b",
+            "user_address": "0xbbDE9f0C24b6F59D7E828bb4E129992BE0cDC237",
+            "token0": "SAFE",
+            "amount0": 1335864490645816421366,
+            "token1": "WETH",
+            "amount1": -527279133882360111,
+            "timestamp": "2024-06-20 04:50:35",
+            "pool_liquidity": 27138228010692816187032
+        },
+        {
+            "tx_hash": "0xb744ed52e435903c0602647266392189d86cb80ca450b735c2df13efa312d1d9",
+            "user_address": "0xbbDE9f0C24b6F59D7E828bb4E129992BE0cDC237",
+            "token0": "SAFE",
+            "amount0": -1827659042278565519013,
+            "token1": "WETH",
+            "amount1": 777623780719779426,
+            "timestamp": "2024-06-21 13:46:35",
+            "pool_liquidity": 27534966603472212910833
+        }
+    ],
+    "0xa25211B64D041F690C0c818183E32f28ba9647Dd": [
+        {
+            "tx_hash": "0x86b8a872688842c1687cbc3fedcbd06445f72c5e99a7c8c7384af633b3d048de",
+            "user_address": "0xa25211B64D041F690C0c818183E32f28ba9647Dd",
+            "token0": "SAFE",
+            "amount0": 1878491678000000000000,
+            "token1": "WETH",
+            "amount1": -734927711131283658,
+            "timestamp": "2024-06-20 17:25:35",
+            "pool_liquidity": 27138228010692816187032
+        }
+    ],
+    "0xff86DdE3855fdc24E5C5055c2ca5Be9C53aa5937": [
+        {
+            "tx_hash": "0xda30fe3b11adc8479187c45010d1cfb00b863e96edf5afb2d09ccc137e29eddb",
+            "user_address": "0xff86DdE3855fdc24E5C5055c2ca5Be9C53aa5937",
+            "token0": "SAFE",
+            "amount0": 2214591004673929726895,
+            "token1": "WETH",
+            "amount1": -876017778742674087,
+            "timestamp": "2024-06-20 19:40:47",
+            "pool_liquidity": 27138228010692816187032
+        }
+    ],
+    "0x5f0cE8238D63AB6Be9eeb290A99434D7aeED4BBf": [
+        {
+            "tx_hash": "0xfc7b903f9216fc79d70c37bbffd19f5461f3c53c9bba608cf45b7629c5202c1d",
+            "user_address": "0x5f0cE8238D63AB6Be9eeb290A99434D7aeED4BBf",
+            "token0": "SAFE",
+            "amount0": -3273001253611648755992,
+            "token1": "WETH",
+            "amount1": 1350000000000000000,
+            "timestamp": "2024-06-22 14:50:35",
+            "pool_liquidity": 27534966603472212910833
+        }
+    ],
+    "0x0B80c366D3d92fcd4DE0d4a3d596ced82eDcf65d": [
+        {
+            "tx_hash": "0xf8f42ed75dd5e1d3518f702c2d93da241a636788600b8968e84ee451110d6471",
+            "user_address": "0x0B80c366D3d92fcd4DE0d4a3d596ced82eDcf65d",
+            "token0": "SAFE",
+            "amount0": -5148508348785105971208,
+            "token1": "WETH",
+            "amount1": 2080025495250940421,
+            "timestamp": "2024-06-20 22:18:47",
+            "pool_liquidity": 27537458635766867162157
+        }
+    ]
+}

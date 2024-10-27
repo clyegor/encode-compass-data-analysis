@@ -1,0 +1,2652 @@
+{
+    "0x0B2b8Ef0206D2E42A53D8612bb29a8Af9B8437F8": [
+        {
+            "tx_hash": "0xa6b5c9901faf6e294f8c225ac224b8a75821e1b81ca8ff5b8286382a67b4e9ae",
+            "user_address": "0x0B2b8Ef0206D2E42A53D8612bb29a8Af9B8437F8",
+            "token0": "UNI",
+            "amount0": -30933706291720044401,
+            "token1": "AAVE",
+            "amount1": 1837461627541639778,
+            "timestamp": "2024-08-04 11:19:11",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x4E0fb94480f579F136832EE9542d67D92Bfe8Dd1": [
+        {
+            "tx_hash": "0x0cd0ac3bca85278684d82d056c1bf818f0526d5dba4c42e4a74e004eae07be50",
+            "user_address": "0x4E0fb94480f579F136832EE9542d67D92Bfe8Dd1",
+            "token0": "UNI",
+            "amount0": 75420328332396658688,
+            "token1": "AAVE",
+            "amount1": -4448275110092150127,
+            "timestamp": "2024-08-04 12:34:11",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0xb4e016bb080f20ac16d1f4df7b03ed071f4984046fbbc6b65c647739a3718adb",
+            "user_address": "0x4E0fb94480f579F136832EE9542d67D92Bfe8Dd1",
+            "token0": "UNI",
+            "amount0": 277078890123753750528,
+            "token1": "AAVE",
+            "amount1": -17721700619176643455,
+            "timestamp": "2024-08-05 05:32:59",
+            "pool_liquidity": 10028317482349882214814
+        },
+        {
+            "tx_hash": "0x0b9c4e0593f06a08782dccf6177c44586ccae85bea321758aa2152894e429617",
+            "user_address": "0x4E0fb94480f579F136832EE9542d67D92Bfe8Dd1",
+            "token0": "UNI",
+            "amount0": 794264151668846755840,
+            "token1": "AAVE",
+            "amount1": -49327020938716012701,
+            "timestamp": "2024-08-05 01:08:47",
+            "pool_liquidity": 9959957886368553476711
+        },
+        {
+            "tx_hash": "0x1ab1cbcf66623c92c73ee19aac49c4b0477ace4e0687801fce1e556aff95a4c7",
+            "user_address": "0x4E0fb94480f579F136832EE9542d67D92Bfe8Dd1",
+            "token0": "UNI",
+            "amount0": 147247122818989031424,
+            "token1": "AAVE",
+            "amount1": -8493387835285688217,
+            "timestamp": "2024-08-05 19:31:23",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0xcb5b5e4c360b9a4c0a462b6bcb184ba19d9e08b344df444953a2061af332f615",
+            "user_address": "0x4E0fb94480f579F136832EE9542d67D92Bfe8Dd1",
+            "token0": "UNI",
+            "amount0": -74574932143409431357,
+            "token1": "AAVE",
+            "amount1": 4136346545844260864,
+            "timestamp": "2024-08-06 23:07:35",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0x74d02d1FeBBE6DFDCC318d386b3473bEDbED6fbF": [
+        {
+            "tx_hash": "0xc776ddfef114ffee83fb4542a2d2183ee0077b6ea6c77458f00cd658028250c2",
+            "user_address": "0x74d02d1FeBBE6DFDCC318d386b3473bEDbED6fbF",
+            "token0": "UNI",
+            "amount0": -101455541104914527102,
+            "token1": "AAVE",
+            "amount1": 6023792887528175616,
+            "timestamp": "2024-08-04 13:04:35",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0xea1904470a485c74f80c16704d3c3c2a219c90c5a8ddb0d6add53f9465fd9aca",
+            "user_address": "0x74d02d1FeBBE6DFDCC318d386b3473bEDbED6fbF",
+            "token0": "UNI",
+            "amount0": -247824985437084129231,
+            "token1": "AAVE",
+            "amount1": 15422916786631145472,
+            "timestamp": "2024-08-04 19:45:47",
+            "pool_liquidity": 9978730015682919645102
+        },
+        {
+            "tx_hash": "0x35407688c5c0387f5e81cabfaea88c8e1e1f3b54ff44225fbfd5bfcf0602cf8a",
+            "user_address": "0x74d02d1FeBBE6DFDCC318d386b3473bEDbED6fbF",
+            "token0": "UNI",
+            "amount0": 296193881870397538304,
+            "token1": "AAVE",
+            "amount1": -17259999445350958467,
+            "timestamp": "2024-08-05 15:41:47",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x29ecbc6c8c1a8810f1c0d978e7c7647303471b25e5da06fe58ca90ed2651639b",
+            "user_address": "0x74d02d1FeBBE6DFDCC318d386b3473bEDbED6fbF",
+            "token0": "UNI",
+            "amount0": 127509783695341731840,
+            "token1": "AAVE",
+            "amount1": -7235795186433367187,
+            "timestamp": "2024-08-06 20:53:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x1d402c41805f6b1748640c0a2848bab6869337bdd0cb9094050c7c07ebaa2131",
+            "user_address": "0x74d02d1FeBBE6DFDCC318d386b3473bEDbED6fbF",
+            "token0": "UNI",
+            "amount0": -194646923657899759897,
+            "token1": "AAVE",
+            "amount1": 10916298395819024384,
+            "timestamp": "2024-08-06 14:37:59",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x64332172f193ddfe6582207fdebe47a2709fc5e091448818f364057110e1d457",
+            "user_address": "0x74d02d1FeBBE6DFDCC318d386b3473bEDbED6fbF",
+            "token0": "UNI",
+            "amount0": -100433435575610580766,
+            "token1": "AAVE",
+            "amount1": 5700278564024279040,
+            "timestamp": "2024-08-07 00:23:59",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x1ef80f09fd050dde5853bdfade1a94bb42645112137fedf9a741ee5b3f271160",
+            "user_address": "0x74d02d1FeBBE6DFDCC318d386b3473bEDbED6fbF",
+            "token0": "UNI",
+            "amount0": -108621881182645022257,
+            "token1": "AAVE",
+            "amount1": 6273571406648102912,
+            "timestamp": "2024-08-07 09:17:35",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0xf2c428e761a431ebcbcabd36cafdbd7626f7b0e7b68badefee9178e232095ec4",
+            "user_address": "0x74d02d1FeBBE6DFDCC318d386b3473bEDbED6fbF",
+            "token0": "UNI",
+            "amount0": -272402320693841754837,
+            "token1": "AAVE",
+            "amount1": 16676092041222500352,
+            "timestamp": "2024-08-08 14:43:23",
+            "pool_liquidity": 9959957886368553476711
+        },
+        {
+            "tx_hash": "0x013b748358c07510c5542a81f52383895213e028814423712cec5b04dd15174c",
+            "user_address": "0x74d02d1FeBBE6DFDCC318d386b3473bEDbED6fbF",
+            "token0": "UNI",
+            "amount0": -139517017765308105823,
+            "token1": "AAVE",
+            "amount1": 8626260700842506240,
+            "timestamp": "2024-08-08 17:57:35",
+            "pool_liquidity": 9959957886368553476711
+        },
+        {
+            "tx_hash": "0x7bc9ec3f396e2c68c71df86017303da4d4fa97e926a9599d70770fc08689cad4",
+            "user_address": "0x74d02d1FeBBE6DFDCC318d386b3473bEDbED6fbF",
+            "token0": "UNI",
+            "amount0": -118775821100077333638,
+            "token1": "AAVE",
+            "amount1": 6787434740353767424,
+            "timestamp": "2024-08-07 22:04:35",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F": [
+        {
+            "tx_hash": "0xc19573c371746ccef22328382b15c254510ca74d5422bd9c22ef43aa51702d35",
+            "user_address": "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F",
+            "token0": "UNI",
+            "amount0": -83133547198397600464,
+            "token1": "AAVE",
+            "amount1": 4958478008814765056,
+            "timestamp": "2024-08-04 13:08:23",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x0b4f4e0d613f15e9687a9a62774e6793becc282746689ed8c1ca599beaacb6da",
+            "user_address": "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F",
+            "token0": "UNI",
+            "amount0": 96362330695133806592,
+            "token1": "AAVE",
+            "amount1": -5379248171927883797,
+            "timestamp": "2024-08-06 00:11:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xfaea596e6fda019012eadbf22349aabe06c725cfe90ee48d43bbad8df2f8cac9",
+            "user_address": "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F",
+            "token0": "UNI",
+            "amount0": -75306087121313253005,
+            "token1": "AAVE",
+            "amount1": 4207811215292009472,
+            "timestamp": "2024-08-06 03:26:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xcccbbc3993aef8272fa53ba4e340d241a1be54cd2cd71b9672b2cef030ff96dd",
+            "user_address": "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F",
+            "token0": "UNI",
+            "amount0": -88627886358749050013,
+            "token1": "AAVE",
+            "amount1": 5006592932231162880,
+            "timestamp": "2024-08-07 00:12:59",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x510113ced8b634a25069fdae049ddc1302bcd0850106c0e7b6fef60cd2c68603",
+            "user_address": "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F",
+            "token0": "UNI",
+            "amount0": -55789364193040543215,
+            "token1": "AAVE",
+            "amount1": 3377402882271044608,
+            "timestamp": "2024-08-08 06:36:35",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9": [
+        {
+            "tx_hash": "0xd62ed81f2b7c89a8a97cc6c833b67a5893e4b79b10fd8537d55577b33be3d4ba",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": -56698751970946294750,
+            "token1": "AAVE",
+            "amount1": 3393491537304389632,
+            "timestamp": "2024-08-04 13:14:47",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x1d0c783820816cb160990bf186e604379ec16aa2c7ae48105898d1559486ad82",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": -99793604591039758586,
+            "token1": "AAVE",
+            "amount1": 5603851749635054592,
+            "timestamp": "2024-08-06 00:05:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xac6b9fc6a610c06257c4667aa0bd590dcc022371ed580d8dd0ed3ede81e10f05",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": -118463372076974940490,
+            "token1": "AAVE",
+            "amount1": 6763023668822391808,
+            "timestamp": "2024-08-06 06:08:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xd1f4accf9c2f824439bccb185d05d0cd2ae141e83ae01bc60ad7d7367dcfca9e",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": 89409790418423660544,
+            "token1": "AAVE",
+            "amount1": -4894597748195404907,
+            "timestamp": "2024-08-06 22:13:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xab94984f0ef41d81590c128060eadd177896f412b49e25642639e82621e41555",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": 64619356936390172672,
+            "token1": "AAVE",
+            "amount1": -3699144991885854267,
+            "timestamp": "2024-08-07 07:38:47",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x75afa97c88efcb63c25543ce8637625eef2d213235ea49c23aa58e813e12048a",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": -119469755047528919235,
+            "token1": "AAVE",
+            "amount1": 6861979715142670336,
+            "timestamp": "2024-08-07 09:10:47",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x4268fe1910d74e0150d0745241a1907fc58f93461f0bf874599052c975b05f6c",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": -86459352274567644023,
+            "token1": "AAVE",
+            "amount1": 4980209170893096960,
+            "timestamp": "2024-08-08 01:53:59",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x124c3034265da7ea5b56fef99fc68093398f00790ef8858678a1f1af0d22fd67",
+            "user_address": "0x2cDf1A1cC0964e6639a99a82634915bE2201f0a9",
+            "token0": "UNI",
+            "amount0": -85942806859178989325,
+            "token1": "AAVE",
+            "amount1": 4972980563147201536,
+            "timestamp": "2024-08-08 04:49:59",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0xDe2a3B8017453b4068a7B2a692f2456DabDb7A25": [
+        {
+            "tx_hash": "0x2b1f87b0a6bd899796837691be05b0675f45eae8c8fdd81f7a5968607754a301",
+            "user_address": "0xDe2a3B8017453b4068a7B2a692f2456DabDb7A25",
+            "token0": "UNI",
+            "amount0": -101604964754814225720,
+            "token1": "AAVE",
+            "amount1": 6105083164941407232,
+            "timestamp": "2024-08-04 13:23:35",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x8ceb52db927595b4c89a90c71343ab3bf42092f6a2b337b2cf8a8424904da3f9",
+            "user_address": "0xDe2a3B8017453b4068a7B2a692f2456DabDb7A25",
+            "token0": "UNI",
+            "amount0": -139359592717801651589,
+            "token1": "AAVE",
+            "amount1": 7701897369630487552,
+            "timestamp": "2024-08-06 00:48:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x51f4d00d55553aef508e20ded32e8e4a51a0c98f84276ddf93f7e24f5b7c25a3",
+            "user_address": "0xDe2a3B8017453b4068a7B2a692f2456DabDb7A25",
+            "token0": "UNI",
+            "amount0": -100709506493125592241,
+            "token1": "AAVE",
+            "amount1": 5602387964190897152,
+            "timestamp": "2024-08-06 04:07:59",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x08381e4895a09103177a257d8356f58c446a7c4f9f56b8f4be18063a7bbb14f8",
+            "user_address": "0xDe2a3B8017453b4068a7B2a692f2456DabDb7A25",
+            "token0": "UNI",
+            "amount0": -126844008974543441723,
+            "token1": "AAVE",
+            "amount1": 6976870230774074368,
+            "timestamp": "2024-08-06 22:33:59",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x1476d60558407f8e92a78bad00b6d3652d050dee1a1722cabbac28645359bd71",
+            "user_address": "0xDe2a3B8017453b4068a7B2a692f2456DabDb7A25",
+            "token0": "UNI",
+            "amount0": 285272572921733218304,
+            "token1": "AAVE",
+            "amount1": -16143708931284392394,
+            "timestamp": "2024-08-07 15:32:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x149c1b2993de6e718dbbbc78cdb1d9dcf5a443672a9942a3dd331ddef0b2167e",
+            "user_address": "0xDe2a3B8017453b4068a7B2a692f2456DabDb7A25",
+            "token0": "UNI",
+            "amount0": -131152361161540107632,
+            "token1": "AAVE",
+            "amount1": 7376748367563520000,
+            "timestamp": "2024-08-07 19:20:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x00b6085c1c8767579d819625e9cb4b47f29af9eadac8946adf774c32df0362cf",
+            "user_address": "0xDe2a3B8017453b4068a7B2a692f2456DabDb7A25",
+            "token0": "UNI",
+            "amount0": -107009200179117350938,
+            "token1": "AAVE",
+            "amount1": 6474931930049433600,
+            "timestamp": "2024-08-08 06:23:59",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x6594361880149b08e6A805B0f45feaA9fa0B69Bb": [
+        {
+            "tx_hash": "0xdf010e198fc17041dff1e84ec949735e3b75f5050589a0060458a599f32b73b8",
+            "user_address": "0x6594361880149b08e6A805B0f45feaA9fa0B69Bb",
+            "token0": "UNI",
+            "amount0": 73150400000000000000,
+            "token1": "AAVE",
+            "amount1": -4372120804166023883,
+            "timestamp": "2024-08-04 14:02:35",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0xF0361B42b5b28D31F7c407F792c343b86E4983FE": [
+        {
+            "tx_hash": "0x8ffad521ac1a97629842b83211a5b3ff21b78448e2ad664f743f082cf94239d5",
+            "user_address": "0xF0361B42b5b28D31F7c407F792c343b86E4983FE",
+            "token0": "UNI",
+            "amount0": -87535786259102659321,
+            "token1": "AAVE",
+            "amount1": 5265362267097183232,
+            "timestamp": "2024-08-04 14:02:35",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x17bba39fe5b41ebd7e536cab758d16dda0d838b64e9d611c5d276e9cd67b7687",
+            "user_address": "0xF0361B42b5b28D31F7c407F792c343b86E4983FE",
+            "token0": "UNI",
+            "amount0": -192555134008680410319,
+            "token1": "AAVE",
+            "amount1": 10587836188845400064,
+            "timestamp": "2024-08-06 14:13:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x45b1171c3ac5fa98d4ac07f5548d40518ad31bd8aef31ac3537a3e7e083a1d19",
+            "user_address": "0xF0361B42b5b28D31F7c407F792c343b86E4983FE",
+            "token0": "UNI",
+            "amount0": -220373862650352065029,
+            "token1": "AAVE",
+            "amount1": 12488992805692860416,
+            "timestamp": "2024-08-07 16:23:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xff5725da73fba5bb89c72a6ac5ccff26da09928cfc1d822b335f27be9aeafe61",
+            "user_address": "0xF0361B42b5b28D31F7c407F792c343b86E4983FE",
+            "token0": "UNI",
+            "amount0": -97827322455371784086,
+            "token1": "AAVE",
+            "amount1": 5700879541155693568,
+            "timestamp": "2024-08-08 05:14:59",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0xA57e55ec968aAF937c4Df7179cC884381b684C28": [
+        {
+            "tx_hash": "0xb2ccec1b607578ad344bd2bc3edbb9e8fe243bbf85e7a135f8cb755e572e66f1",
+            "user_address": "0xA57e55ec968aAF937c4Df7179cC884381b684C28",
+            "token0": "UNI",
+            "amount0": 73618732820880310272,
+            "token1": "AAVE",
+            "amount1": -4403251090100557065,
+            "timestamp": "2024-08-04 14:06:59",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x9603b31433dee78903450f5e43b8c3280917e76827b155a47a67445e236ac90b",
+            "user_address": "0xA57e55ec968aAF937c4Df7179cC884381b684C28",
+            "token0": "UNI",
+            "amount0": -131997488343803256484,
+            "token1": "AAVE",
+            "amount1": 7343989566250938368,
+            "timestamp": "2024-08-06 01:01:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x1a4cb554b0100d0c978f0e6f4a67fc1d6d13f0730ca70d17418271c01d79c7ed",
+            "user_address": "0xA57e55ec968aAF937c4Df7179cC884381b684C28",
+            "token0": "UNI",
+            "amount0": -85762290328543361354,
+            "token1": "AAVE",
+            "amount1": 4967419661659078656,
+            "timestamp": "2024-08-06 07:19:59",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x6d5ddab3551dda0cc9b4e840520dd8a03dcf895607c746fe4451c93e7e911d2b",
+            "user_address": "0xA57e55ec968aAF937c4Df7179cC884381b684C28",
+            "token0": "UNI",
+            "amount0": 145028629086018863104,
+            "token1": "AAVE",
+            "amount1": -7893976598277584382,
+            "timestamp": "2024-08-06 22:17:11",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0x3B40aF8E80b09F4A54b1eb763031D4880f765BdC": [
+        {
+            "tx_hash": "0x331fa76b342ebbe2a9326510c62fb579adf5f8a148f69b91c18dd7a5569363b0",
+            "user_address": "0x3B40aF8E80b09F4A54b1eb763031D4880f765BdC",
+            "token0": "UNI",
+            "amount0": 105667250382207221760,
+            "token1": "AAVE",
+            "amount1": -6292191623164989399,
+            "timestamp": "2024-08-04 14:12:23",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0xc8bc2530bc782806b66900cab75ecc42d45d2ae98512fa90e854c23f2afbaf03",
+            "user_address": "0x3B40aF8E80b09F4A54b1eb763031D4880f765BdC",
+            "token0": "UNI",
+            "amount0": 126207964243447005184,
+            "token1": "AAVE",
+            "amount1": -7075463596689677622,
+            "timestamp": "2024-08-05 22:32:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xdeeaabe7911ea0d3b6de7fd26e6aa8d1fd59119163d4f88aa866ba15dc04f7ec",
+            "user_address": "0x3B40aF8E80b09F4A54b1eb763031D4880f765BdC",
+            "token0": "UNI",
+            "amount0": 127355199225610567680,
+            "token1": "AAVE",
+            "amount1": -6994154749402576757,
+            "timestamp": "2024-08-06 00:21:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x10a1fcb0b816bbc0d7d53a22102664736ef3993d61954bee5415f34b97e9bd5c",
+            "user_address": "0x3B40aF8E80b09F4A54b1eb763031D4880f765BdC",
+            "token0": "UNI",
+            "amount0": 123028712706435612672,
+            "token1": "AAVE",
+            "amount1": -7564398714180270457,
+            "timestamp": "2024-08-08 18:16:35",
+            "pool_liquidity": 9959957886368553476711
+        }
+    ],
+    "0x188c91DAa2dd6B99331a65F87bE6F9b0F18F218f": [
+        {
+            "tx_hash": "0xd4ae5c970ac43c0d8847bd1676da6d6408a48de45bf9135c74beb160902b7543",
+            "user_address": "0x188c91DAa2dd6B99331a65F87bE6F9b0F18F218f",
+            "token0": "UNI",
+            "amount0": 86749855147485954048,
+            "token1": "AAVE",
+            "amount1": -5141264030225002284,
+            "timestamp": "2024-08-04 14:14:35",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x04ebea464d810af95718f4e97032999016ef5f59b9d2b4081eb477b3d1662426",
+            "user_address": "0x188c91DAa2dd6B99331a65F87bE6F9b0F18F218f",
+            "token0": "UNI",
+            "amount0": -121906041862373440712,
+            "token1": "AAVE",
+            "amount1": 7686887510641655808,
+            "timestamp": "2024-08-04 22:47:35",
+            "pool_liquidity": 10028317482349882214814
+        },
+        {
+            "tx_hash": "0x2ca5966609e14fb568d1439ab8af36e135ebf816df4bb62cdc8b69d85178c1bf",
+            "user_address": "0x188c91DAa2dd6B99331a65F87bE6F9b0F18F218f",
+            "token0": "UNI",
+            "amount0": -109072098339306598758,
+            "token1": "AAVE",
+            "amount1": 6074553332809182208,
+            "timestamp": "2024-08-05 23:35:59",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x9f9c477519f7f1c20ed5c7eb18d760bed74c73868fd0b94ce8f76eedd6483236",
+            "user_address": "0x188c91DAa2dd6B99331a65F87bE6F9b0F18F218f",
+            "token0": "UNI",
+            "amount0": -109142181188023053835,
+            "token1": "AAVE",
+            "amount1": 6164613098827241472,
+            "timestamp": "2024-08-06 05:50:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x3baf84c150d9cfdecbb1dac2786605c7bd7f96a899b6aff81d0ebed236360732",
+            "user_address": "0x188c91DAa2dd6B99331a65F87bE6F9b0F18F218f",
+            "token0": "UNI",
+            "amount0": 66526330939537727488,
+            "token1": "AAVE",
+            "amount1": -3743984112161412906,
+            "timestamp": "2024-08-07 03:44:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xdaa92651825d4afde5332d5770db2846b11fbff90e6e2afccbb6ac16cc821b58",
+            "user_address": "0x188c91DAa2dd6B99331a65F87bE6F9b0F18F218f",
+            "token0": "UNI",
+            "amount0": -87714961236349680993,
+            "token1": "AAVE",
+            "amount1": 4951134127472739328,
+            "timestamp": "2024-08-07 03:11:11",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0xE4613aF9ecdF8db83707546Af9d4Bd9dA76CE504": [
+        {
+            "tx_hash": "0xdf3ded5595bc542ee316b9ccbd66fa73b8c8e9ed759a80c3ad4e1293a5b85889",
+            "user_address": "0xE4613aF9ecdF8db83707546Af9d4Bd9dA76CE504",
+            "token0": "UNI",
+            "amount0": -105266432138813108666,
+            "token1": "AAVE",
+            "amount1": 6279172311752718336,
+            "timestamp": "2024-08-04 14:19:35",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x1fb4e01679803481d5af1fff2a1dd72e6398ffac0913f429d4764644df8af293",
+            "user_address": "0xE4613aF9ecdF8db83707546Af9d4Bd9dA76CE504",
+            "token0": "UNI",
+            "amount0": -127014471701035762753,
+            "token1": "AAVE",
+            "amount1": 7164641727289469952,
+            "timestamp": "2024-08-05 21:26:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x5b80e66fb77842915c86b0af6b3da7f4a4f6cd3ff89ce4534043625f1813bab8",
+            "user_address": "0xE4613aF9ecdF8db83707546Af9d4Bd9dA76CE504",
+            "token0": "UNI",
+            "amount0": -134964186821941738605,
+            "token1": "AAVE",
+            "amount1": 7656433893487125504,
+            "timestamp": "2024-08-06 05:54:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x3aae163a603a4c4cdc97e82721ebe8406b3576dbdec599c3684c7ca7959cb703",
+            "user_address": "0xE4613aF9ecdF8db83707546Af9d4Bd9dA76CE504",
+            "token0": "UNI",
+            "amount0": 139985400480152092672,
+            "token1": "AAVE",
+            "amount1": -7711412157873622325,
+            "timestamp": "2024-08-06 14:02:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xf44fda8133e4ef8c670da6f3d6860151a9af113b7adf63b0d606c7cb4d6ec979",
+            "user_address": "0xE4613aF9ecdF8db83707546Af9d4Bd9dA76CE504",
+            "token0": "UNI",
+            "amount0": 225307319267582705664,
+            "token1": "AAVE",
+            "amount1": -12438529814764476123,
+            "timestamp": "2024-08-06 14:17:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xe601b5feaff580248c94b35efcb9f2543622fa7f13d5ff1044e5dc0739802b87",
+            "user_address": "0xE4613aF9ecdF8db83707546Af9d4Bd9dA76CE504",
+            "token0": "UNI",
+            "amount0": 133282916278861758464,
+            "token1": "AAVE",
+            "amount1": -7620840569624706493,
+            "timestamp": "2024-08-07 13:43:47",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x2899414bd3f3d52a6a7f9e52e65ea2ad4f8b01b965ecd890ad7162eb51ff306c",
+            "user_address": "0xE4613aF9ecdF8db83707546Af9d4Bd9dA76CE504",
+            "token0": "UNI",
+            "amount0": -118336272771654860532,
+            "token1": "AAVE",
+            "amount1": 6957996360296823808,
+            "timestamp": "2024-08-08 05:17:59",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0xAb7B44AE25af88D306DC0A5C6c39bBEB8916EabB": [
+        {
+            "tx_hash": "0x1aa257f6557f5b1d88ac6374a382215e2a20d81407b929acaf374aa591dec69b",
+            "user_address": "0xAb7B44AE25af88D306DC0A5C6c39bBEB8916EabB",
+            "token0": "UNI",
+            "amount0": -113224528588825170429,
+            "token1": "AAVE",
+            "amount1": 6790479058194335744,
+            "timestamp": "2024-08-04 14:25:23",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x5742f9ae640296972da5c571ff46822c747ce98217944c6f5985c15255dc1896",
+            "user_address": "0xAb7B44AE25af88D306DC0A5C6c39bBEB8916EabB",
+            "token0": "UNI",
+            "amount0": 124419619373226147840,
+            "token1": "AAVE",
+            "amount1": -6875345279794755634,
+            "timestamp": "2024-08-06 00:19:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xbd6be3f56996191edc1bed91b4fdab23c8f73168607cf374bb7ff05d18d70a49",
+            "user_address": "0xAb7B44AE25af88D306DC0A5C6c39bBEB8916EabB",
+            "token0": "UNI",
+            "amount0": -146606242847412887000,
+            "token1": "AAVE",
+            "amount1": 8323760610521990144,
+            "timestamp": "2024-08-07 03:14:11",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0xCc9F0501f408D5b0e4Bf73c3422DE880F4CE279e": [
+        {
+            "tx_hash": "0xf2007cc08716f4fae172168a43b17dcfe3dab9b017581efd3284eff36d2b9d3e",
+            "user_address": "0xCc9F0501f408D5b0e4Bf73c3422DE880F4CE279e",
+            "token0": "UNI",
+            "amount0": 129967680281484689408,
+            "token1": "AAVE",
+            "amount1": -7744795173565665834,
+            "timestamp": "2024-08-04 14:54:47",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x9485800dd9746055c54c4e05125c05c3d8be23da690e4c42c56783825b020bf6",
+            "user_address": "0xCc9F0501f408D5b0e4Bf73c3422DE880F4CE279e",
+            "token0": "UNI",
+            "amount0": 116214841177326043136,
+            "token1": "AAVE",
+            "amount1": -6474478050778375789,
+            "timestamp": "2024-08-06 03:52:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x14fb7441391a0773d58949e355366ac3c77fd770f25bd52dc879d330a292bf19",
+            "user_address": "0xCc9F0501f408D5b0e4Bf73c3422DE880F4CE279e",
+            "token0": "UNI",
+            "amount0": -95306995535040869995,
+            "token1": "AAVE",
+            "amount1": 5414171676190096384,
+            "timestamp": "2024-08-07 05:19:59",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0xF7bF389531Bea3bA0fdD3EcD63B8fEEb37b039E3": [
+        {
+            "tx_hash": "0x07cd38aabdd62f7c156f641e81ba964584d7adca8f50913743c0a86b82921311",
+            "user_address": "0xF7bF389531Bea3bA0fdD3EcD63B8fEEb37b039E3",
+            "token0": "UNI",
+            "amount0": 114598433193133768704,
+            "token1": "AAVE",
+            "amount1": -7150296541813109793,
+            "timestamp": "2024-08-04 22:02:59",
+            "pool_liquidity": 9978730015682919645102
+        },
+        {
+            "tx_hash": "0x8b507eca0f6c32fb2664672d840eeaebb4906d7c99297f571749f448a38f7da1",
+            "user_address": "0xF7bF389531Bea3bA0fdD3EcD63B8fEEb37b039E3",
+            "token0": "UNI",
+            "amount0": 122380792197379096576,
+            "token1": "AAVE",
+            "amount1": -6728271757710429926,
+            "timestamp": "2024-08-06 02:29:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x6efbac2c7f566d446648c00558854b84ac7b3159cbf61ddc2af4803b7bb12d55",
+            "user_address": "0xF7bF389531Bea3bA0fdD3EcD63B8fEEb37b039E3",
+            "token0": "UNI",
+            "amount0": 105540688027097694208,
+            "token1": "AAVE",
+            "amount1": -5841837227902030911,
+            "timestamp": "2024-08-05 23:02:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xd66638ca35cd6b7fc14a98020ca09ddbcd8599488d644604a04c7952c82cd888",
+            "user_address": "0xF7bF389531Bea3bA0fdD3EcD63B8fEEb37b039E3",
+            "token0": "UNI",
+            "amount0": -109652365549443664602,
+            "token1": "AAVE",
+            "amount1": 6335449594464842752,
+            "timestamp": "2024-08-06 07:53:35",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x612d347d133d6047e58c993b65190d0e2bb5079596d575d602222f676b471d41",
+            "user_address": "0xF7bF389531Bea3bA0fdD3EcD63B8fEEb37b039E3",
+            "token0": "UNI",
+            "amount0": -132945768594294512692,
+            "token1": "AAVE",
+            "amount1": 7464071676910664704,
+            "timestamp": "2024-08-06 05:27:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x94cc5f5d3284c71c97829037b05a683abaf08571028684a517c84acdf7212dd7",
+            "user_address": "0xF7bF389531Bea3bA0fdD3EcD63B8fEEb37b039E3",
+            "token0": "UNI",
+            "amount0": -104129574746995313253,
+            "token1": "AAVE",
+            "amount1": 6041147569077680128,
+            "timestamp": "2024-08-06 19:21:59",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0xf9078ed1e74a91a95df43b292b3a53c6c777f11427b7e2620a34a81077f9e531",
+            "user_address": "0xF7bF389531Bea3bA0fdD3EcD63B8fEEb37b039E3",
+            "token0": "UNI",
+            "amount0": -118480602521002692162,
+            "token1": "AAVE",
+            "amount1": 6556288032050418688,
+            "timestamp": "2024-08-06 22:36:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xb79564cf962a8e6182bf1e2dd486c49a4d98e339934063e013ed5acb59982063",
+            "user_address": "0xF7bF389531Bea3bA0fdD3EcD63B8fEEb37b039E3",
+            "token0": "UNI",
+            "amount0": -153811966319400987984,
+            "token1": "AAVE",
+            "amount1": 8838851972273996800,
+            "timestamp": "2024-08-07 05:27:23",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x32cd99c9abdda77d6fe8436ba35b2cb81b9625f39d966df0939d6fda58035849",
+            "user_address": "0xF7bF389531Bea3bA0fdD3EcD63B8fEEb37b039E3",
+            "token0": "UNI",
+            "amount0": -130318938378554069034,
+            "token1": "AAVE",
+            "amount1": 8062472044998062080,
+            "timestamp": "2024-08-08 18:40:47",
+            "pool_liquidity": 9959957886368553476711
+        }
+    ],
+    "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819": [
+        {
+            "tx_hash": "0x6abeffa849cc008b0a0d6cab7900eadf7deb2cc9e51fb691d50d95209bc38272",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": -86584896198830658162,
+            "token1": "AAVE",
+            "amount1": 5431197704598398976,
+            "timestamp": "2024-08-04 22:28:23",
+            "pool_liquidity": 9978730015682919645102
+        },
+        {
+            "tx_hash": "0xfcab3d02a94e63bb569bc990f547867ff9b4a8352465867dee062fba11594d38",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": -288029874946762767790,
+            "token1": "AAVE",
+            "amount1": 17492696413864957952,
+            "timestamp": "2024-08-04 17:18:35",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x9c00c8288fc5f26f35511865438adbfefee7f4b1f0b09296973e625fb832d07d",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": -267096340245659628626,
+            "token1": "AAVE",
+            "amount1": 16447465666905131008,
+            "timestamp": "2024-08-04 19:34:11",
+            "pool_liquidity": 9959957886368553476711
+        },
+        {
+            "tx_hash": "0xd8954e70bb2e0adad0d5b51e284130d7cce1fc3b107422df90badb52f3050621",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": -367357982337261263742,
+            "token1": "AAVE",
+            "amount1": 23115667077253058560,
+            "timestamp": "2024-08-05 04:12:23",
+            "pool_liquidity": 10028317482349882214814
+        },
+        {
+            "tx_hash": "0x1043c31e6896f4a48b58e656c4155e041276289c66f94cfb9516e2750304a282",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": 83293968451092103168,
+            "token1": "AAVE",
+            "amount1": -4742688648113521801,
+            "timestamp": "2024-08-06 09:51:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xd042f66aba5cb16d7d3a1dd09ab0072f02847e949cd71dec608740dca753b813",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": -81922378010646351597,
+            "token1": "AAVE",
+            "amount1": 4595369577866401792,
+            "timestamp": "2024-08-06 03:39:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x85b1ef4f915534bf6bafe633943594dcbe1605afb42a4618f7d18f9711f11d08",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": -93041057001478065249,
+            "token1": "AAVE",
+            "amount1": 5347592310232540160,
+            "timestamp": "2024-08-06 20:20:11",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x8b8365aaefb3777c6c4d08b859b91bf935d2a14143dd82e7d0b90ee072673bf1",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": -66130970371833594442,
+            "token1": "AAVE",
+            "amount1": 3741656492188004864,
+            "timestamp": "2024-08-07 05:06:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x376f0b8d98c7312a1bc4b205e0b7ee7dffd4e79972bd7d09218232b907328ea7",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": -47223407844933230283,
+            "token1": "AAVE",
+            "amount1": 3038081395822838784,
+            "timestamp": "2024-08-10 05:35:11",
+            "pool_liquidity": 10028317482349882214814
+        },
+        {
+            "tx_hash": "0xd0a12b0e5530a3fc11334852fdd8bcbe7ccd8d48f7f98e0b6a303ade3e9a8a32",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": -121806307317235121838,
+            "token1": "AAVE",
+            "amount1": 6844978975114275840,
+            "timestamp": "2024-08-07 20:39:59",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0xe97881a663A97B1FeCbfe51A6318f2d53c7A49cD": [
+        {
+            "tx_hash": "0xef26020f6b6169f499ef046597b655340247d83ad5d83bf029e748b90648e70b",
+            "user_address": "0xe97881a663A97B1FeCbfe51A6318f2d53c7A49cD",
+            "token0": "UNI",
+            "amount0": -206499523258403879222,
+            "token1": "AAVE",
+            "amount1": 12696680438021931008,
+            "timestamp": "2024-08-04 18:56:47",
+            "pool_liquidity": 9959957886368553476711
+        },
+        {
+            "tx_hash": "0x09e47b786b6a3ab093e41296166347e9d6d7931a967ce2bf8aeacc410320dbd1",
+            "user_address": "0xe97881a663A97B1FeCbfe51A6318f2d53c7A49cD",
+            "token0": "UNI",
+            "amount0": 286773629137964630016,
+            "token1": "AAVE",
+            "amount1": -17643899832510158615,
+            "timestamp": "2024-08-05 08:14:47",
+            "pool_liquidity": 9959957886368553476711
+        },
+        {
+            "tx_hash": "0x40f6391ac69814892d9948a45322f05ab7226f754aa8a047cedcace996331669",
+            "user_address": "0xe97881a663A97B1FeCbfe51A6318f2d53c7A49cD",
+            "token0": "UNI",
+            "amount0": -355494353143266388972,
+            "token1": "AAVE",
+            "amount1": 21968461745875410944,
+            "timestamp": "2024-08-05 03:18:35",
+            "pool_liquidity": 9959957886368553476711
+        },
+        {
+            "tx_hash": "0xb79642d5207d8e5039424c00c3a0c6257be6da01c3fe79a168b3af979515cbc4",
+            "user_address": "0xe97881a663A97B1FeCbfe51A6318f2d53c7A49cD",
+            "token0": "UNI",
+            "amount0": 96027956953900695552,
+            "token1": "AAVE",
+            "amount1": -5393757082391587538,
+            "timestamp": "2024-08-06 01:57:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xfc6e92b2be591ca0c762c80148de34906c330cca0841c1f5a7952b80aca8e12f",
+            "user_address": "0xe97881a663A97B1FeCbfe51A6318f2d53c7A49cD",
+            "token0": "UNI",
+            "amount0": 79393051873537769472,
+            "token1": "AAVE",
+            "amount1": -4391910856227274429,
+            "timestamp": "2024-08-06 22:06:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x36905b2237d7fd2d112217aef4c97e271fabe61915a513df864e4e5037dca9c2",
+            "user_address": "0xe97881a663A97B1FeCbfe51A6318f2d53c7A49cD",
+            "token0": "UNI",
+            "amount0": -85604503419900044050,
+            "token1": "AAVE",
+            "amount1": 4783146721733454848,
+            "timestamp": "2024-08-06 23:29:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x842f29f97fdf22e3d94e57b15c1c165036cd4b99e4e7c204a1df80a96c009b37",
+            "user_address": "0xe97881a663A97B1FeCbfe51A6318f2d53c7A49cD",
+            "token0": "UNI",
+            "amount0": -77032622508617343121,
+            "token1": "AAVE",
+            "amount1": 4506815215352927232,
+            "timestamp": "2024-08-08 05:16:11",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0xD530068Ae13De839B9D9f40364B780E9345422FE": [
+        {
+            "tx_hash": "0xe8d59beb5955640f244ab7281377a192660de0c4adbf7d953735939c3ad5281e",
+            "user_address": "0xD530068Ae13De839B9D9f40364B780E9345422FE",
+            "token0": "UNI",
+            "amount0": 206959766903285514240,
+            "token1": "AAVE",
+            "amount1": -12648793779567459696,
+            "timestamp": "2024-08-04 19:11:47",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x13ff196d9c97f4de8b9928e1354371866db933bc02e02c60e9e37661a4775035",
+            "user_address": "0xD530068Ae13De839B9D9f40364B780E9345422FE",
+            "token0": "UNI",
+            "amount0": 65263225566181433344,
+            "token1": "AAVE",
+            "amount1": -3685741127987855853,
+            "timestamp": "2024-08-06 21:45:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x47039007661718e985f03bb1b1d58534b67593b64716339ef6b86941a46f6cde",
+            "user_address": "0xD530068Ae13De839B9D9f40364B780E9345422FE",
+            "token0": "UNI",
+            "amount0": 128364984300365561856,
+            "token1": "AAVE",
+            "amount1": -7064787756652457666,
+            "timestamp": "2024-08-06 22:10:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x18297c54227145377fa77305eabab551a526ccba89393a5878c4ba7096ae2277",
+            "user_address": "0xD530068Ae13De839B9D9f40364B780E9345422FE",
+            "token0": "UNI",
+            "amount0": -163367854783964614186,
+            "token1": "AAVE",
+            "amount1": 9335001754151489536,
+            "timestamp": "2024-08-06 17:10:11",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x66c01e58b350d5831d1cdf1651bb3155283834cb77314502a8f4623b7953950d",
+            "user_address": "0xD530068Ae13De839B9D9f40364B780E9345422FE",
+            "token0": "UNI",
+            "amount0": 131723500779831263232,
+            "token1": "AAVE",
+            "amount1": -7364518157858952149,
+            "timestamp": "2024-08-07 18:45:23",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0xfc9928F6590D853752824B0B403A6AE36785e535": [
+        {
+            "tx_hash": "0xab88e16dd410ef4fe7871e8a90c71300fa58a6783a937a244ec2612383e3abd6",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": 45675585417580863730,
+            "token1": "AAVE",
+            "amount1": -2811241057998602240,
+            "timestamp": "2024-08-04 19:44:59",
+            "pool_liquidity": 9959957886368553476711
+        },
+        {
+            "tx_hash": "0x4fa83c055a51993d4cd578df08722aec2474d6c56d3e551186fa6f1ed988b5db",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -234738811104479150080,
+            "token1": "AAVE",
+            "amount1": 14995493440806307291,
+            "timestamp": "2024-08-05 04:29:23",
+            "pool_liquidity": 10028317482349882214814
+        },
+        {
+            "tx_hash": "0xa5c02c0d93604fe55d097624d431076b7bc008fc3b092c4a0a2d17deaf4fc668",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -12441951620021878784,
+            "token1": "AAVE",
+            "amount1": 724359102062699588,
+            "timestamp": "2024-08-05 18:47:23",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x5a9877c07fde7fed54ba23151815d0ddc54c4bd03058fdbeab869d61a701263d",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": 31398336776623960764,
+            "token1": "AAVE",
+            "amount1": -1810118266161463296,
+            "timestamp": "2024-08-06 07:20:11",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x05d5543935a5b3fd454723fa2b923d0ccfd2bc8e21843c53e78781e8f8c2a0b9",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": 7774479798153534514,
+            "token1": "AAVE",
+            "amount1": -444564973817954304,
+            "timestamp": "2024-08-06 06:27:23",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x5b89d019d80524539912eb022fd525afccc6cbd399c72f4ab1a7a8314a2d781d",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": 18659795276428037666,
+            "token1": "AAVE",
+            "amount1": -1070992190232068096,
+            "timestamp": "2024-08-06 06:58:11",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x8eb5b5488091b349a059f8305320e3dd07928e822b2382f90ab12342e779af25",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -126092716952002756608,
+            "token1": "AAVE",
+            "amount1": 7260768247873577834,
+            "timestamp": "2024-08-06 10:47:23",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x180650becf6549a81e8fb1b4c320f530c623f618582890ccf7770f69e11153cf",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": 29270908281697707619,
+            "token1": "AAVE",
+            "amount1": -1677644015710765056,
+            "timestamp": "2024-08-06 18:08:47",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x26d9e21fab5254a5683b9bd459a71ba13910c950e05cf39dbc42059761ebdbf0",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -22987849142215114752,
+            "token1": "AAVE",
+            "amount1": 1255034824371954024,
+            "timestamp": "2024-08-06 22:21:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xf92f7de18db2f88ea474577899c75fd080d2d8871977c87257f4e88c795ecd97",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -65282060339944357888,
+            "token1": "AAVE",
+            "amount1": 3805056302355322770,
+            "timestamp": "2024-08-07 09:44:35",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x5aa49bab9795db44c735300260da25eb7895dc241081a598f98f26558f6ee739",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": 3647939460055201948,
+            "token1": "AAVE",
+            "amount1": -219732193310670848,
+            "timestamp": "2024-08-08 07:11:11",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x38955dbc5d0ef3f09aaf6e3a3df73f22c43ca4f7144a62e6262142656f68ee5e",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": 6731533364612395975,
+            "token1": "AAVE",
+            "amount1": -390797837312458752,
+            "timestamp": "2024-08-08 05:15:23",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x346C802df3404BEC2f265603db28B815321251Ee": [
+        {
+            "tx_hash": "0x9b0d709854e2e63335117c77272110d4dca9cad9d4a38e0a6f8138679e0c0741",
+            "user_address": "0x346C802df3404BEC2f265603db28B815321251Ee",
+            "token0": "UNI",
+            "amount0": 29857468927472458099,
+            "token1": "AAVE",
+            "amount1": -1857077437990773125,
+            "timestamp": "2024-08-04 20:04:35",
+            "pool_liquidity": 9978730015682919645102
+        },
+        {
+            "tx_hash": "0x596a63e62f0e3720b87470abf0550b7eccab4142c06f423672b699168c4af0a7",
+            "user_address": "0x346C802df3404BEC2f265603db28B815321251Ee",
+            "token0": "UNI",
+            "amount0": -37217653196487680796,
+            "token1": "AAVE",
+            "amount1": 2090823627176575652,
+            "timestamp": "2024-08-05 21:15:59",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x6e0a5be300a9d85d94c7ed2d87ba7ec43d8aee95b4d0799970c1eb32068cfc0a",
+            "user_address": "0x346C802df3404BEC2f265603db28B815321251Ee",
+            "token0": "UNI",
+            "amount0": -11050291465642138061,
+            "token1": "AAVE",
+            "amount1": 621458143924240790,
+            "timestamp": "2024-08-05 22:34:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x5a127dba545e94b6fef312d0867de515e9e83d981b257974c713030c7b629d50",
+            "user_address": "0x346C802df3404BEC2f265603db28B815321251Ee",
+            "token0": "UNI",
+            "amount0": -1825942471095136760,
+            "token1": "AAVE",
+            "amount1": 101413958563098510,
+            "timestamp": "2024-08-05 23:29:59",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xc38132c0089a75422db130051c20d74d8eacfd8919a6b7466188ef2ea10e6f8f",
+            "user_address": "0x346C802df3404BEC2f265603db28B815321251Ee",
+            "token0": "UNI",
+            "amount0": 77485048701007890089,
+            "token1": "AAVE",
+            "amount1": -4460182810620638416,
+            "timestamp": "2024-08-06 07:18:35",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0xa61edfba7e6bf3a4ede673b745558164acd408c10d74586b382c58b73b6387b3",
+            "user_address": "0x346C802df3404BEC2f265603db28B815321251Ee",
+            "token0": "UNI",
+            "amount0": 34606406637219401690,
+            "token1": "AAVE",
+            "amount1": -1946553290029151230,
+            "timestamp": "2024-08-06 05:54:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x923f3f64350e66d93fc9f456dec090f0d9a4ff3c7e81a5785e1b9a814cf92037",
+            "user_address": "0x346C802df3404BEC2f265603db28B815321251Ee",
+            "token0": "UNI",
+            "amount0": 49313295176854337146,
+            "token1": "AAVE",
+            "amount1": -2717103041984414552,
+            "timestamp": "2024-08-06 22:54:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xeea5498fef27c1f1d569f9730fb127b85d403ff911f71572a446812165c0cc23",
+            "user_address": "0x346C802df3404BEC2f265603db28B815321251Ee",
+            "token0": "UNI",
+            "amount0": 4321192554667913598,
+            "token1": "AAVE",
+            "amount1": -244372864086365212,
+            "timestamp": "2024-08-07 00:52:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xdf1e13ca3f6220fb7c119a262b6632017435c8c98453dcde03e1d9b339292fa5",
+            "user_address": "0x346C802df3404BEC2f265603db28B815321251Ee",
+            "token0": "UNI",
+            "amount0": 5041594321001668110,
+            "token1": "AAVE",
+            "amount1": -302461609529690732,
+            "timestamp": "2024-08-08 06:23:47",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x1a260e7688624628c92e192837cd2b2e9aa74a9fac6261c555a9f6fd38dd5125",
+            "user_address": "0x346C802df3404BEC2f265603db28B815321251Ee",
+            "token0": "UNI",
+            "amount0": 56060256996692374667,
+            "token1": "AAVE",
+            "amount1": -3373478678280064491,
+            "timestamp": "2024-08-08 06:24:47",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x32b5d897335964c3898dcf937407ff3ebe6c051f07f9f47f777aced9f19a5d2d",
+            "user_address": "0x346C802df3404BEC2f265603db28B815321251Ee",
+            "token0": "UNI",
+            "amount0": 4811451071809083530,
+            "token1": "AAVE",
+            "amount1": -289755005114720117,
+            "timestamp": "2024-08-08 07:13:11",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x92075f9015eb467df1794121ec557864320309831d1f322b20e39195620269ba",
+            "user_address": "0x346C802df3404BEC2f265603db28B815321251Ee",
+            "token0": "UNI",
+            "amount0": 52442221889037843310,
+            "token1": "AAVE",
+            "amount1": -3051611545659119895,
+            "timestamp": "2024-08-08 05:16:23",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x05a94A8Dd7eb1ba5b1114CC5eF18855A221Ac317": [
+        {
+            "tx_hash": "0x3be671648fc12f7147a0c458ff744703ad7448bb6f1397601ab4737b2e11af4e",
+            "user_address": "0x05a94A8Dd7eb1ba5b1114CC5eF18855A221Ac317",
+            "token0": "UNI",
+            "amount0": -134862153255917295171,
+            "token1": "AAVE",
+            "amount1": 8460989535507387392,
+            "timestamp": "2024-08-04 20:25:11",
+            "pool_liquidity": 9978730015682919645102
+        },
+        {
+            "tx_hash": "0xf8851d035cab8d786e0018727eb94d8b54e9cef73dac38ff00a1d86b1c8a5197",
+            "user_address": "0x05a94A8Dd7eb1ba5b1114CC5eF18855A221Ac317",
+            "token0": "UNI",
+            "amount0": -149803097924736065906,
+            "token1": "AAVE",
+            "amount1": 9510529305286580224,
+            "timestamp": "2024-08-05 00:21:59",
+            "pool_liquidity": 10028317482349882214814
+        },
+        {
+            "tx_hash": "0xc9e3782fd51e97e50088ec632449a6c93727bd7cb954c3c69e7754467a9b15c8",
+            "user_address": "0x05a94A8Dd7eb1ba5b1114CC5eF18855A221Ac317",
+            "token0": "UNI",
+            "amount0": -121593806440728436136,
+            "token1": "AAVE",
+            "amount1": 6866505798335702016,
+            "timestamp": "2024-08-06 01:53:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xab91bd1865ef29541d2dd2ffe4cc163461acf8fc31cd6c30d3e8af59d01f7a5b",
+            "user_address": "0x05a94A8Dd7eb1ba5b1114CC5eF18855A221Ac317",
+            "token0": "UNI",
+            "amount0": -103096707985520792968,
+            "token1": "AAVE",
+            "amount1": 5715338759618123776,
+            "timestamp": "2024-08-06 02:59:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x59a5f2e87a32a2f38b87684a9e41a772b0e471aa422f7ad4334943334deb2d69",
+            "user_address": "0x05a94A8Dd7eb1ba5b1114CC5eF18855A221Ac317",
+            "token0": "UNI",
+            "amount0": 107813634620056043520,
+            "token1": "AAVE",
+            "amount1": -6173797930213102088,
+            "timestamp": "2024-08-06 11:32:23",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x81658b7bc0074d327ad289025cd9929d79296881c0afb87842c1a14187e87a7c",
+            "user_address": "0x05a94A8Dd7eb1ba5b1114CC5eF18855A221Ac317",
+            "token0": "UNI",
+            "amount0": 117209243027931086848,
+            "token1": "AAVE",
+            "amount1": -6589450273572837667,
+            "timestamp": "2024-08-06 21:53:59",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x859a9c5533cc55f18e3bb08627439c23fed1b578ba0883bc29a6edde3584c3c4",
+            "user_address": "0x05a94A8Dd7eb1ba5b1114CC5eF18855A221Ac317",
+            "token0": "UNI",
+            "amount0": 131984094420387774464,
+            "token1": "AAVE",
+            "amount1": -7547483382443488873,
+            "timestamp": "2024-08-06 20:08:11",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x2312D45dd151D8c7067B2852b30fD0E0AC762d46": [
+        {
+            "tx_hash": "0x504f33653ef2a1d86ae4a744ed8e7876b55cabe8eedabc7a9defb5c5fdd292c8",
+            "user_address": "0x2312D45dd151D8c7067B2852b30fD0E0AC762d46",
+            "token0": "UNI",
+            "amount0": -163885836996064707209,
+            "token1": "AAVE",
+            "amount1": 10575063569618731494,
+            "timestamp": "2024-08-05 04:38:47",
+            "pool_liquidity": 10028317482349882214814
+        }
+    ],
+    "0xbF7a18C881e971041fCB0D57a679e8944C742edF": [
+        {
+            "tx_hash": "0xbe743b87d354621ae0d15a55381ab1c966e6fef9ec38da641504ce9d65e76014",
+            "user_address": "0xbF7a18C881e971041fCB0D57a679e8944C742edF",
+            "token0": "UNI",
+            "amount0": 493629923147938398208,
+            "token1": "AAVE",
+            "amount1": -30968513020903838440,
+            "timestamp": "2024-08-05 07:10:47",
+            "pool_liquidity": 9959957886368553476711
+        },
+        {
+            "tx_hash": "0x285d09a6580d219cfade6fe3ff20efb53140aa8915f98e922f09c0532806a57c",
+            "user_address": "0xbF7a18C881e971041fCB0D57a679e8944C742edF",
+            "token0": "UNI",
+            "amount0": 65931654668441894912,
+            "token1": "AAVE",
+            "amount1": -3689846771398950693,
+            "timestamp": "2024-08-06 21:57:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xd434933e55b44a555066c54bd5d38c3ac80794674f820705457b206e547fccfe",
+            "user_address": "0xbF7a18C881e971041fCB0D57a679e8944C742edF",
+            "token0": "UNI",
+            "amount0": 92728940127693062144,
+            "token1": "AAVE",
+            "amount1": -5331618072756685731,
+            "timestamp": "2024-08-06 20:00:59",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x626b8c40222ee6a06d9f760651566f6106ef07629c1831aed108bb968cec5131",
+            "user_address": "0xbF7a18C881e971041fCB0D57a679e8944C742edF",
+            "token0": "UNI",
+            "amount0": -75547687866105850250,
+            "token1": "AAVE",
+            "amount1": 4238108402281717760,
+            "timestamp": "2024-08-07 00:05:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xdcac003aaac00d19d1502693baa23d95986d3f376b17f546d127aae3a29746b6",
+            "user_address": "0xbF7a18C881e971041fCB0D57a679e8944C742edF",
+            "token0": "UNI",
+            "amount0": -57911007734267725375,
+            "token1": "AAVE",
+            "amount1": 3259495669756868096,
+            "timestamp": "2024-08-07 00:07:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x8a9ab18469f44b952af02e7425bd179e384c20d991ec2049bd9402beaaebdff3",
+            "user_address": "0xbF7a18C881e971041fCB0D57a679e8944C742edF",
+            "token0": "UNI",
+            "amount0": 74144592012389580800,
+            "token1": "AAVE",
+            "amount1": -4316663304063544103,
+            "timestamp": "2024-08-07 12:07:47",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x3e6f0c91d12b30f0d9cf13e1a152c42cc492c4cc37478a5fc5964483915484c2",
+            "user_address": "0xbF7a18C881e971041fCB0D57a679e8944C742edF",
+            "token0": "UNI",
+            "amount0": -65593797031196097259,
+            "token1": "AAVE",
+            "amount1": 4141595021858966528,
+            "timestamp": "2024-08-09 06:54:59",
+            "pool_liquidity": 10028317482349882214814
+        }
+    ],
+    "0xE556E36537FD64A5A9572961f0a5aa0f61997e68": [
+        {
+            "tx_hash": "0x14df931bc0d1d3ee8489303b49241cf1c7929946d32be951d9445bd26d5be104",
+            "user_address": "0xE556E36537FD64A5A9572961f0a5aa0f61997e68",
+            "token0": "UNI",
+            "amount0": -246668681801005631470,
+            "token1": "AAVE",
+            "amount1": 15252908408318567825,
+            "timestamp": "2024-08-05 10:53:35",
+            "pool_liquidity": 9959957886368553476711
+        }
+    ],
+    "0x2c0aca65aB8e5A53c3b45458Fe34EBb231C3370E": [
+        {
+            "tx_hash": "0xe0f68a84aa3f69cc169181f276c33532bfdeaf30cced18edac114f84e0516cc6",
+            "user_address": "0x2c0aca65aB8e5A53c3b45458Fe34EBb231C3370E",
+            "token0": "UNI",
+            "amount0": 276144397652324876288,
+            "token1": "AAVE",
+            "amount1": -16961181877505091131,
+            "timestamp": "2024-08-05 11:05:59",
+            "pool_liquidity": 9959957886368553476711
+        },
+        {
+            "tx_hash": "0x41d99ab3b678e250ce2968867ea566b4198aed9ae9dfd717be28de243efc1e78",
+            "user_address": "0x2c0aca65aB8e5A53c3b45458Fe34EBb231C3370E",
+            "token0": "UNI",
+            "amount0": 114186613277892182016,
+            "token1": "AAVE",
+            "amount1": -6314388468512922019,
+            "timestamp": "2024-08-06 02:15:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x5bc0806570209c38fa795c5874ca35fba9b006dbf2619a6dceca197b836436cf",
+            "user_address": "0x2c0aca65aB8e5A53c3b45458Fe34EBb231C3370E",
+            "token0": "UNI",
+            "amount0": 118131660308673495040,
+            "token1": "AAVE",
+            "amount1": -6512718705463185271,
+            "timestamp": "2024-08-06 03:58:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xbbd3d157b0742e5f995460874445fd527c4ad097016e5b268bc917be03455c41",
+            "user_address": "0x2c0aca65aB8e5A53c3b45458Fe34EBb231C3370E",
+            "token0": "UNI",
+            "amount0": -219527966979788992271,
+            "token1": "AAVE",
+            "amount1": 12194046093717182464,
+            "timestamp": "2024-08-06 14:16:23",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0x17B4051556118ed22424b9230725b08E4acd939F": [
+        {
+            "tx_hash": "0x1c3124ace594445b7e1958c79a79705bfe049bb6b7300ec53f747fd4096f9f7a",
+            "user_address": "0x17B4051556118ed22424b9230725b08E4acd939F",
+            "token0": "UNI",
+            "amount0": -152411762934805168760,
+            "token1": "AAVE",
+            "amount1": 8539671084001269760,
+            "timestamp": "2024-08-06 01:04:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x82d14cd9afd98e0099d422d439f4ee7afc5928579162c7d370950dc89ac6a5cd",
+            "user_address": "0x17B4051556118ed22424b9230725b08E4acd939F",
+            "token0": "UNI",
+            "amount0": -116253334460220830877,
+            "token1": "AAVE",
+            "amount1": 6526244303331311616,
+            "timestamp": "2024-08-06 01:52:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xed55967fd4bbf2c99cf03bee34db493e165a35c427255703dac20b6f1b311eab",
+            "user_address": "0x17B4051556118ed22424b9230725b08E4acd939F",
+            "token0": "UNI",
+            "amount0": 117646035550518427648,
+            "token1": "AAVE",
+            "amount1": -6757839000816932395,
+            "timestamp": "2024-08-06 07:34:59",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x367ae461faf49a6341baf15d39ad68a7049135ec5f8cee6962503618cabbeea4",
+            "user_address": "0x17B4051556118ed22424b9230725b08E4acd939F",
+            "token0": "UNI",
+            "amount0": -111531840894588427172,
+            "token1": "AAVE",
+            "amount1": 6150370749180048384,
+            "timestamp": "2024-08-06 02:47:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xf8169915d120409f8daee598a6ebd0ff2afd946cb5316df5401470595bfedae7",
+            "user_address": "0x17B4051556118ed22424b9230725b08E4acd939F",
+            "token0": "UNI",
+            "amount0": 123632641450978574336,
+            "token1": "AAVE",
+            "amount1": -7080186771992718852,
+            "timestamp": "2024-08-07 12:43:47",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x7F3e05ba4d7E59b6C56e5116C4FACc0D88493696": [
+        {
+            "tx_hash": "0xecc5e959f0624275919dcd886eccdafa7be0a5c14b9525d8df004b52a9dd20f2",
+            "user_address": "0x7F3e05ba4d7E59b6C56e5116C4FACc0D88493696",
+            "token0": "UNI",
+            "amount0": 225723347777447372611,
+            "token1": "AAVE",
+            "amount1": -12549020380512638580,
+            "timestamp": "2024-08-06 01:18:11",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0xCf5a33920272e28F220d14c84416474de53f30B9": [
+        {
+            "tx_hash": "0xa736ca74fe27d61b299a23dd04943f544ac584cff0b03dedb918f101aca708ce",
+            "user_address": "0xCf5a33920272e28F220d14c84416474de53f30B9",
+            "token0": "UNI",
+            "amount0": -129524885277686229051,
+            "token1": "AAVE",
+            "amount1": 7227154935217733632,
+            "timestamp": "2024-08-06 01:18:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x48c439489e0da4e9f535101417969cd9b9bf406dd1c1f6093bf443a18069358a",
+            "user_address": "0xCf5a33920272e28F220d14c84416474de53f30B9",
+            "token0": "UNI",
+            "amount0": 153227625347612475392,
+            "token1": "AAVE",
+            "amount1": -8535720754882736713,
+            "timestamp": "2024-08-05 22:41:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x7d2c53360aa75e60f61e9aee09f9cb0c83dce97703753d7d0724fb1b0ba6c586",
+            "user_address": "0xCf5a33920272e28F220d14c84416474de53f30B9",
+            "token0": "UNI",
+            "amount0": 137304740292139401216,
+            "token1": "AAVE",
+            "amount1": -7500870464229653718,
+            "timestamp": "2024-08-06 02:33:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xe21b63c17b2ce789b60823715f78c70d7497adfd7805fdad1d257732fcd23a8a",
+            "user_address": "0xCf5a33920272e28F220d14c84416474de53f30B9",
+            "token0": "UNI",
+            "amount0": -95400987932517847898,
+            "token1": "AAVE",
+            "amount1": 5423196436653976576,
+            "timestamp": "2024-08-07 04:09:59",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x9322074d709775f4d49397080bf952a693b85550a3eee44fb5b23049757efe0f",
+            "user_address": "0xCf5a33920272e28F220d14c84416474de53f30B9",
+            "token0": "UNI",
+            "amount0": -109624338765525263385,
+            "token1": "AAVE",
+            "amount1": 6228812678081420288,
+            "timestamp": "2024-08-07 21:56:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xfbf471dff5b643ce0e33d4476ecd4c292b9cf9b5269c17471f87eb39546a9b33",
+            "user_address": "0xCf5a33920272e28F220d14c84416474de53f30B9",
+            "token0": "UNI",
+            "amount0": -119614629693146995856,
+            "token1": "AAVE",
+            "amount1": 7208578530722472960,
+            "timestamp": "2024-08-08 06:17:23",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x0e3E59824b920e63911eadBb49d714CE90376a6f": [
+        {
+            "tx_hash": "0xcc35538bd97e40dbaf23fc9d523b1791139f7bac8ac36a2874f831d29c60644b",
+            "user_address": "0x0e3E59824b920e63911eadBb49d714CE90376a6f",
+            "token0": "UNI",
+            "amount0": 95410551760161636352,
+            "token1": "AAVE",
+            "amount1": -5333710382009272695,
+            "timestamp": "2024-08-06 02:03:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xdde17b9b4e4ae16e2b50a965f141f53523f50906fd9a2fffd19c45331685fb9c",
+            "user_address": "0x0e3E59824b920e63911eadBb49d714CE90376a6f",
+            "token0": "UNI",
+            "amount0": -85599619493614455866,
+            "token1": "AAVE",
+            "amount1": 4903655438344527872,
+            "timestamp": "2024-08-06 10:33:23",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x50dcb3f5766527319CA2F3BE8dae5FD24b72C807": [
+        {
+            "tx_hash": "0xf996e1f31b564985c07c8d63b7f679b3b90f0b97facff635bd14db1fa5d882d0",
+            "user_address": "0x50dcb3f5766527319CA2F3BE8dae5FD24b72C807",
+            "token0": "UNI",
+            "amount0": 115174362942618255360,
+            "token1": "AAVE",
+            "amount1": -6405130634048531575,
+            "timestamp": "2024-08-06 02:10:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xbd96161fa764636e298b016a92e85bc25206c8ad633c98232d7d3d385d482c66",
+            "user_address": "0x50dcb3f5766527319CA2F3BE8dae5FD24b72C807",
+            "token0": "UNI",
+            "amount0": 163532134762630742016,
+            "token1": "AAVE",
+            "amount1": -9221289816627907927,
+            "timestamp": "2024-08-05 20:41:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x261d4e46d8971de03a08fdb4eebb28cb5bd4bcc2bd8639ee0fc3748a1910e5ee",
+            "user_address": "0x50dcb3f5766527319CA2F3BE8dae5FD24b72C807",
+            "token0": "UNI",
+            "amount0": 131080926923641421824,
+            "token1": "AAVE",
+            "amount1": -7215802806488548935,
+            "timestamp": "2024-08-06 04:31:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xcf8563d869e4b7cb5a714443cb7496f019aabcb1677fb2855b18a5031e499cfa",
+            "user_address": "0x50dcb3f5766527319CA2F3BE8dae5FD24b72C807",
+            "token0": "UNI",
+            "amount0": -134943001951420945413,
+            "token1": "AAVE",
+            "amount1": 7526102040229092352,
+            "timestamp": "2024-08-06 05:08:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xf0ae43a55b2ef7d313d513a5c7986a76264b4582048c62e36d962b180c7b4db2",
+            "user_address": "0x50dcb3f5766527319CA2F3BE8dae5FD24b72C807",
+            "token0": "UNI",
+            "amount0": 145898155153280237568,
+            "token1": "AAVE",
+            "amount1": -8093895439025694179,
+            "timestamp": "2024-08-06 13:57:11",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0xaE326BCD07536F1d5403B19F41563c70f3275748": [
+        {
+            "tx_hash": "0x9692ac362eadc97bf328f503bb08a50b2e51c6b501e3249a05a54d4d813b28f6",
+            "user_address": "0xaE326BCD07536F1d5403B19F41563c70f3275748",
+            "token0": "UNI",
+            "amount0": 188438808053618376704,
+            "token1": "AAVE",
+            "amount1": -10781289068244697000,
+            "timestamp": "2024-08-05 20:07:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xbd18df123453f9fa1343825e62e382faa1b66b89ded16b528b98b37ed68bd9f0",
+            "user_address": "0xaE326BCD07536F1d5403B19F41563c70f3275748",
+            "token0": "UNI",
+            "amount0": -140822833313974044412,
+            "token1": "AAVE",
+            "amount1": 7800753563534257152,
+            "timestamp": "2024-08-06 04:49:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xbffa2df750e6c97d2bb48fc6dc3f2d4cb91d57447d9235d6165f734c43cbd0be",
+            "user_address": "0xaE326BCD07536F1d5403B19F41563c70f3275748",
+            "token0": "UNI",
+            "amount0": -117091760583057560049,
+            "token1": "AAVE",
+            "amount1": 6737110625093169152,
+            "timestamp": "2024-08-06 17:32:11",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0xdf19b7595e64d4736a228c85e7f1abf10af3a18ec1ec4f07ce20764a4c63aac5",
+            "user_address": "0xaE326BCD07536F1d5403B19F41563c70f3275748",
+            "token0": "UNI",
+            "amount0": 79219757985099186176,
+            "token1": "AAVE",
+            "amount1": -4478206588027177351,
+            "timestamp": "2024-08-07 04:14:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xbcc4135952cb131a5753635540d2657b60935e84dd86bc94dfb90c9c34263a54",
+            "user_address": "0xaE326BCD07536F1d5403B19F41563c70f3275748",
+            "token0": "UNI",
+            "amount0": -60089034333817026479,
+            "token1": "AAVE",
+            "amount1": 3449062595978503680,
+            "timestamp": "2024-08-07 23:35:47",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9": [
+        {
+            "tx_hash": "0x2bc2de090df51b9f0ce0034009eca96e7493cf6ebc4f139efd134a88b1e156d6",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": 117956725661865377792,
+            "token1": "AAVE",
+            "amount1": -6698155705287582096,
+            "timestamp": "2024-08-05 20:23:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x91b5f0889caaad624c6e8c14398c59c5bfe02b9e6f9a3ae83924d1304b8d5d8e",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": -87164910908885719478,
+            "token1": "AAVE",
+            "amount1": 4943090637181859840,
+            "timestamp": "2024-08-05 21:39:35",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0x6e1227282D945b98E6e6e6C2c0fCfa33bBe22cAD": [
+        {
+            "tx_hash": "0x364ed741f73f79ad792721bf9591ed54b73ddaf9553d62305d93e1adef8db237",
+            "user_address": "0x6e1227282D945b98E6e6e6C2c0fCfa33bBe22cAD",
+            "token0": "UNI",
+            "amount0": 133160973917370138624,
+            "token1": "AAVE",
+            "amount1": -7453618251189375819,
+            "timestamp": "2024-08-05 21:01:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x4a47bcde3652e280b85b05794b2d132c14b3f6d158d30aca8b628bef803832a4",
+            "user_address": "0x6e1227282D945b98E6e6e6C2c0fCfa33bBe22cAD",
+            "token0": "UNI",
+            "amount0": 79321162799444115456,
+            "token1": "AAVE",
+            "amount1": -4579802926708135427,
+            "timestamp": "2024-08-06 20:00:11",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x3c2a48e07355acbf9c960da29fe4ff1450700f3655d0c56e7367f757ee9ebe24",
+            "user_address": "0x6e1227282D945b98E6e6e6C2c0fCfa33bBe22cAD",
+            "token0": "UNI",
+            "amount0": -67180299970281568676,
+            "token1": "AAVE",
+            "amount1": 4334508489412227584,
+            "timestamp": "2024-08-10 07:01:23",
+            "pool_liquidity": 10028317482349882214814
+        }
+    ],
+    "0x6077A212C08B711d856263081EfCc994B396f7a1": [
+        {
+            "tx_hash": "0x29f4874abfa0f86ea923f68f94909b423828200f71828aab83ef04408dad21c8",
+            "user_address": "0x6077A212C08B711d856263081EfCc994B396f7a1",
+            "token0": "UNI",
+            "amount0": 90967063145458302976,
+            "token1": "AAVE",
+            "amount1": -5127352784120895687,
+            "timestamp": "2024-08-05 22:31:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x4c5a4d4db54fdc95a9382e24631b183c391f2c56752d7e6dcb69d86f0ca1de87",
+            "user_address": "0x6077A212C08B711d856263081EfCc994B396f7a1",
+            "token0": "UNI",
+            "amount0": -99385187850068646878,
+            "token1": "AAVE",
+            "amount1": 5704641963083083776,
+            "timestamp": "2024-08-06 06:23:35",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x9bbb742855944bb31e66acbd9dc409dd44b57428462730fa3ce3a153d3ee8eec",
+            "user_address": "0x6077A212C08B711d856263081EfCc994B396f7a1",
+            "token0": "UNI",
+            "amount0": 133113466854948765696,
+            "token1": "AAVE",
+            "amount1": -7435719347787917733,
+            "timestamp": "2024-08-06 13:34:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x0cc1c738955d0a58005f726fa56b8d47170e5ca7659f5d23c26bb568719d38f3",
+            "user_address": "0x6077A212C08B711d856263081EfCc994B396f7a1",
+            "token0": "UNI",
+            "amount0": 196643103190712385536,
+            "token1": "AAVE",
+            "amount1": -11084063293020052157,
+            "timestamp": "2024-08-07 17:23:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xb46a30755dbe14a54d4a7821a39d28d34ef0f20ee4436549fadb2ef922fb7e94",
+            "user_address": "0x6077A212C08B711d856263081EfCc994B396f7a1",
+            "token0": "UNI",
+            "amount0": 92960616727732289536,
+            "token1": "AAVE",
+            "amount1": -5321605561439078759,
+            "timestamp": "2024-08-08 01:04:11",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0xA594a83ecCfe5fc56E5e2400bF9abBDd7781A2d9": [
+        {
+            "tx_hash": "0x0b45018e34afaa2527079a45feeae3050486b1043e1c3ac3aa745c4da4884b5a",
+            "user_address": "0xA594a83ecCfe5fc56E5e2400bF9abBDd7781A2d9",
+            "token0": "UNI",
+            "amount0": 92904223188291633152,
+            "token1": "AAVE",
+            "amount1": -5117341594527559620,
+            "timestamp": "2024-08-05 23:08:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x7658ba44572fc64706ca51e4c9700f1a28aff067fd96d28a52221650882983a4",
+            "user_address": "0xA594a83ecCfe5fc56E5e2400bF9abBDd7781A2d9",
+            "token0": "UNI",
+            "amount0": -211653183878406380752,
+            "token1": "AAVE",
+            "amount1": 11751378036378836992,
+            "timestamp": "2024-08-06 14:29:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xb9d9e1ddffd0cf7fd9c7b6ac126ef285b5d89b25eef0705e75e36bc21edb7d57",
+            "user_address": "0xA594a83ecCfe5fc56E5e2400bF9abBDd7781A2d9",
+            "token0": "UNI",
+            "amount0": -66345300402157591364,
+            "token1": "AAVE",
+            "amount1": 3756301764775160320,
+            "timestamp": "2024-08-07 03:56:59",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xd7c8cb2c536cc2f32313b495fd869aacb186824ed9a6564bb1381a481ae911d4",
+            "user_address": "0xA594a83ecCfe5fc56E5e2400bF9abBDd7781A2d9",
+            "token0": "UNI",
+            "amount0": -76907774463116500281,
+            "token1": "AAVE",
+            "amount1": 4209107936670183424,
+            "timestamp": "2024-08-06 22:25:11",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0x678111a6cA5749f1744b5E080A855CEC8d631E20": [
+        {
+            "tx_hash": "0xece488338045277e1eb1f7a10a0b393c01811d4ae1e87d66cd84c95633ce7fb5",
+            "user_address": "0x678111a6cA5749f1744b5E080A855CEC8d631E20",
+            "token0": "UNI",
+            "amount0": -8553112398846427049,
+            "token1": "AAVE",
+            "amount1": 472980014068531536,
+            "timestamp": "2024-08-05 23:18:11",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0xD1Fa51f2dB23A9FA9d7bb8437b89FB2E70c60cB7": [
+        {
+            "tx_hash": "0x0b2268842f6d99b5d0672b7172c89a62505b31bbe2da2f08f6ac4db97c2209bb",
+            "user_address": "0xD1Fa51f2dB23A9FA9d7bb8437b89FB2E70c60cB7",
+            "token0": "UNI",
+            "amount0": -83183937103155867225,
+            "token1": "AAVE",
+            "amount1": 4610415274629132209,
+            "timestamp": "2024-08-05 23:20:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xf086cb57e9c611e4fe555dc48a09c6b58b965463976583ad6385891a25ac23f2",
+            "user_address": "0xD1Fa51f2dB23A9FA9d7bb8437b89FB2E70c60cB7",
+            "token0": "UNI",
+            "amount0": -81430898719412048506,
+            "token1": "AAVE",
+            "amount1": 4469235315871814185,
+            "timestamp": "2024-08-06 02:45:47",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0x0CA5Dc4c3b675B441229fc1D8e8b5ad912588e5e": [
+        {
+            "tx_hash": "0x33214a984b4821ec9b17474923b5cdcb5e4d49072e4b7318d4dda8e91548109f",
+            "user_address": "0x0CA5Dc4c3b675B441229fc1D8e8b5ad912588e5e",
+            "token0": "UNI",
+            "amount0": -62184480670252028193,
+            "token1": "AAVE",
+            "amount1": 3477938410947696128,
+            "timestamp": "2024-08-05 23:45:35",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0x2A31c7C2C45Bc8f5e9113BA4C9E3CB6b7FeDCfa9": [
+        {
+            "tx_hash": "0xaf46c12bfa359632249dca8fca615f5872be6a41a648cfeb039d90c9fca53981",
+            "user_address": "0x2A31c7C2C45Bc8f5e9113BA4C9E3CB6b7FeDCfa9",
+            "token0": "UNI",
+            "amount0": 95323171353240616960,
+            "token1": "AAVE",
+            "amount1": -5296095199707874774,
+            "timestamp": "2024-08-06 00:13:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x5b830616f788dbc43ed7958e119f8bab536c1281c2598c29b4ff6c3f67f281cf",
+            "user_address": "0x2A31c7C2C45Bc8f5e9113BA4C9E3CB6b7FeDCfa9",
+            "token0": "UNI",
+            "amount0": -196309554332383771980,
+            "token1": "AAVE",
+            "amount1": 11117052171001757696,
+            "timestamp": "2024-08-06 16:50:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xac079b0a69a0971826a062c3ff2e6c086b0c458065dd3f698fa19f537cca6167",
+            "user_address": "0x2A31c7C2C45Bc8f5e9113BA4C9E3CB6b7FeDCfa9",
+            "token0": "UNI",
+            "amount0": -95655255177867735202,
+            "token1": "AAVE",
+            "amount1": 5507299153485611008,
+            "timestamp": "2024-08-07 13:01:11",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x408613bA0Eaf85675999cD3729ea3cbff84a6b21": [
+        {
+            "tx_hash": "0x5e2a9f54afaa97ac194f169f6da767b41c5bf1be450a9e43ba52ab16ddf0e5fc",
+            "user_address": "0x408613bA0Eaf85675999cD3729ea3cbff84a6b21",
+            "token0": "UNI",
+            "amount0": -107330471590967520002,
+            "token1": "AAVE",
+            "amount1": 6210834205144368128,
+            "timestamp": "2024-08-06 07:17:59",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0xb1540cc8dc3151b16605a4062faaebd2013e4a4e30e4b56d37e14abd9252abf3",
+            "user_address": "0x408613bA0Eaf85675999cD3729ea3cbff84a6b21",
+            "token0": "UNI",
+            "amount0": 133491527938299363328,
+            "token1": "AAVE",
+            "amount1": -7549138935936219062,
+            "timestamp": "2024-08-06 13:27:59",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x58a1a7d357dd3d129a6f9682a641a70471b78ba1644395f8ef6c103892d581e9",
+            "user_address": "0x408613bA0Eaf85675999cD3729ea3cbff84a6b21",
+            "token0": "UNI",
+            "amount0": -68710067253841348347,
+            "token1": "AAVE",
+            "amount1": 3824548712836709888,
+            "timestamp": "2024-08-06 23:17:11",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0xF9DD6fC91f26Ade2050a89F324dE5d64De2AD99a": [
+        {
+            "tx_hash": "0x3fde2b12a9adafcb91c810fad6a2b78044975dc50c6771ff949963ee41ac9bdd",
+            "user_address": "0xF9DD6fC91f26Ade2050a89F324dE5d64De2AD99a",
+            "token0": "UNI",
+            "amount0": 95192891930529120256,
+            "token1": "AAVE",
+            "amount1": -5469023427677502024,
+            "timestamp": "2024-08-06 09:17:35",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0xae2eeb0a73522f29ae1a9601ce90b725ff0790a6f226f1162782151514fef075",
+            "user_address": "0xF9DD6fC91f26Ade2050a89F324dE5d64De2AD99a",
+            "token0": "UNI",
+            "amount0": 78808676095440535552,
+            "token1": "AAVE",
+            "amount1": -4468208430651929027,
+            "timestamp": "2024-08-07 02:18:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x02e65c5b245cb506abd11ac2fb02b38fa0e48cf7ed8471f02f1e2392b2bbaaa3",
+            "user_address": "0xF9DD6fC91f26Ade2050a89F324dE5d64De2AD99a",
+            "token0": "UNI",
+            "amount0": 73061867641774555136,
+            "token1": "AAVE",
+            "amount1": -4571166889900076004,
+            "timestamp": "2024-08-09 02:35:35",
+            "pool_liquidity": 9978730015682919645102
+        },
+        {
+            "tx_hash": "0x172f9e3a8917275c16dc346e3f00653e9efca08190697dbf801be307583b5ccc",
+            "user_address": "0xF9DD6fC91f26Ade2050a89F324dE5d64De2AD99a",
+            "token0": "UNI",
+            "amount0": -65963801911521995022,
+            "token1": "AAVE",
+            "amount1": 4151228221530232832,
+            "timestamp": "2024-08-09 05:01:59",
+            "pool_liquidity": 9978730015682919645102
+        }
+    ],
+    "0x0Fc06977378fd94aa23Af24ee75B993C265c140B": [
+        {
+            "tx_hash": "0x245cbbe1407a6ba134acef1be9663002bc9b40cabaddae9f34036c1ee26cb3cd",
+            "user_address": "0x0Fc06977378fd94aa23Af24ee75B993C265c140B",
+            "token0": "UNI",
+            "amount0": 95338256452861902848,
+            "token1": "AAVE",
+            "amount1": -5452160889338823893,
+            "timestamp": "2024-08-06 09:31:23",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x28b2b47177500dc7a7eaebaa96d760a8bb88597d5b1294614e06f8153cc2aa80",
+            "user_address": "0x0Fc06977378fd94aa23Af24ee75B993C265c140B",
+            "token0": "UNI",
+            "amount0": -69389867489890405810,
+            "token1": "AAVE",
+            "amount1": 4492575202807078400,
+            "timestamp": "2024-08-10 08:29:23",
+            "pool_liquidity": 10028317482349882214814
+        }
+    ],
+    "0x872837E964D00E1e11B575e5B338f2499B7046c0": [
+        {
+            "tx_hash": "0x845d9cf58c60cb172d2bdce53fbdb2d1649cdc0b3cb0a5182cdbb92fcc8e6447",
+            "user_address": "0x872837E964D00E1e11B575e5B338f2499B7046c0",
+            "token0": "UNI",
+            "amount0": -70634921803070725069,
+            "token1": "AAVE",
+            "amount1": 3932586779637288960,
+            "timestamp": "2024-08-06 03:20:59",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x4781aa3967285e22874870ae5570b63d0110c03c529ded07d97c659aa0293810",
+            "user_address": "0x872837E964D00E1e11B575e5B338f2499B7046c0",
+            "token0": "UNI",
+            "amount0": 114496640563268452352,
+            "token1": "AAVE",
+            "amount1": -6435149509351505916,
+            "timestamp": "2024-08-06 13:32:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xd8893ed0e1c8e5480bd92953ef3ab2b934a27e68773f5797522b81a3486129ca",
+            "user_address": "0x872837E964D00E1e11B575e5B338f2499B7046c0",
+            "token0": "UNI",
+            "amount0": -100656621385448458873,
+            "token1": "AAVE",
+            "amount1": 5843215691116618752,
+            "timestamp": "2024-08-07 09:29:11",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x4FA75ea1571010B0b6327FC39101Be4BAEC37cce": [
+        {
+            "tx_hash": "0xb4c1a4adc7fb7dee3e12b75a4bcbb0c49fa2b64f43c82d541ab086eae48145e7",
+            "user_address": "0x4FA75ea1571010B0b6327FC39101Be4BAEC37cce",
+            "token0": "UNI",
+            "amount0": 95215788600548818944,
+            "token1": "AAVE",
+            "amount1": -5276981072408002234,
+            "timestamp": "2024-08-06 03:54:59",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x2f882225734a845b51b9cd22954ba31376c3b43e3f74fa7a4cbbbdccdf89bb2d",
+            "user_address": "0x4FA75ea1571010B0b6327FC39101Be4BAEC37cce",
+            "token0": "UNI",
+            "amount0": 186637854837300756480,
+            "token1": "AAVE",
+            "amount1": -10199360413142069353,
+            "timestamp": "2024-08-06 14:09:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xc9e6e171850dd55c4009c0a8797deb9438f26a826d67fc8893865c34157efabc",
+            "user_address": "0x4FA75ea1571010B0b6327FC39101Be4BAEC37cce",
+            "token0": "UNI",
+            "amount0": -107033333947161918285,
+            "token1": "AAVE",
+            "amount1": 6111139523879517184,
+            "timestamp": "2024-08-07 05:21:35",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0x41995207Fcf9372864b0f15534CB86Cc304F1587": [
+        {
+            "tx_hash": "0x09815be331efac6821a8b663b904d928afaf76f4143c75c25894c3edc3eccf03",
+            "user_address": "0x41995207Fcf9372864b0f15534CB86Cc304F1587",
+            "token0": "UNI",
+            "amount0": -69057458511897287523,
+            "token1": "AAVE",
+            "amount1": 3825551941801569792,
+            "timestamp": "2024-08-06 04:02:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x121fd82536e1bd4d53e4ed34c0401a0500b8c93cae832b999b4009323ff3f59d",
+            "user_address": "0x41995207Fcf9372864b0f15534CB86Cc304F1587",
+            "token0": "UNI",
+            "amount0": 119730459205095931904,
+            "token1": "AAVE",
+            "amount1": -6835971015303758828,
+            "timestamp": "2024-08-06 20:41:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x300732247fd9ac36a81b28d9875173583352bad7aa5738e2cb53cd73655f88c1",
+            "user_address": "0x41995207Fcf9372864b0f15534CB86Cc304F1587",
+            "token0": "UNI",
+            "amount0": -88961976885920590354,
+            "token1": "AAVE",
+            "amount1": 5136992810561193984,
+            "timestamp": "2024-08-06 18:54:23",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0xd5a809D6dbEe62A34Cf4106080C6e04B8d9ce285": [
+        {
+            "tx_hash": "0xcefb038205a8a03f82b107c0f0eddf94cf52b10acb800a97b89299a9e6ee3d99",
+            "user_address": "0xd5a809D6dbEe62A34Cf4106080C6e04B8d9ce285",
+            "token0": "UNI",
+            "amount0": 76172727029223374848,
+            "token1": "AAVE",
+            "amount1": -4214614838066548492,
+            "timestamp": "2024-08-06 04:24:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xfbcd443f7276bbf9df94d09614879cb0f237507598f3ebc4936f0f8711581f7f",
+            "user_address": "0xd5a809D6dbEe62A34Cf4106080C6e04B8d9ce285",
+            "token0": "UNI",
+            "amount0": -61573673351882413357,
+            "token1": "AAVE",
+            "amount1": 3513569927338480128,
+            "timestamp": "2024-08-07 02:00:59",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xc30bf84c855c9e2620c9f6bdcdc1cb1fb75ce45c2e0e806f4fd07692794fbf4e",
+            "user_address": "0xd5a809D6dbEe62A34Cf4106080C6e04B8d9ce285",
+            "token0": "UNI",
+            "amount0": -106137590959207401166,
+            "token1": "AAVE",
+            "amount1": 5998351678671390720,
+            "timestamp": "2024-08-07 21:15:11",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0x03D9c4E0840626354D395c01aD5514FEDE8C7f8c": [
+        {
+            "tx_hash": "0xd82acd9fb82864d72c2a6a2d17397c4a99b2cc19982706f2fe9a584434f142aa",
+            "user_address": "0x03D9c4E0840626354D395c01aD5514FEDE8C7f8c",
+            "token0": "UNI",
+            "amount0": -89772478747319692063,
+            "token1": "AAVE",
+            "amount1": 5174661201502319616,
+            "timestamp": "2024-08-06 06:56:11",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x28a3d2f46e03f7219cb06616ca7719e7a6e543518252c2939949dd351f5c0e09",
+            "user_address": "0x03D9c4E0840626354D395c01aD5514FEDE8C7f8c",
+            "token0": "UNI",
+            "amount0": 114713419739285602304,
+            "token1": "AAVE",
+            "amount1": -6647892334867268656,
+            "timestamp": "2024-08-07 12:14:23",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x919fa333db8aecf4f7e6f21a99478e67eaa8336861e537647bc3e1dea6bcdfa6",
+            "user_address": "0x03D9c4E0840626354D395c01aD5514FEDE8C7f8c",
+            "token0": "UNI",
+            "amount0": -84981144057234292917,
+            "token1": "AAVE",
+            "amount1": 4895048919467908096,
+            "timestamp": "2024-08-08 00:04:23",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8": [
+        {
+            "tx_hash": "0x80fa49f90ce76c2df50597c9800f33a7b920fe4e0e5386c555e2eb976172b666",
+            "user_address": "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8",
+            "token0": "UNI",
+            "amount0": 133240883062607708160,
+            "token1": "AAVE",
+            "amount1": -7585160563909582938,
+            "timestamp": "2024-08-06 13:22:47",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x425b40277dde11b504a8888c3d799530082dae73d4742a9d2516287429fc0220",
+            "user_address": "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8",
+            "token0": "UNI",
+            "amount0": 60684733997976666112,
+            "token1": "AAVE",
+            "amount1": -3442006331347651925,
+            "timestamp": "2024-08-07 01:54:35",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x977ab6dbb56e1170ee20e2634ab0be6dfbb2ef1322c137a57e8740a9129e2667",
+            "user_address": "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8",
+            "token0": "UNI",
+            "amount0": -73070882361331970569,
+            "token1": "AAVE",
+            "amount1": 4273465159390732288,
+            "timestamp": "2024-08-07 10:01:11",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x6f9102c89eca7130157e221a647686e0201387252504cd4a9d24e3667bd47755",
+            "user_address": "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8",
+            "token0": "UNI",
+            "amount0": 144830756015177007104,
+            "token1": "AAVE",
+            "amount1": -8094637413272922181,
+            "timestamp": "2024-08-07 20:26:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0xdf038a6b48f6d8b1b70897a739cd92d5a60ec19178fcb2093e0b60141cb09b38",
+            "user_address": "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8",
+            "token0": "UNI",
+            "amount0": -56622620902067607252,
+            "token1": "AAVE",
+            "amount1": 3315079529660956672,
+            "timestamp": "2024-08-08 05:16:35",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0xe4Cb1Cc4A206766B891e612DdC0e044306CB45Ab": [
+        {
+            "tx_hash": "0xee814e069c88f0246f9150d0d5218273ab1ce718a73e0186a2bc35a9dd61a33a",
+            "user_address": "0xe4Cb1Cc4A206766B891e612DdC0e044306CB45Ab",
+            "token0": "UNI",
+            "amount0": 162440146124945031168,
+            "token1": "AAVE",
+            "amount1": -9039741080349780582,
+            "timestamp": "2024-08-06 22:02:23",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0xF01A2B4de00Fd1927AD6D000000CA4A782Ee103C": [
+        {
+            "tx_hash": "0xdecd45c33b23fb42327c8c95aabff2d1550578185ae018ad241b867592ca2b9b",
+            "user_address": "0xF01A2B4de00Fd1927AD6D000000CA4A782Ee103C",
+            "token0": "UNI",
+            "amount0": 27646498558420965623,
+            "token1": "AAVE",
+            "amount1": -1597296884930646234,
+            "timestamp": "2024-08-06 19:22:11",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x5EC4eBA528C8eB8477aE9Ec625555f412a710c9F": [
+        {
+            "tx_hash": "0xd72c70d0b157d9aff7dda02788d0adb7ee8086b8723bc4d754a980fe1bed32f4",
+            "user_address": "0x5EC4eBA528C8eB8477aE9Ec625555f412a710c9F",
+            "token0": "UNI",
+            "amount0": -85030842274200716028,
+            "token1": "AAVE",
+            "amount1": 4949267317275185152,
+            "timestamp": "2024-08-06 19:40:35",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0xe43a61eEd6F88785d72Cc7e51F6d5Ce87eea1615": [
+        {
+            "tx_hash": "0xe1b276246c027a10466d47e4fa4d10366c9bff251f6dc932accd5ec7def35947",
+            "user_address": "0xe43a61eEd6F88785d72Cc7e51F6d5Ce87eea1615",
+            "token0": "UNI",
+            "amount0": 45450053600000000000,
+            "token1": "AAVE",
+            "amount1": -2632145136325148579,
+            "timestamp": "2024-08-06 19:43:23",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x7194f3933B0A01B23BE11c4C9AC66f74C3ee281e": [
+        {
+            "tx_hash": "0xfb8046834a8ade16196c9463dcdf5ffbeee5896da7cb4f8d7738af088ecde306",
+            "user_address": "0x7194f3933B0A01B23BE11c4C9AC66f74C3ee281e",
+            "token0": "UNI",
+            "amount0": 96576436114131304448,
+            "token1": "AAVE",
+            "amount1": -5457241423874240835,
+            "timestamp": "2024-08-07 03:32:23",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x8158eaf7791db67225ea0ecf4ccf6367df80dac8eacd32e90e49a71f966b9cec",
+            "user_address": "0x7194f3933B0A01B23BE11c4C9AC66f74C3ee281e",
+            "token0": "UNI",
+            "amount0": 132262763382721036288,
+            "token1": "AAVE",
+            "amount1": -7459597231132428662,
+            "timestamp": "2024-08-07 02:46:35",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0x2c1b3240631826Cd4f9a894A207c09b6e861dcE8": [
+        {
+            "tx_hash": "0xfe0e71e662bcfd8c14dba8f6b5bb7041bd314c9b8f3b38c0e7d148db964bfa60",
+            "user_address": "0x2c1b3240631826Cd4f9a894A207c09b6e861dcE8",
+            "token0": "UNI",
+            "amount0": -91489049757877596887,
+            "token1": "AAVE",
+            "amount1": 5216447222435656704,
+            "timestamp": "2024-08-07 01:00:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x5dba686436c24e4411307a7fcc0c54ee5d8b7c025c50906af654f594e7fa82ea",
+            "user_address": "0x2c1b3240631826Cd4f9a894A207c09b6e861dcE8",
+            "token0": "UNI",
+            "amount0": 182647132269429719040,
+            "token1": "AAVE",
+            "amount1": -11237264829971044047,
+            "timestamp": "2024-08-08 17:11:23",
+            "pool_liquidity": 9959957886368553476711
+        }
+    ],
+    "0x008300082C3000009e63680088f8c7f4D3ff2E87": [
+        {
+            "tx_hash": "0xd6493fa7678b0b4995c4c2f67da88da3f72fc227efd42eb684f4396fb53ea74e",
+            "user_address": "0x008300082C3000009e63680088f8c7f4D3ff2E87",
+            "token0": "UNI",
+            "amount0": 82438355994644840448,
+            "token1": "AAVE",
+            "amount1": -4624778278307811636,
+            "timestamp": "2024-08-07 02:51:59",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0xc6B9EFD99763cbbAb529A834B6D04137D0E380e7": [
+        {
+            "tx_hash": "0x48fc0b856bc81f8eeccb919ffc23ed4c0e943157210b3ac59bab79f66c1388c3",
+            "user_address": "0xc6B9EFD99763cbbAb529A834B6D04137D0E380e7",
+            "token0": "UNI",
+            "amount0": 67091238344214642688,
+            "token1": "AAVE",
+            "amount1": -3900834707463886791,
+            "timestamp": "2024-08-07 10:28:59",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x50f89f84124085bc1a223724eba3f2cbf668351b41bb79177eba0751b93c9741",
+            "user_address": "0xc6B9EFD99763cbbAb529A834B6D04137D0E380e7",
+            "token0": "UNI",
+            "amount0": -81580192189173490760,
+            "token1": "AAVE",
+            "amount1": 4680008944140775424,
+            "timestamp": "2024-08-08 01:16:11",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x5C4B1c037fAA35b0Cd1e97EcBbae33140784F1FF": [
+        {
+            "tx_hash": "0x067aca3d6f233e711d0a5d0b6a6b9590516da5319809ae973c019a183b5acc9b",
+            "user_address": "0x5C4B1c037fAA35b0Cd1e97EcBbae33140784F1FF",
+            "token0": "UNI",
+            "amount0": -97547368083474456994,
+            "token1": "AAVE",
+            "amount1": 5710091577271805952,
+            "timestamp": "2024-08-07 10:42:47",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0x0243ab6b83c6ae6b08e4375129eb68ca47efd11b1758b510e2bb6ac9142c004e",
+            "user_address": "0x5C4B1c037fAA35b0Cd1e97EcBbae33140784F1FF",
+            "token0": "UNI",
+            "amount0": -175605251467677555614,
+            "token1": "AAVE",
+            "amount1": 10870890683594151936,
+            "timestamp": "2024-08-08 15:53:11",
+            "pool_liquidity": 9959957886368553476711
+        }
+    ],
+    "0x1057c855a823203B32f49e1C1741a77FBe13Ae31": [
+        {
+            "tx_hash": "0x23d69336ac1723f9474fd42b5aac52c4b203b17fb6d85b100328c87e4506469f",
+            "user_address": "0x1057c855a823203B32f49e1C1741a77FBe13Ae31",
+            "token0": "UNI",
+            "amount0": 125448760694288203776,
+            "token1": "AAVE",
+            "amount1": -7227703404992252096,
+            "timestamp": "2024-08-07 12:35:47",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x50581cc596F1AA7169eAA6c04F963D4755ef63F1": [
+        {
+            "tx_hash": "0xec1a3697d5f824c2a7b5dbbd0a754d0c917e9dafea94f6cb0aba45af18b81200",
+            "user_address": "0x50581cc596F1AA7169eAA6c04F963D4755ef63F1",
+            "token0": "UNI",
+            "amount0": 202539518673931206656,
+            "token1": "AAVE",
+            "amount1": -11323730527795546159,
+            "timestamp": "2024-08-07 15:51:11",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0x04b238890a08aA3B64037b7A37542D478cEAC9B8": [
+        {
+            "tx_hash": "0x2b50afaea60ca2e4d944a102d7c50115db6445d298d1144a71d1dcc0f10dfe29",
+            "user_address": "0x04b238890a08aA3B64037b7A37542D478cEAC9B8",
+            "token0": "UNI",
+            "amount0": -142443692372648811117,
+            "token1": "AAVE",
+            "amount1": 8000000000000000000,
+            "timestamp": "2024-08-07 16:13:35",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0x17fB4A31B8A468cD5Be0EA6E037781Eb5f19643e": [
+        {
+            "tx_hash": "0xca51119921e1b8c8f54ee67e9fbad6e460faf9f6ef9fd1351cdcc72615fff060",
+            "user_address": "0x17fB4A31B8A468cD5Be0EA6E037781Eb5f19643e",
+            "token0": "UNI",
+            "amount0": 96409366762053632000,
+            "token1": "AAVE",
+            "amount1": -5426169096354733257,
+            "timestamp": "2024-08-07 04:30:11",
+            "pool_liquidity": 9536432846405598645352
+        },
+        {
+            "tx_hash": "0x5d10a55f366c8e5feafa95885bdf2d6017a54d8243233da43e246d0aba2219f0",
+            "user_address": "0x17fB4A31B8A468cD5Be0EA6E037781Eb5f19643e",
+            "token0": "UNI",
+            "amount0": -118574250059383701441,
+            "token1": "AAVE",
+            "amount1": 6864212805224419328,
+            "timestamp": "2024-08-08 02:18:35",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x0237181ae2D655decb0B548872eb746437Dc29C6": [
+        {
+            "tx_hash": "0x47636ddfa8b165c4c96febc7b6c5fe6038906ef9e73792aed98707cbaae7bcf7",
+            "user_address": "0x0237181ae2D655decb0B548872eb746437Dc29C6",
+            "token0": "UNI",
+            "amount0": 82635304426674152256,
+            "token1": "AAVE",
+            "amount1": -4713634387842376302,
+            "timestamp": "2024-08-07 08:45:59",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0xd056C0eEE354b24fE7c5d4Ee762C4D7574bAdaC1": [
+        {
+            "tx_hash": "0xefc1f45fbb823aaeb1cf300006324d040f5789b6b6bb3721db79065fe3a27e3c",
+            "user_address": "0xd056C0eEE354b24fE7c5d4Ee762C4D7574bAdaC1",
+            "token0": "UNI",
+            "amount0": 245143604698600454958,
+            "token1": "AAVE",
+            "amount1": -14939628155079884071,
+            "timestamp": "2024-08-08 13:26:59",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x333c92538E7F47D17c79e5975d4e40e901427558": [
+        {
+            "tx_hash": "0xbf26c58bd291d35d573e70c0e1bb976231199c3558b6b8e92734f718ac68c363",
+            "user_address": "0x333c92538E7F47D17c79e5975d4e40e901427558",
+            "token0": "UNI",
+            "amount0": 474197984789704794615,
+            "token1": "AAVE",
+            "amount1": -28387818821648187393,
+            "timestamp": "2024-08-08 13:26:59",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x2Ee36E41387f87B7e6f678A86D1e575b23b996F5": [
+        {
+            "tx_hash": "0xc5c71cab1f81778ffd99a8872a284d5202cb90092cc87b1655c47d4447f5c7d3",
+            "user_address": "0x2Ee36E41387f87B7e6f678A86D1e575b23b996F5",
+            "token0": "UNI",
+            "amount0": -428944566374090115427,
+            "token1": "AAVE",
+            "amount1": 25805254506750453447,
+            "timestamp": "2024-08-08 13:27:11",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x7C1C74302da4107A0Ac79D784813617235Da6735": [
+        {
+            "tx_hash": "0xd9beb935e2afca557c9a47f7c476ba0568bab1bd744e8c803e3f315a27257872",
+            "user_address": "0x7C1C74302da4107A0Ac79D784813617235Da6735",
+            "token0": "UNI",
+            "amount0": 20810307918724384671,
+            "token1": "AAVE",
+            "amount1": -1249683507015350366,
+            "timestamp": "2024-08-08 06:17:35",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x578aFFeE4b4AE2E34d3D6E9661c8c812BB60131B": [
+        {
+            "tx_hash": "0x54fdc34e6225b38508b9ad89678e7efda56b62ea9250e0af27f0cf1d23b2dd91",
+            "user_address": "0x578aFFeE4b4AE2E34d3D6E9661c8c812BB60131B",
+            "token0": "UNI",
+            "amount0": 6547262559586565394,
+            "token1": "AAVE",
+            "amount1": -392904333905243014,
+            "timestamp": "2024-08-08 06:17:59",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x000000422A649825bdA802b2C212c46127bd96Fd": [
+        {
+            "tx_hash": "0xda07e0e82f6f6a48f94ff653a5a9bd2b4826f12c4c7d194cfedaeda94ab6067c",
+            "user_address": "0x000000422A649825bdA802b2C212c46127bd96Fd",
+            "token0": "UNI",
+            "amount0": 8885422376964855620,
+            "token1": "AAVE",
+            "amount1": -535726254734307134,
+            "timestamp": "2024-08-08 06:24:23",
+            "pool_liquidity": 9871743463663978906056
+        },
+        {
+            "tx_hash": "0xda07e0e82f6f6a48f94ff653a5a9bd2b4826f12c4c7d194cfedaeda94ab6067c",
+            "user_address": "0x000000422A649825bdA802b2C212c46127bd96Fd",
+            "token0": "UNI",
+            "amount0": 6585288967524251768,
+            "token1": "AAVE",
+            "amount1": -396892445928107102,
+            "timestamp": "2024-08-08 06:24:23",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0xe75eD6F453c602Bd696cE27AF11565eDc9b46B0D": [
+        {
+            "tx_hash": "0x420e3257f7e9d6ba30a16747f5494db81535ff4471e35f93a6a40366a5240022",
+            "user_address": "0xe75eD6F453c602Bd696cE27AF11565eDc9b46B0D",
+            "token0": "UNI",
+            "amount0": 6462397774065643067,
+            "token1": "AAVE",
+            "amount1": -389357696123404288,
+            "timestamp": "2024-08-08 06:41:11",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x30A1B724c9DFe2e12A19ed84878312d199d1519E": [
+        {
+            "tx_hash": "0x0c723f38cc19ca4f5fe4c614e5e6465bfec0afff123f114eec5c6093cd0fb0bb",
+            "user_address": "0x30A1B724c9DFe2e12A19ed84878312d199d1519E",
+            "token0": "UNI",
+            "amount0": 3838840751063315082,
+            "token1": "AAVE",
+            "amount1": -231132876471733627,
+            "timestamp": "2024-08-08 07:14:35",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x5eB81De97e7C97DDE69250E9a5c57331f0d189ed": [
+        {
+            "tx_hash": "0x6f31408eefb9659ef822275d48d76adb27a4d2e02484b2f51ab65db545906324",
+            "user_address": "0x5eB81De97e7C97DDE69250E9a5c57331f0d189ed",
+            "token0": "UNI",
+            "amount0": 74789626238326538240,
+            "token1": "AAVE",
+            "amount1": -4264021716370586148,
+            "timestamp": "2024-08-08 01:06:59",
+            "pool_liquidity": 9536432846405598645352
+        }
+    ],
+    "0xfD0169aC61763adC2168237757DC7e4a792b2A43": [
+        {
+            "tx_hash": "0x92a29773fda1cff3cd63381e596652ea7cdf1da5336c0ebfaee2808ce1835c91",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": 88155200541351999153,
+            "token1": "AAVE",
+            "amount1": -5076478572573103419,
+            "timestamp": "2024-08-08 02:37:47",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x9A3376B53710e59227B14d5991a46E9542766C72": [
+        {
+            "tx_hash": "0x24b21123912d479e8223028e8b9bfa837f6bfbc1bd1cee4a783023154f0807be",
+            "user_address": "0x9A3376B53710e59227B14d5991a46E9542766C72",
+            "token0": "UNI",
+            "amount0": 23555430157485283968,
+            "token1": "AAVE",
+            "amount1": -1352783872985149316,
+            "timestamp": "2024-08-08 02:41:59",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0xe2e71C4Bc2943A132914da31b598b923B09FF7D8": [
+        {
+            "tx_hash": "0xf9fe4f31fc4a712240cf1f725578313cd10e0ac9e718137f997ae8490e4f241e",
+            "user_address": "0xe2e71C4Bc2943A132914da31b598b923B09FF7D8",
+            "token0": "UNI",
+            "amount0": -53329421065274468205,
+            "token1": "AAVE",
+            "amount1": 3096326209352795648,
+            "timestamp": "2024-08-08 04:53:11",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ],
+    "0x38F7F543974072Af60aACd313D4022e350FD2c1D": [
+        {
+            "tx_hash": "0x01e42fc88fead24cfb187ae37775ba922cbd6199ae349c25d1aa2256e62f3bde",
+            "user_address": "0x38F7F543974072Af60aACd313D4022e350FD2c1D",
+            "token0": "UNI",
+            "amount0": 20364186821571772569,
+            "token1": "AAVE",
+            "amount1": -1193074779355578893,
+            "timestamp": "2024-08-08 05:18:11",
+            "pool_liquidity": 9871743463663978906056
+        }
+    ]
+}

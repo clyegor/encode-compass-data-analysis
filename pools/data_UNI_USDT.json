@@ -1,0 +1,2798 @@
+{
+    "0xf1C6d0f24d375CC60bB4D62f23A70E1072B68E4D": [
+        {
+            "tx_hash": "0x624815a474a50339828c07f73afcdcd9272514e56c3a320e25ad30170c4edd91",
+            "user_address": "0xf1C6d0f24d375CC60bB4D62f23A70E1072B68E4D",
+            "token0": "UNI",
+            "amount0": -165451631938060016,
+            "token1": "USDT",
+            "amount1": 1000000,
+            "timestamp": "2024-08-08 21:00:59",
+            "pool_liquidity": 9498280404693914
+        },
+        {
+            "tx_hash": "0x087656fb9b4a4a4e43e4d35c8800915085ab006ea7bc6dae6da9c13d5d5b0fc7",
+            "user_address": "0xf1C6d0f24d375CC60bB4D62f23A70E1072B68E4D",
+            "token0": "UNI",
+            "amount0": -165437483408183172,
+            "token1": "USDT",
+            "amount1": 1000000,
+            "timestamp": "2024-08-08 21:04:11",
+            "pool_liquidity": 9498280404693914
+        }
+    ],
+    "0xfD0169aC61763adC2168237757DC7e4a792b2A43": [
+        {
+            "tx_hash": "0xf9e395edbb512cb9418d05b88eea5da9b4cfb28316f2f14273f7df4806b30de0",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -6511199883927730495,
+            "token1": "USDT",
+            "amount1": 62533987,
+            "timestamp": "2024-06-18 23:23:11",
+            "pool_liquidity": 6286453226246652
+        },
+        {
+            "tx_hash": "0x357ee61a031470bffeeedf23fd1409f6ffc537a5fff1c14242386e8940852fe0",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -17092571378453262034,
+            "token1": "USDT",
+            "amount1": 160991605,
+            "timestamp": "2024-06-26 04:32:11",
+            "pool_liquidity": 6610070915337131
+        },
+        {
+            "tx_hash": "0x07a1931387eb99ceb13d6f1980c38d97dc152b79da2e39ab3ffe21d64247c6e8",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": 10203562791407548116,
+            "token1": "USDT",
+            "amount1": -101027169,
+            "timestamp": "2024-06-23 22:30:11",
+            "pool_liquidity": 6116441164808560
+        },
+        {
+            "tx_hash": "0xcf348469b80433ff99dd44e32a5818cf35042520fdc78c3b8ee7548c9f676281",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -3667968826606328893,
+            "token1": "USDT",
+            "amount1": 33196185,
+            "timestamp": "2024-06-29 00:20:35",
+            "pool_liquidity": 6952381538309801
+        },
+        {
+            "tx_hash": "0xfe2b45e8f53376b95adf1ff137bbb36cc747c80260edc648f108f7eddf86214c",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -22342314098445757446,
+            "token1": "USDT",
+            "amount1": 196915964,
+            "timestamp": "2024-07-02 14:47:23",
+            "pool_liquidity": 6952381538309801
+        },
+        {
+            "tx_hash": "0xc3a3ee21f2ab9b7fad8c18fc40ecc5b5dff62323d0560770a06a70a3d5d884d2",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -5056328800072729778,
+            "token1": "USDT",
+            "amount1": 42092738,
+            "timestamp": "2024-07-04 05:11:59",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0xc3a3ee21f2ab9b7fad8c18fc40ecc5b5dff62323d0560770a06a70a3d5d884d2",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -1812029583879617328,
+            "token1": "USDT",
+            "amount1": 15127797,
+            "timestamp": "2024-07-04 05:11:59",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0xd4b57234e234deb3805d60db26d30fc224d7ddf258e8d797cd486d186c0365a7",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -8257769553114187220,
+            "token1": "USDT",
+            "amount1": 67953646,
+            "timestamp": "2024-07-04 02:51:11",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0x2f321283f73d631b7a37017c2ffc721296f973df2d82bf5899ba0c39067d20c7",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -5312705484943434853,
+            "token1": "USDT",
+            "amount1": 43964331,
+            "timestamp": "2024-07-04 03:39:59",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0xb69c45cefac7d4d60b21648f669abce14777d4f346782e56f91a06f9bd0ad1b0",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -11810303280490626761,
+            "token1": "USDT",
+            "amount1": 88438589,
+            "timestamp": "2024-07-05 01:53:59",
+            "pool_liquidity": 6911452258372399
+        },
+        {
+            "tx_hash": "0x7bbd3a3b501ef5c472dfec553f9c8139a5d23c621d60aded1c70dd22cad713f3",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": 9064957392763634200,
+            "token1": "USDT",
+            "amount1": -69508999,
+            "timestamp": "2024-07-05 17:46:35",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0x75b7f85fc3d755eadb430f124f441e85d7984533465c680569d25e68d9b7f775",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -6552823728609789995,
+            "token1": "USDT",
+            "amount1": 48512647,
+            "timestamp": "2024-07-08 02:13:35",
+            "pool_liquidity": 6911452258372399
+        },
+        {
+            "tx_hash": "0xe9a798eabe5a68dc7f0a734d2ab1caf2a6cf51074c07908129e93dfd207471e1",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -29049361432004052918,
+            "token1": "USDT",
+            "amount1": 223783096,
+            "timestamp": "2024-07-18 19:14:47",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0x311e77bc1175214cf2cd057bf1a918c3f9ab5b1abac3ea0bdf0ba8d85a976317",
+            "user_address": "0xfD0169aC61763adC2168237757DC7e4a792b2A43",
+            "token0": "UNI",
+            "amount0": -7355073238106769215,
+            "token1": "USDT",
+            "amount1": 58425770,
+            "timestamp": "2024-07-11 05:10:35",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F": [
+        {
+            "tx_hash": "0x635a2c5870535050a5aa74b343c2ff69bff30a1101b8691af51629ab11cb4b11",
+            "user_address": "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F",
+            "token0": "UNI",
+            "amount0": -25338826927195762923,
+            "token1": "USDT",
+            "amount1": 247242814,
+            "timestamp": "2024-06-19 00:55:35",
+            "pool_liquidity": 6116441164808560
+        },
+        {
+            "tx_hash": "0x4e01bdb2362f8118292218bcdc5fb208b00d07ddfc2b187acab47fe9d27aa895",
+            "user_address": "0xD0d89C76614471BeAff5349bc9a0252E50b86e7F",
+            "token0": "UNI",
+            "amount0": 157383516494612103168,
+            "token1": "USDT",
+            "amount1": -1227535276,
+            "timestamp": "2024-07-12 07:45:59",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0xf621b27508B5bc902ff553D0323105C59351A634": [
+        {
+            "tx_hash": "0x5e2254d7df44ae8c7188fd7ed04cea47488767ae5ff494e226464de836d747e2",
+            "user_address": "0xf621b27508B5bc902ff553D0323105C59351A634",
+            "token0": "UNI",
+            "amount0": -14841079258274202130,
+            "token1": "USDT",
+            "amount1": 148087806,
+            "timestamp": "2024-06-19 01:10:47",
+            "pool_liquidity": 752692930451179
+        },
+        {
+            "tx_hash": "0x98b35d7b03f61e2fe6dbf2b5d86332bb56f71f605ddc078e1cd8435e175dceec",
+            "user_address": "0xf621b27508B5bc902ff553D0323105C59351A634",
+            "token0": "UNI",
+            "amount0": 16235409387087938789,
+            "token1": "USDT",
+            "amount1": -131158335,
+            "timestamp": "2024-07-09 01:33:47",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x3d53c172C5FA064FDaA5d7fb661fb4281fe05CF1": [
+        {
+            "tx_hash": "0x69097052493d2bf5fff49ceb860aa2b9341f79a333171d358d59acb2567c570b",
+            "user_address": "0x3d53c172C5FA064FDaA5d7fb661fb4281fe05CF1",
+            "token0": "UNI",
+            "amount0": -34904572569643819067,
+            "token1": "USDT",
+            "amount1": 369201377,
+            "timestamp": "2024-06-21 05:42:23",
+            "pool_liquidity": 15955376723810456
+        }
+    ],
+    "0x30A1B724c9DFe2e12A19ed84878312d199d1519E": [
+        {
+            "tx_hash": "0x6329862f06b1d2310cd828bc2430dfd3a413342590715eb55f43f05d2afc9fb9",
+            "user_address": "0x30A1B724c9DFe2e12A19ed84878312d199d1519E",
+            "token0": "UNI",
+            "amount0": 31486051098645557354,
+            "token1": "USDT",
+            "amount1": -332270165,
+            "timestamp": "2024-06-21 05:42:23",
+            "pool_liquidity": 752692930451179
+        },
+        {
+            "tx_hash": "0xb0de636a6fe76d3ad7289a341f749f5eb68b05c1319f6a5f9fcad08d68f23210",
+            "user_address": "0x30A1B724c9DFe2e12A19ed84878312d199d1519E",
+            "token0": "UNI",
+            "amount0": -3902424387710374847,
+            "token1": "USDT",
+            "amount1": 27152140,
+            "timestamp": "2024-07-05 09:54:35",
+            "pool_liquidity": 6911452258372399
+        }
+    ],
+    "0x8cc754240b6ae55d1c263Fb41D5209216DF62FCB": [
+        {
+            "tx_hash": "0xdf97232bd83a72afc65d55d0a2587c594972c4ab31c8596cc2deaa3d4ef95229",
+            "user_address": "0x8cc754240b6ae55d1c263Fb41D5209216DF62FCB",
+            "token0": "UNI",
+            "amount0": 2110420753884711635,
+            "token1": "USDT",
+            "amount1": -21584508,
+            "timestamp": "2024-06-21 07:21:11",
+            "pool_liquidity": 752692930451179
+        }
+    ],
+    "0xb18505cCaD81ef09D1713d75113b7bB25310D258": [
+        {
+            "tx_hash": "0xd4fc743cfa3e9e26887cbd5293bcf672ca8c87b9900270295b26c5d8c7c8b709",
+            "user_address": "0xb18505cCaD81ef09D1713d75113b7bB25310D258",
+            "token0": "UNI",
+            "amount0": -5018001356208316704,
+            "token1": "USDT",
+            "amount1": 49850000,
+            "timestamp": "2024-06-21 15:22:47",
+            "pool_liquidity": 6116441164808560
+        }
+    ],
+    "0xBbAD96336943A36E3e292D973B3382dd0bA4D1EF": [
+        {
+            "tx_hash": "0x9d7ec9d7bb11b18c361e54d122cad84e966431e0fec1ff64988bd3d48d9fb972",
+            "user_address": "0xBbAD96336943A36E3e292D973B3382dd0bA4D1EF",
+            "token0": "UNI",
+            "amount0": -15695022635382481860,
+            "token1": "USDT",
+            "amount1": 153961744,
+            "timestamp": "2024-06-22 06:15:11",
+            "pool_liquidity": 6116441164808560
+        },
+        {
+            "tx_hash": "0x7b7228e702cc8b80af052d52df6bb5426943e25b25fe050428aacb178c1b135a",
+            "user_address": "0xBbAD96336943A36E3e292D973B3382dd0bA4D1EF",
+            "token0": "UNI",
+            "amount0": 13986954850595674311,
+            "token1": "USDT",
+            "amount1": -129417904,
+            "timestamp": "2024-06-24 06:03:23",
+            "pool_liquidity": 6270823046822923
+        },
+        {
+            "tx_hash": "0xa28e9cc6fa684eb490aa1e7581667225518843dc9d447fb60a451eb81a631fc4",
+            "user_address": "0xBbAD96336943A36E3e292D973B3382dd0bA4D1EF",
+            "token0": "UNI",
+            "amount0": -19115505792114267755,
+            "token1": "USDT",
+            "amount1": 172067606,
+            "timestamp": "2024-06-30 14:49:35",
+            "pool_liquidity": 6952381538309801
+        }
+    ],
+    "0x93F635372008B7c5d770AAa6Ff313454c8dc498c": [
+        {
+            "tx_hash": "0x16a956f312c8b139751112646eec8c27035c3e1cc939ea2fdc6f116ecc5a082f",
+            "user_address": "0x93F635372008B7c5d770AAa6Ff313454c8dc498c",
+            "token0": "UNI",
+            "amount0": -11927074788050763543,
+            "token1": "USDT",
+            "amount1": 118671962,
+            "timestamp": "2024-06-22 06:41:11",
+            "pool_liquidity": 752692930451179
+        },
+        {
+            "tx_hash": "0xa5677d51361c0854463581a06706ccdba9a0294f133789ca71a546814eb7238a",
+            "user_address": "0x93F635372008B7c5d770AAa6Ff313454c8dc498c",
+            "token0": "UNI",
+            "amount0": 280412022039220992532,
+            "token1": "USDT",
+            "amount1": -2193065046,
+            "timestamp": "2024-07-11 15:53:11",
+            "pool_liquidity": 305309151523603468
+        },
+        {
+            "tx_hash": "0x80d2f4b34d5f08f870b8496664cc85c74dc35360dbbf51781e00e8046220ceb6",
+            "user_address": "0x93F635372008B7c5d770AAa6Ff313454c8dc498c",
+            "token0": "UNI",
+            "amount0": 34489796895684110038,
+            "token1": "USDT",
+            "amount1": -241339783,
+            "timestamp": "2024-07-05 08:57:11",
+            "pool_liquidity": 6911452258372399
+        },
+        {
+            "tx_hash": "0xa9fc65e59cadb35f085982a5b502723e3648f555c8687c497c4b0fec8aabd8cc",
+            "user_address": "0x93F635372008B7c5d770AAa6Ff313454c8dc498c",
+            "token0": "UNI",
+            "amount0": -14046768245027420025,
+            "token1": "USDT",
+            "amount1": 113828108,
+            "timestamp": "2024-07-09 04:11:23",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xe2e71C4Bc2943A132914da31b598b923B09FF7D8": [
+        {
+            "tx_hash": "0xa7074e21d37e7b46c73a96feb4fdc2dde00239e239a92a9cd615822bc2a55886",
+            "user_address": "0xe2e71C4Bc2943A132914da31b598b923B09FF7D8",
+            "token0": "UNI",
+            "amount0": -21046280639751258684,
+            "token1": "USDT",
+            "amount1": 200056973,
+            "timestamp": "2024-06-26 01:54:47",
+            "pool_liquidity": 6625701094760860
+        },
+        {
+            "tx_hash": "0x0ea9f18b8ddd7854a6c446ee13a4ef542e87fa82a3d12edd9b1a3a502f6238e3",
+            "user_address": "0xe2e71C4Bc2943A132914da31b598b923B09FF7D8",
+            "token0": "UNI",
+            "amount0": 55831272800732217344,
+            "token1": "USDT",
+            "amount1": -605197803,
+            "timestamp": "2024-06-17 15:54:59",
+            "pool_liquidity": 15955376723810456
+        },
+        {
+            "tx_hash": "0x40d370cc384704f85510b09de91f80f9d59494ba1189217ec296cc80192bacef",
+            "user_address": "0xe2e71C4Bc2943A132914da31b598b923B09FF7D8",
+            "token0": "UNI",
+            "amount0": 194775290086424543232,
+            "token1": "USDT",
+            "amount1": -1526456292,
+            "timestamp": "2024-07-11 21:25:11",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0x453B6e665e050A23D7c4cA04b57FC201923ed28F": [
+        {
+            "tx_hash": "0x6315e77d499c6c52aeac53cefd1315d313376fc283aadf8ff648f72b34e63469",
+            "user_address": "0x453B6e665e050A23D7c4cA04b57FC201923ed28F",
+            "token0": "UNI",
+            "amount0": 500000000000000000,
+            "token1": "USDT",
+            "amount1": -4719417,
+            "timestamp": "2024-06-26 09:12:59",
+            "pool_liquidity": 6610070915337131
+        }
+    ],
+    "0xdc1a4009abF887A9e527Fb247ACB2a147B4d3Fb1": [
+        {
+            "tx_hash": "0xce9744f3600ce65e49bb983410dd55b5a6dc8091acf6df5633125a2ccb514f2c",
+            "user_address": "0xdc1a4009abF887A9e527Fb247ACB2a147B4d3Fb1",
+            "token0": "UNI",
+            "amount0": 15901986643245727222,
+            "token1": "USDT",
+            "amount1": -143949969,
+            "timestamp": "2024-07-02 11:12:35",
+            "pool_liquidity": 6952381538309801
+        }
+    ],
+    "0x0BeB656Ce05ef10F8E8Ad31C9215a33d03A2399F": [
+        {
+            "tx_hash": "0x9a441e3bb67a4b7f110a2399c031441efab77c89634146911623052cffc611bc",
+            "user_address": "0x0BeB656Ce05ef10F8E8Ad31C9215a33d03A2399F",
+            "token0": "UNI",
+            "amount0": 11312172787630052595,
+            "token1": "USDT",
+            "amount1": -112472190,
+            "timestamp": "2024-06-20 05:26:11",
+            "pool_liquidity": 6116441164808560
+        }
+    ],
+    "0xa24474C2Dc3Bb6Bb08EB6Caf122Dd53b28D76482": [
+        {
+            "tx_hash": "0x7b19a4441606ef9740d4b1912359b5397a6d2d1c3c167ddf497443643c9b3bd7",
+            "user_address": "0xa24474C2Dc3Bb6Bb08EB6Caf122Dd53b28D76482",
+            "token0": "UNI",
+            "amount0": 1817897955138421037,
+            "token1": "USDT",
+            "amount1": -18286580,
+            "timestamp": "2024-06-21 08:23:59",
+            "pool_liquidity": 752692930451179
+        }
+    ],
+    "0x053a95888e23963943CBBAdCb595F3ab73a1d78B": [
+        {
+            "tx_hash": "0x0402d009c049bfdceaf9dfbb98090b0cdff795115071a2d525f898d26d11b60a",
+            "user_address": "0x053a95888e23963943CBBAdCb595F3ab73a1d78B",
+            "token0": "UNI",
+            "amount0": 5024993408201401686,
+            "token1": "USDT",
+            "amount1": -49883587,
+            "timestamp": "2024-06-21 08:31:47",
+            "pool_liquidity": 6116441164808560
+        },
+        {
+            "tx_hash": "0xbe7315a170f681d1a1d1615a0c0cb5bdd90ed9f788ceefdea7d8d896812ab937",
+            "user_address": "0x053a95888e23963943CBBAdCb595F3ab73a1d78B",
+            "token0": "UNI",
+            "amount0": 5024993402927000000,
+            "token1": "USDT",
+            "amount1": -49620186,
+            "timestamp": "2024-06-21 09:18:11",
+            "pool_liquidity": 6116441164808560
+        }
+    ],
+    "0x4603180BBB8221157880AfaA84638E0fc467738D": [
+        {
+            "tx_hash": "0x238e5ab86462eebf47f46ee2d59cbedf7a08ae01e6e38ca10a191f39de371dce",
+            "user_address": "0x4603180BBB8221157880AfaA84638E0fc467738D",
+            "token0": "UNI",
+            "amount0": 14772623318541623849,
+            "token1": "USDT",
+            "amount1": -145151206,
+            "timestamp": "2024-06-22 00:09:11",
+            "pool_liquidity": 6116441164808560
+        },
+        {
+            "tx_hash": "0xec8dc947a883eab0ce52206676f5dccc6fa7239acddee61edc5c006e3819efb1",
+            "user_address": "0x4603180BBB8221157880AfaA84638E0fc467738D",
+            "token0": "UNI",
+            "amount0": 20368472728532456142,
+            "token1": "USDT",
+            "amount1": -214538548,
+            "timestamp": "2024-06-18 01:15:47",
+            "pool_liquidity": 752692930451179
+        },
+        {
+            "tx_hash": "0x85b1a49294b55d019f89e79c27c5e1b6797e4cf07cfa6ef6c73020dfd4bc3e76",
+            "user_address": "0x4603180BBB8221157880AfaA84638E0fc467738D",
+            "token0": "UNI",
+            "amount0": 15972220698505277923,
+            "token1": "USDT",
+            "amount1": -144468960,
+            "timestamp": "2024-06-28 22:18:11",
+            "pool_liquidity": 6952381538309801
+        }
+    ],
+    "0x418D9eEE7E2408c245Cf60908910faB4a4BC014D": [
+        {
+            "tx_hash": "0x1ee393242b71e7f1aca3999815e99a708c372d96dae7efdf88fc0dbd2f8eb46f",
+            "user_address": "0x418D9eEE7E2408c245Cf60908910faB4a4BC014D",
+            "token0": "UNI",
+            "amount0": 7987599333239999999,
+            "token1": "USDT",
+            "amount1": -77578756,
+            "timestamp": "2024-06-22 01:15:59",
+            "pool_liquidity": 6286453226246652
+        }
+    ],
+    "0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13": [
+        {
+            "tx_hash": "0xd7cb0c31001608d53a29db6c622e58b0d219dc36861bbfbfc953c7b362b9ab5c",
+            "user_address": "0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13",
+            "token0": "UNI",
+            "amount0": 18676548291402135475,
+            "token1": "USDT",
+            "amount1": -184079502,
+            "timestamp": "2024-06-22 11:11:11",
+            "pool_liquidity": 6116441164808560
+        },
+        {
+            "tx_hash": "0x3c08aa3596bc1e68211c8b745572dd9954d695d0c010077cd904101dc4e6850d",
+            "user_address": "0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13",
+            "token0": "UNI",
+            "amount0": -15236112296193205434,
+            "token1": "USDT",
+            "amount1": 145152922,
+            "timestamp": "2024-06-28 04:57:23",
+            "pool_liquidity": 6625701094760860
+        }
+    ],
+    "0xe75eD6F453c602Bd696cE27AF11565eDc9b46B0D": [
+        {
+            "tx_hash": "0xc8605aa94199674e6496864f2eca1c4603724e2363d2b8c99294531a1ef830fb",
+            "user_address": "0xe75eD6F453c602Bd696cE27AF11565eDc9b46B0D",
+            "token0": "UNI",
+            "amount0": -11027800364702236672,
+            "token1": "USDT",
+            "amount1": 108917288,
+            "timestamp": "2024-06-22 13:41:23",
+            "pool_liquidity": 6116441164808560
+        },
+        {
+            "tx_hash": "0x8103f6bfe764fe0b6314ead51f1228b844d4c1da9c611875f2bf98617021acb6",
+            "user_address": "0xe75eD6F453c602Bd696cE27AF11565eDc9b46B0D",
+            "token0": "UNI",
+            "amount0": 6253168232141442397,
+            "token1": "USDT",
+            "amount1": -59107626,
+            "timestamp": "2024-07-01 02:53:11",
+            "pool_liquidity": 6610070915337131
+        },
+        {
+            "tx_hash": "0x0f28b2a42be651f884b60cb36415d357d1eb3d3e4e577746cada381501b52b3f",
+            "user_address": "0xe75eD6F453c602Bd696cE27AF11565eDc9b46B0D",
+            "token0": "UNI",
+            "amount0": -6294497030119096320,
+            "token1": "USDT",
+            "amount1": 49037971,
+            "timestamp": "2024-07-07 13:48:35",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xdcA713a7D75C1848afFe91ECBB48Fbb5614087CF": [
+        {
+            "tx_hash": "0x3f1476ff9ba6dd3c942a495e8e3d676d3af51e8e4a7517bd631641e40ffcccaa",
+            "user_address": "0xdcA713a7D75C1848afFe91ECBB48Fbb5614087CF",
+            "token0": "UNI",
+            "amount0": 29017776401600000000,
+            "token1": "USDT",
+            "amount1": -273180079,
+            "timestamp": "2024-06-26 04:32:11",
+            "pool_liquidity": 6610070915337131
+        }
+    ],
+    "0xad35f582eBEb527b6dC19A2F9fdF98677c53373b": [
+        {
+            "tx_hash": "0x62c2473833305b7f739c7abcb15fed1e99c6a86181e49024925c526458b6e2ba",
+            "user_address": "0xad35f582eBEb527b6dC19A2F9fdF98677c53373b",
+            "token0": "UNI",
+            "amount0": -474065985020825922,
+            "token1": "USDT",
+            "amount1": 4501651,
+            "timestamp": "2024-06-26 05:11:23",
+            "pool_liquidity": 6610070915337131
+        }
+    ],
+    "0xb5Cc33160510799CC29251991135D2308472899e": [
+        {
+            "tx_hash": "0xa9806fe81bb838a5b9e879f932c9420a428ec8a4605c1aa2239c777caea5be87",
+            "user_address": "0xb5Cc33160510799CC29251991135D2308472899e",
+            "token0": "UNI",
+            "amount0": -45806235304011760512,
+            "token1": "USDT",
+            "amount1": 498500000,
+            "timestamp": "2024-06-17 17:03:59",
+            "pool_liquidity": 15954642958569991
+        }
+    ],
+    "0x9Da745E11eaD58F7f3D4D6f0C16F68b6f225803D": [
+        {
+            "tx_hash": "0x3047ff55614115176aa5356c1f30c0e34a068b1f3c46d4b874ec60dbddb75eff",
+            "user_address": "0x9Da745E11eaD58F7f3D4D6f0C16F68b6f225803D",
+            "token0": "UNI",
+            "amount0": -27153173519395680196,
+            "token1": "USDT",
+            "amount1": 300000000,
+            "timestamp": "2024-06-17 19:14:59",
+            "pool_liquidity": 15954642958569991
+        }
+    ],
+    "0x0D0cF9D8b4c8fdfAe1C613D3985D78b53095b57d": [
+        {
+            "tx_hash": "0x4104c91d3000366ef85ebaacb754f5124163736bdee63a7760a9e6f4a8aa378b",
+            "user_address": "0x0D0cF9D8b4c8fdfAe1C613D3985D78b53095b57d",
+            "token0": "UNI",
+            "amount0": 1609527927013548931,
+            "token1": "USDT",
+            "amount1": -17770401,
+            "timestamp": "2024-06-17 19:43:23",
+            "pool_liquidity": 15954642958569991
+        }
+    ],
+    "0xfc9928F6590D853752824B0B403A6AE36785e535": [
+        {
+            "tx_hash": "0x8a6b4d3648b7207f8431d1ac35f1151baf0afa69940123f2e27c5acca511572a",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": 29573264015757363449,
+            "token1": "USDT",
+            "amount1": -324407158,
+            "timestamp": "2024-06-17 20:36:11",
+            "pool_liquidity": 15954642958569991
+        },
+        {
+            "tx_hash": "0x8ad81128c4fdfb165d8c69bce94707d9ba4e9f59ef0f3fdf70312d8191d59bc4",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -7903851576924569600,
+            "token1": "USDT",
+            "amount1": 77658281,
+            "timestamp": "2024-06-18 10:48:35",
+            "pool_liquidity": 6116441164808560
+        },
+        {
+            "tx_hash": "0x60a35960fa353ad2a2e56fb2768fab8d524bbbca11d9123824b5bbe022c4b524",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -24612866854928515072,
+            "token1": "USDT",
+            "amount1": 229231174,
+            "timestamp": "2024-06-27 18:24:11",
+            "pool_liquidity": 6610070915337131
+        },
+        {
+            "tx_hash": "0xe79822efd825e6af34e339a2f1a77974fc27ff4388dd17fc243f58bbe571d9f1",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -4325207572320616448,
+            "token1": "USDT",
+            "amount1": 40824215,
+            "timestamp": "2024-06-27 22:44:35",
+            "pool_liquidity": 6610070915337131
+        },
+        {
+            "tx_hash": "0xcee7d00289af9ccb655719415a96eded1fb3be1b7f097ac799993492076a1cf1",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": 38349620860198388793,
+            "token1": "USDT",
+            "amount1": -334426465,
+            "timestamp": "2024-07-03 17:48:59",
+            "pool_liquidity": 6952381538309801
+        },
+        {
+            "tx_hash": "0x26cd46926988cd5ea2f77f7929e9974f9d8761153de9d9ed41dcd2297b1f9ef0",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -4161957755185266688,
+            "token1": "USDT",
+            "amount1": 37142217,
+            "timestamp": "2024-06-29 22:06:47",
+            "pool_liquidity": 6952381538309801
+        },
+        {
+            "tx_hash": "0x5e5de49a50ceeafa0edd334399026ac8ec0166f1d4895b6755b8bb5f8304297e",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -15826540042890772480,
+            "token1": "USDT",
+            "amount1": 126925708,
+            "timestamp": "2024-07-08 19:09:23",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0xbf3729da47891576c7a752c148c3d1897f8544fac4ed322cb925194b1f644b98",
+            "user_address": "0xfc9928F6590D853752824B0B403A6AE36785e535",
+            "token0": "UNI",
+            "amount0": -6352708933789941760,
+            "token1": "USDT",
+            "amount1": 50000000,
+            "timestamp": "2024-07-11 21:48:11",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0xD1b076dD3b2ba2514Cf9B02a5a425E1Ec2534C89": [
+        {
+            "tx_hash": "0x66149f6960101c88b6bbb49f289af2f47893e7b1f987d61c63465914e849197a",
+            "user_address": "0xD1b076dD3b2ba2514Cf9B02a5a425E1Ec2534C89",
+            "token0": "UNI",
+            "amount0": 38285236588001999567,
+            "token1": "USDT",
+            "amount1": -414131300,
+            "timestamp": "2024-06-17 21:07:23",
+            "pool_liquidity": 15955376723810456
+        },
+        {
+            "tx_hash": "0xf13f754f6569afd08d743dcec7d322eab68d18237685a731b509c25ae87e7b8b",
+            "user_address": "0xD1b076dD3b2ba2514Cf9B02a5a425E1Ec2534C89",
+            "token0": "UNI",
+            "amount0": 12340260371192754592,
+            "token1": "USDT",
+            "amount1": -100364704,
+            "timestamp": "2024-07-07 01:04:11",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xB26b22e2d016282A197Afd3894B64BdfD9DE20e0": [
+        {
+            "tx_hash": "0x44364a9671a8a9ea53726f2a4331a40886465c8378a6196716490ad5c78145ad",
+            "user_address": "0xB26b22e2d016282A197Afd3894B64BdfD9DE20e0",
+            "token0": "UNI",
+            "amount0": 10092177300345090000,
+            "token1": "USDT",
+            "amount1": -98674517,
+            "timestamp": "2024-06-18 10:00:59",
+            "pool_liquidity": 6116441164808560
+        }
+    ],
+    "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8": [
+        {
+            "tx_hash": "0xb49a7c23d0c5642661d7f648cb5eac72fd3d5aba5e7b40d731aec19242419948",
+            "user_address": "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8",
+            "token0": "UNI",
+            "amount0": 30152053069720010752,
+            "token1": "USDT",
+            "amount1": -291241050,
+            "timestamp": "2024-06-18 12:56:23",
+            "pool_liquidity": 6286453226246652
+        },
+        {
+            "tx_hash": "0xfd4e9b1ce4e9553452e5b9b036f31823ec4666a1fb6a20da37b83130f1c8bf89",
+            "user_address": "0xBE66EC1B912af7f15fE45feE74E4F77eFDd414C8",
+            "token0": "UNI",
+            "amount0": 31189749533368053760,
+            "token1": "USDT",
+            "amount1": -231638156,
+            "timestamp": "2024-07-05 01:35:47",
+            "pool_liquidity": 6911452258372399
+        }
+    ],
+    "0xC2b376A629dE71372793e751a449132b1DE0727E": [
+        {
+            "tx_hash": "0xc713b41b9dd0709ee69600a6a970cb24e15bae90f4c86fc24ece38404e049905",
+            "user_address": "0xC2b376A629dE71372793e751a449132b1DE0727E",
+            "token0": "UNI",
+            "amount0": 10795011794402470690,
+            "token1": "USDT",
+            "amount1": -105854384,
+            "timestamp": "2024-06-20 13:25:59",
+            "pool_liquidity": 6116441164808560
+        }
+    ],
+    "0x5B8E42c21ef3b2f8cA749b4e5192b69a5069167c": [
+        {
+            "tx_hash": "0x9b0125925046be79c8a8754f8604a28173bbdabf8cdb9c8fa07f9c7ff07749b0",
+            "user_address": "0x5B8E42c21ef3b2f8cA749b4e5192b69a5069167c",
+            "token0": "UNI",
+            "amount0": -20113225269070057917,
+            "token1": "USDT",
+            "amount1": 199400000,
+            "timestamp": "2024-06-20 16:37:47",
+            "pool_liquidity": 752692930451179
+        }
+    ],
+    "0xc8c6256782AefeeCE7b0d294c7E9578D0157EA25": [
+        {
+            "tx_hash": "0x1f1452be3ee195d40de0e0da647db076315e2ec71b80b87d12cd43f5fa382b01",
+            "user_address": "0xc8c6256782AefeeCE7b0d294c7E9578D0157EA25",
+            "token0": "UNI",
+            "amount0": -5005876805516015028,
+            "token1": "USDT",
+            "amount1": 49850000,
+            "timestamp": "2024-06-23 04:50:11",
+            "pool_liquidity": 6116441164808560
+        }
+    ],
+    "0x019E4Fe2af745F9b2dC36f9C49E2f38E91Dbc2a2": [
+        {
+            "tx_hash": "0x335823a2aa3f2852dc80e2e6380ef05ee73ae1a49598fc3ac76f52a3124d065b",
+            "user_address": "0x019E4Fe2af745F9b2dC36f9C49E2f38E91Dbc2a2",
+            "token0": "UNI",
+            "amount0": 3000000000000000000,
+            "token1": "USDT",
+            "amount1": -32494339,
+            "timestamp": "2024-06-17 10:46:47",
+            "pool_liquidity": 15936973601495836
+        }
+    ],
+    "0x8ee51CB44be87eD5c564997bE4dcc86593B70C1F": [
+        {
+            "tx_hash": "0x9359320c8461832534e21f69254e326f6194a53e3654a60958fb919fddb9ffb8",
+            "user_address": "0x8ee51CB44be87eD5c564997bE4dcc86593B70C1F",
+            "token0": "UNI",
+            "amount0": -3278175010796270090,
+            "token1": "USDT",
+            "amount1": 35723507,
+            "timestamp": "2024-06-17 11:58:35",
+            "pool_liquidity": 15936973601495836
+        }
+    ],
+    "0xfa23801bB467EE8320DC772098121f244CB43297": [
+        {
+            "tx_hash": "0x17c6cce22a67e482ba77d4dbf77d9a4ff54331a39e4d06e86156326d5c4a3ea3",
+            "user_address": "0xfa23801bB467EE8320DC772098121f244CB43297",
+            "token0": "UNI",
+            "amount0": -4567075597731716545,
+            "token1": "USDT",
+            "amount1": 49850000,
+            "timestamp": "2024-06-17 14:21:35",
+            "pool_liquidity": 15936973601495836
+        }
+    ],
+    "0xa0edDfA16b19b19Ab3dd46BAf5440CD3277C087e": [
+        {
+            "tx_hash": "0x56d10d95678e7d1855d6f01d4b88c6ac47b81f249e804b1eddc1124db0886939",
+            "user_address": "0xa0edDfA16b19b19Ab3dd46BAf5440CD3277C087e",
+            "token0": "UNI",
+            "amount0": -23225507512204960763,
+            "token1": "USDT",
+            "amount1": 254974470,
+            "timestamp": "2024-06-17 14:35:47",
+            "pool_liquidity": 15936239836255371
+        }
+    ],
+    "0xc6B9EFD99763cbbAb529A834B6D04137D0E380e7": [
+        {
+            "tx_hash": "0x56786b69941d93ca64b206c6a1065ba2fbee2de6e5fb87d7d6011ea2ab31a943",
+            "user_address": "0xc6B9EFD99763cbbAb529A834B6D04137D0E380e7",
+            "token0": "UNI",
+            "amount0": 34685540999416545280,
+            "token1": "USDT",
+            "amount1": -369620138,
+            "timestamp": "2024-06-17 23:46:23",
+            "pool_liquidity": 15955376723810456
+        },
+        {
+            "tx_hash": "0xd76d70eac2580d56a5b4564f77967179397c652ca2897e897c9920e0956f8cd6",
+            "user_address": "0xc6B9EFD99763cbbAb529A834B6D04137D0E380e7",
+            "token0": "UNI",
+            "amount0": 236263276306890391552,
+            "token1": "USDT",
+            "amount1": -1836162704,
+            "timestamp": "2024-07-12 09:52:23",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0x1803E8EEB059794A7Eb7D24b6bD2d031975abe91": [
+        {
+            "tx_hash": "0x928d08ffdf36c85ea2e5cbf5e58cc4ff5aec92b0663a452fe0d41eb9bce778e0",
+            "user_address": "0x1803E8EEB059794A7Eb7D24b6bD2d031975abe91",
+            "token0": "UNI",
+            "amount0": 20000000000000000000,
+            "token1": "USDT",
+            "amount1": -198838915,
+            "timestamp": "2024-06-18 04:43:47",
+            "pool_liquidity": 6116441164808560
+        }
+    ],
+    "0x1095911D5b8EF22a99C469944fb6f945417d41a1": [
+        {
+            "tx_hash": "0x021514685f9df8fb7002ad2fc97be5ef87c753aa925b02c363abc109f982bd4f",
+            "user_address": "0x1095911D5b8EF22a99C469944fb6f945417d41a1",
+            "token0": "UNI",
+            "amount0": -3276882371075992926,
+            "token1": "USDT",
+            "amount1": 32344325,
+            "timestamp": "2024-06-18 05:59:59",
+            "pool_liquidity": 6116441164808560
+        }
+    ],
+    "0x8Cb7813b9dF4e065D350721EC2D345cc6350207e": [
+        {
+            "tx_hash": "0x9b0ba2edea509587630d52c974696c642c4a2925aec1b734cf824b361e823b07",
+            "user_address": "0x8Cb7813b9dF4e065D350721EC2D345cc6350207e",
+            "token0": "UNI",
+            "amount0": 3151090,
+            "token1": "USDT",
+            "amount1": 0,
+            "timestamp": "2024-06-19 11:34:59",
+            "pool_liquidity": 752692930451179
+        },
+        {
+            "tx_hash": "0x2daf6f9d9112ddf4e30e6754cfa9c5af9cd8a15c914fc8d925c0f03d2809f125",
+            "user_address": "0x8Cb7813b9dF4e065D350721EC2D345cc6350207e",
+            "token0": "UNI",
+            "amount0": 3149999999987400000,
+            "token1": "USDT",
+            "amount1": -28562034,
+            "timestamp": "2024-06-24 11:13:35",
+            "pool_liquidity": 6270823046822923
+        },
+        {
+            "tx_hash": "0x9d939f1ca08e850af9905045b5dd072153cbb093f8fc0ee2c796ba92153f0fe2",
+            "user_address": "0x8Cb7813b9dF4e065D350721EC2D345cc6350207e",
+            "token0": "UNI",
+            "amount0": 3150000,
+            "token1": "USDT",
+            "amount1": 0,
+            "timestamp": "2024-06-24 08:23:23",
+            "pool_liquidity": 6270823046822923
+        },
+        {
+            "tx_hash": "0x2047647ceaa1c0506f2ac682a9b7236360500ba594326369edae320425be731b",
+            "user_address": "0x8Cb7813b9dF4e065D350721EC2D345cc6350207e",
+            "token0": "UNI",
+            "amount0": 3150000,
+            "token1": "USDT",
+            "amount1": 0,
+            "timestamp": "2024-06-24 08:30:59",
+            "pool_liquidity": 6270823046822923
+        },
+        {
+            "tx_hash": "0xc2285debb8c5944af194858a491478a165cf8db750bbba43847cad40f665a484",
+            "user_address": "0x8Cb7813b9dF4e065D350721EC2D345cc6350207e",
+            "token0": "UNI",
+            "amount0": 3150000,
+            "token1": "USDT",
+            "amount1": 0,
+            "timestamp": "2024-06-24 08:31:47",
+            "pool_liquidity": 6270823046822923
+        },
+        {
+            "tx_hash": "0xbd5ed0951efeba64ea31cb57612d8b8c8a7a26d6b82db42307b8ddf11a1d4acd",
+            "user_address": "0x8Cb7813b9dF4e065D350721EC2D345cc6350207e",
+            "token0": "UNI",
+            "amount0": 3150000,
+            "token1": "USDT",
+            "amount1": 0,
+            "timestamp": "2024-06-24 08:51:35",
+            "pool_liquidity": 6270823046822923
+        }
+    ],
+    "0x0f499BD130B27E4943f204549D62134FFb7606a9": [
+        {
+            "tx_hash": "0x043c874e5bb880b282cab99cbce5d432b460d04a11df673e70fb1159305398fc",
+            "user_address": "0x0f499BD130B27E4943f204549D62134FFb7606a9",
+            "token0": "UNI",
+            "amount0": -4967357746608725532,
+            "token1": "USDT",
+            "amount1": 50000000,
+            "timestamp": "2024-06-23 13:22:35",
+            "pool_liquidity": 752692930451179
+        }
+    ],
+    "0x2421e414c8F76751891222A7e3A2DCABB00d4642": [
+        {
+            "tx_hash": "0x7b9a292367e938cb6ca503c0a0bb515cc815a2102f7319c6c65b6c1d93a47bc7",
+            "user_address": "0x2421e414c8F76751891222A7e3A2DCABB00d4642",
+            "token0": "UNI",
+            "amount0": 1010764643452772000,
+            "token1": "USDT",
+            "amount1": -10139672,
+            "timestamp": "2024-06-23 20:50:59",
+            "pool_liquidity": 752692930451179
+        }
+    ],
+    "0x9AAb3F81604c683a1a0D14019FBfe15bef7aA1ee": [
+        {
+            "tx_hash": "0x74ff280b873b6d53c3d42c9e129df1a0b053b6c411e1e9f0eb58b4c659ee159d",
+            "user_address": "0x9AAb3F81604c683a1a0D14019FBfe15bef7aA1ee",
+            "token0": "UNI",
+            "amount0": 14031569654477785478,
+            "token1": "USDT",
+            "amount1": -137203688,
+            "timestamp": "2024-06-24 01:22:11",
+            "pool_liquidity": 6286453226246652
+        },
+        {
+            "tx_hash": "0xe07f950b3d924e72ffe2817f03d10ca76452090c16b95da3d73d9564d9292e74",
+            "user_address": "0x9AAb3F81604c683a1a0D14019FBfe15bef7aA1ee",
+            "token0": "UNI",
+            "amount0": 13312094658689102814,
+            "token1": "USDT",
+            "amount1": -117628938,
+            "timestamp": "2024-06-30 02:48:59",
+            "pool_liquidity": 6952381538309801
+        },
+        {
+            "tx_hash": "0xab90c8a27ed25aa2da0cfbb2f2bf571b9aedd2c2d9c63dc7753e339e5db85a72",
+            "user_address": "0x9AAb3F81604c683a1a0D14019FBfe15bef7aA1ee",
+            "token0": "UNI",
+            "amount0": -30667909147382753009,
+            "token1": "USDT",
+            "amount1": 234549277,
+            "timestamp": "2024-07-05 17:23:47",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0x9bf9ee223990603eab1351ec5fdb91d21281eedc98576acec70eef59172d45f0",
+            "user_address": "0x9AAb3F81604c683a1a0D14019FBfe15bef7aA1ee",
+            "token0": "UNI",
+            "amount0": 15908495699259103891,
+            "token1": "USDT",
+            "amount1": -129639708,
+            "timestamp": "2024-07-13 14:16:23",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0xd392b476e40f39c1a5cfa91ce14a9218c1bcd9c83f2110c98e320a68b0b266f1",
+            "user_address": "0x9AAb3F81604c683a1a0D14019FBfe15bef7aA1ee",
+            "token0": "UNI",
+            "amount0": -14207962483434724847,
+            "token1": "USDT",
+            "amount1": 115868551,
+            "timestamp": "2024-07-13 07:13:47",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x6077A212C08B711d856263081EfCc994B396f7a1": [
+        {
+            "tx_hash": "0x23946fd83f4623f4906d19890e6115c31dc41d241f7e2d9a074541c77329ed74",
+            "user_address": "0x6077A212C08B711d856263081EfCc994B396f7a1",
+            "token0": "UNI",
+            "amount0": 21003013773964226560,
+            "token1": "USDT",
+            "amount1": -201810063,
+            "timestamp": "2024-06-24 02:55:11",
+            "pool_liquidity": 6286453226246652
+        },
+        {
+            "tx_hash": "0x86881cdb08ad0b17fa2ef4d776f131665a0ff6626791ed2f9e92b7da8500ab0c",
+            "user_address": "0x6077A212C08B711d856263081EfCc994B396f7a1",
+            "token0": "UNI",
+            "amount0": -25269588312426017623,
+            "token1": "USDT",
+            "amount1": 226086804,
+            "timestamp": "2024-06-24 21:30:11",
+            "pool_liquidity": 6613133669795593
+        },
+        {
+            "tx_hash": "0xc5a0d1ef76c57fa6bd00741cb564f493798baf471e0a3664916f6bba1b11aca6",
+            "user_address": "0x6077A212C08B711d856263081EfCc994B396f7a1",
+            "token0": "UNI",
+            "amount0": -24806948568651324310,
+            "token1": "USDT",
+            "amount1": 200000459,
+            "timestamp": "2024-07-08 08:49:11",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x0cac3d1a887206e0f6169222C4504301A8b4b993": [
+        {
+            "tx_hash": "0xa7795286aa813f45b0572cb4c9b26e2f67baea8cc71678d5d74cc010fcd35f31",
+            "user_address": "0x0cac3d1a887206e0f6169222C4504301A8b4b993",
+            "token0": "UNI",
+            "amount0": 30500232282328480606,
+            "token1": "USDT",
+            "amount1": -272338308,
+            "timestamp": "2024-06-24 15:54:47",
+            "pool_liquidity": 6613133669795593
+        },
+        {
+            "tx_hash": "0xdb00edcefd830813f1e19eb905b78faab07be0a59e11f5b1bbeaba1222022f8c",
+            "user_address": "0x0cac3d1a887206e0f6169222C4504301A8b4b993",
+            "token0": "UNI",
+            "amount0": -163128787351691374951,
+            "token1": "USDT",
+            "amount1": 1274820044,
+            "timestamp": "2024-07-12 01:33:59",
+            "pool_liquidity": 305309151523603468
+        },
+        {
+            "tx_hash": "0x6be4b9967841f0ad95343e9eec2da4b7f99119eda2d90809707dfee88e23b496",
+            "user_address": "0x0cac3d1a887206e0f6169222C4504301A8b4b993",
+            "token0": "UNI",
+            "amount0": 121849200327609020507,
+            "token1": "USDT",
+            "amount1": -955449447,
+            "timestamp": "2024-07-12 04:24:35",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0x6046945C5B5eF5933b8E73a98A6AD7bF3e031df7": [
+        {
+            "tx_hash": "0x8c1a882fcf0fafa153ab9921f01f19e75074466df30905af4f40323d3ba4fafd",
+            "user_address": "0x6046945C5B5eF5933b8E73a98A6AD7bF3e031df7",
+            "token0": "UNI",
+            "amount0": -15651188963954439168,
+            "token1": "USDT",
+            "amount1": 145452213,
+            "timestamp": "2024-06-24 23:43:23",
+            "pool_liquidity": 6270823046822923
+        },
+        {
+            "tx_hash": "0x6bbb0c65f147157f3949b0a5870fa916d0b5550b3c5b66466a0cbc18ae101f2f",
+            "user_address": "0x6046945C5B5eF5933b8E73a98A6AD7bF3e031df7",
+            "token0": "UNI",
+            "amount0": -15884788518703923826,
+            "token1": "USDT",
+            "amount1": 142310492,
+            "timestamp": "2024-07-02 23:19:47",
+            "pool_liquidity": 6952381538309801
+        },
+        {
+            "tx_hash": "0x275002c0642c3da74c26aeee2bff79bc03fe56850c2822dfd78feba43fcf592f",
+            "user_address": "0x6046945C5B5eF5933b8E73a98A6AD7bF3e031df7",
+            "token0": "UNI",
+            "amount0": -16061314917947598888,
+            "token1": "USDT",
+            "amount1": 121862819,
+            "timestamp": "2024-07-08 04:39:47",
+            "pool_liquidity": 6911452258372399
+        }
+    ],
+    "0xCc9F0501f408D5b0e4Bf73c3422DE880F4CE279e": [
+        {
+            "tx_hash": "0x6d8c0b079c8a490e6925a743632555d1aace21c12cad3a3a9be1d83483807a22",
+            "user_address": "0xCc9F0501f408D5b0e4Bf73c3422DE880F4CE279e",
+            "token0": "UNI",
+            "amount0": -23937208181049266041,
+            "token1": "USDT",
+            "amount1": 224788794,
+            "timestamp": "2024-06-27 12:55:23",
+            "pool_liquidity": 6610070915337131
+        },
+        {
+            "tx_hash": "0x654e389a4089e2e033c99584f9731fbbc7f1b67b97405467fc526ec73e4aea93",
+            "user_address": "0xCc9F0501f408D5b0e4Bf73c3422DE880F4CE279e",
+            "token0": "UNI",
+            "amount0": -23108985022430137227,
+            "token1": "USDT",
+            "amount1": 216657241,
+            "timestamp": "2024-06-26 20:41:35",
+            "pool_liquidity": 6610070915337131
+        }
+    ],
+    "0x6dd433F0b1ddd84Fb8a666CAA4E0A27Fe95e3dfC": [
+        {
+            "tx_hash": "0x9f9870f0f54dd2bb70e4e8bf78c0996e35bb206cedc250b30cd866cb072c60ff",
+            "user_address": "0x6dd433F0b1ddd84Fb8a666CAA4E0A27Fe95e3dfC",
+            "token0": "UNI",
+            "amount0": -17554550460293402578,
+            "token1": "USDT",
+            "amount1": 168059074,
+            "timestamp": "2024-06-27 14:51:35",
+            "pool_liquidity": 6625701094760860
+        }
+    ],
+    "0x2c3c9B1ca9c5DB00D8A5CFDA1B8bd6f6f8c160C3": [
+        {
+            "tx_hash": "0x9aab8dd961425c6c93884f5a759e97be6015baf90d338940ac4b5ba6249b40f6",
+            "user_address": "0x2c3c9B1ca9c5DB00D8A5CFDA1B8bd6f6f8c160C3",
+            "token0": "UNI",
+            "amount0": 10930521149907615491,
+            "token1": "USDT",
+            "amount1": -104339481,
+            "timestamp": "2024-06-27 16:21:35",
+            "pool_liquidity": 6625701094760860
+        }
+    ],
+    "0x747e66D03Ed09201B8e501F3721E8213EEb5df15": [
+        {
+            "tx_hash": "0x4390fef302af49fcf6ff26a4c7c752e0a421f20153178f33c6763a6c83834d8f",
+            "user_address": "0x747e66D03Ed09201B8e501F3721E8213EEb5df15",
+            "token0": "UNI",
+            "amount0": 40000000000000000000,
+            "token1": "USDT",
+            "amount1": -372946610,
+            "timestamp": "2024-06-27 17:12:47",
+            "pool_liquidity": 6610070915337131
+        }
+    ],
+    "0xf2eF6cDFd963091b3fDd2097299f90C8e18DC379": [
+        {
+            "tx_hash": "0xbec5a1ab355eee73fb1bc71e500ab5e625efd4e4dbcab7f112d23387f5fece43",
+            "user_address": "0xf2eF6cDFd963091b3fDd2097299f90C8e18DC379",
+            "token0": "UNI",
+            "amount0": 1225854876748493849,
+            "token1": "USDT",
+            "amount1": -12413800,
+            "timestamp": "2024-06-23 20:25:23",
+            "pool_liquidity": 752692930451179
+        }
+    ],
+    "0x1FD6a9Dd4E4bF361586871BB8AEF76b9c298338E": [
+        {
+            "tx_hash": "0xb81f784cb7d5d665acf86584d43cb91ee88541050001bbfc459a054167727d54",
+            "user_address": "0x1FD6a9Dd4E4bF361586871BB8AEF76b9c298338E",
+            "token0": "UNI",
+            "amount0": -9819556071263685855,
+            "token1": "USDT",
+            "amount1": 94400000,
+            "timestamp": "2024-06-24 04:11:47",
+            "pool_liquidity": 6286453226246652
+        }
+    ],
+    "0xe58e5ED4544F58831A84c18178b911A5957Ada08": [
+        {
+            "tx_hash": "0xe5d14dec40e625c02e6b1ab60defce3e3ed4459ac262dbfef90e1928ddf02b91",
+            "user_address": "0xe58e5ED4544F58831A84c18178b911A5957Ada08",
+            "token0": "UNI",
+            "amount0": 15939163348590404218,
+            "token1": "USDT",
+            "amount1": -151859554,
+            "timestamp": "2024-06-24 05:13:35",
+            "pool_liquidity": 6270823046822923
+        }
+    ],
+    "0xfb9779477e5b4834BF2bC02dD29b97b344d0F700": [
+        {
+            "tx_hash": "0x22fb7779cbdaa067f12b077fc81efa9a0a08823c551fab54d867745ab65947a8",
+            "user_address": "0xfb9779477e5b4834BF2bC02dD29b97b344d0F700",
+            "token0": "UNI",
+            "amount0": 15027136318605994710,
+            "token1": "USDT",
+            "amount1": -141017462,
+            "timestamp": "2024-06-24 05:35:35",
+            "pool_liquidity": 6270823046822923
+        },
+        {
+            "tx_hash": "0x00b9650108a463595753ab1aaf562a297f86386310a00c3bb8ea51a939e05a65",
+            "user_address": "0xfb9779477e5b4834BF2bC02dD29b97b344d0F700",
+            "token0": "UNI",
+            "amount0": -14195644946201757180,
+            "token1": "USDT",
+            "amount1": 131880336,
+            "timestamp": "2024-07-01 00:59:35",
+            "pool_liquidity": 6610070915337131
+        }
+    ],
+    "0x5c1e870986d5e29Bf05D3d005CbA007BBCB07AeA": [
+        {
+            "tx_hash": "0xd98acce71ff8bae49a815aa173efeae9a8334d8b765172f2e3e65737885af78a",
+            "user_address": "0x5c1e870986d5e29Bf05D3d005CbA007BBCB07AeA",
+            "token0": "UNI",
+            "amount0": -10545429925634310112,
+            "token1": "USDT",
+            "amount1": 98000000,
+            "timestamp": "2024-06-24 08:51:59",
+            "pool_liquidity": 6270823046822923
+        }
+    ],
+    "0xF9DD6fC91f26Ade2050a89F324dE5d64De2AD99a": [
+        {
+            "tx_hash": "0xb602305f9577211da026de9dead42e47a4ccc0218b63241a2c36b2a7b551522c",
+            "user_address": "0xF9DD6fC91f26Ade2050a89F324dE5d64De2AD99a",
+            "token0": "UNI",
+            "amount0": 23003484926290874368,
+            "token1": "USDT",
+            "amount1": -211226536,
+            "timestamp": "2024-06-24 09:22:11",
+            "pool_liquidity": 6270823046822923
+        },
+        {
+            "tx_hash": "0x4fe2d5fc33fae8625467a63cb08410c380f3730eea00145a61eda7b965ce30fd",
+            "user_address": "0xF9DD6fC91f26Ade2050a89F324dE5d64De2AD99a",
+            "token0": "UNI",
+            "amount0": -24454747377381792677,
+            "token1": "USDT",
+            "amount1": 200041579,
+            "timestamp": "2024-07-09 08:41:47",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x58564d65fd73b93c5a0D8eA6D95d3aB2c6d83b50": [
+        {
+            "tx_hash": "0xf91027abd7eec14c6902511858264df6e1295ab757d817cd59f38408ca59b18b",
+            "user_address": "0x58564d65fd73b93c5a0D8eA6D95d3aB2c6d83b50",
+            "token0": "UNI",
+            "amount0": -5629012865154127479,
+            "token1": "USDT",
+            "amount1": 50000000,
+            "timestamp": "2024-06-24 17:47:11",
+            "pool_liquidity": 6613133669795593
+        }
+    ],
+    "0x13c49AD2e7799B96273Fb17357D3827fdB835313": [
+        {
+            "tx_hash": "0x085f7867413c94898a6a2e3253fb87d1c378d075efea48c6bd018c25ccc04cb0",
+            "user_address": "0x13c49AD2e7799B96273Fb17357D3827fdB835313",
+            "token0": "UNI",
+            "amount0": -27558356665327653077,
+            "token1": "USDT",
+            "amount1": 248500000,
+            "timestamp": "2024-06-24 17:50:23",
+            "pool_liquidity": 6270823046822923
+        }
+    ],
+    "0x523C4317bcad582C17d7bD0Db5062830D47A2892": [
+        {
+            "tx_hash": "0x4694636b213f13b010b76f57343ab774db6371171b1792fb5cd160dad46cd96f",
+            "user_address": "0x523C4317bcad582C17d7bD0Db5062830D47A2892",
+            "token0": "UNI",
+            "amount0": -558290918425466495,
+            "token1": "USDT",
+            "amount1": 5100000,
+            "timestamp": "2024-06-24 19:07:11",
+            "pool_liquidity": 6270823046822923
+        }
+    ],
+    "0x43e4715ae093a4C86B5eCdDb52216c4f879e9672": [
+        {
+            "tx_hash": "0x44fdf4cf3fe7073bae0ee3a6ee43595ccde1d525309e2968a11ee1c2c9d590aa",
+            "user_address": "0x43e4715ae093a4C86B5eCdDb52216c4f879e9672",
+            "token0": "UNI",
+            "amount0": 25326812832017739764,
+            "token1": "USDT",
+            "amount1": -227362547,
+            "timestamp": "2024-06-24 19:24:23",
+            "pool_liquidity": 6613133669795593
+        },
+        {
+            "tx_hash": "0x4fa4d09c7416538ef5305837f93269bb279c71b1a62265977fd590112d274369",
+            "user_address": "0x43e4715ae093a4C86B5eCdDb52216c4f879e9672",
+            "token0": "UNI",
+            "amount0": -20857564197797539999,
+            "token1": "USDT",
+            "amount1": 165237993,
+            "timestamp": "2024-07-06 15:45:35",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0x458b44e7823369ae4801ed0ec0c55438480031867f8573f436b75cbaa0648bf9",
+            "user_address": "0x43e4715ae093a4C86B5eCdDb52216c4f879e9672",
+            "token0": "UNI",
+            "amount0": -29038797322193809294,
+            "token1": "USDT",
+            "amount1": 216887622,
+            "timestamp": "2024-07-05 14:41:35",
+            "pool_liquidity": 6911452258372399
+        }
+    ],
+    "0xbED0330C6241c37483B16E21957f92bb45424620": [
+        {
+            "tx_hash": "0x6228afe7bf7c44948dfab770d0a4b49734b5923117fac1e6513f4637b7a8c7ab",
+            "user_address": "0xbED0330C6241c37483B16E21957f92bb45424620",
+            "token0": "UNI",
+            "amount0": 10363274629788746699,
+            "token1": "USDT",
+            "amount1": -91543550,
+            "timestamp": "2024-06-24 20:36:47",
+            "pool_liquidity": 6613133669795593
+        }
+    ],
+    "0xeCa2e2D894D19778939bD4DfC34D2a3C45E96456": [
+        {
+            "tx_hash": "0x8029d754bbbc0d6ba77f32b2aeb21045ff65aa2a1665c09ccde1ff144723796a",
+            "user_address": "0xeCa2e2D894D19778939bD4DfC34D2a3C45E96456",
+            "token0": "UNI",
+            "amount0": -19971691340664778145,
+            "token1": "USDT",
+            "amount1": 182443222,
+            "timestamp": "2024-06-24 23:09:11",
+            "pool_liquidity": 6270823046822923
+        },
+        {
+            "tx_hash": "0x0d88aeae25642fdc8fe0df47402bb0decd3cd4c584b1aed70260e1325f341be7",
+            "user_address": "0xeCa2e2D894D19778939bD4DfC34D2a3C45E96456",
+            "token0": "UNI",
+            "amount0": 21827224311125157234,
+            "token1": "USDT",
+            "amount1": -203540309,
+            "timestamp": "2024-06-27 06:27:59",
+            "pool_liquidity": 6610070915337131
+        },
+        {
+            "tx_hash": "0x436d559d4e7999f4a859594c55cef94a6f779508ba0328d3d005dd72bdfa9f9b",
+            "user_address": "0xeCa2e2D894D19778939bD4DfC34D2a3C45E96456",
+            "token0": "UNI",
+            "amount0": 16732874757310126161,
+            "token1": "USDT",
+            "amount1": -149235587,
+            "timestamp": "2024-06-29 19:30:47",
+            "pool_liquidity": 6952381538309801
+        },
+        {
+            "tx_hash": "0x2690db6dade6606a0c0a25dd7880dbdb62cda360562daa94bebc90cf8ed84d90",
+            "user_address": "0xeCa2e2D894D19778939bD4DfC34D2a3C45E96456",
+            "token0": "UNI",
+            "amount0": 13501717733747724381,
+            "token1": "USDT",
+            "amount1": -105344533,
+            "timestamp": "2024-07-07 21:14:59",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0x9cae6ed70dd486e11ada247aedd173e6ac9369a0c40a7f612bfeed953878052f",
+            "user_address": "0xeCa2e2D894D19778939bD4DfC34D2a3C45E96456",
+            "token0": "UNI",
+            "amount0": -19723249821416170690,
+            "token1": "USDT",
+            "amount1": 147539470,
+            "timestamp": "2024-07-08 02:25:35",
+            "pool_liquidity": 6911452258372399
+        }
+    ],
+    "0x2bd1A367dfCb7c32Ed699B275b9376e0825f05af": [
+        {
+            "tx_hash": "0xf6a223165b4c7a358df3900fab1574f014d6412895c0c918a14e4835fc0cf6db",
+            "user_address": "0x2bd1A367dfCb7c32Ed699B275b9376e0825f05af",
+            "token0": "UNI",
+            "amount0": -5309671726979327274,
+            "token1": "USDT",
+            "amount1": 49850000,
+            "timestamp": "2024-06-25 06:27:59",
+            "pool_liquidity": 6270823046822923
+        }
+    ],
+    "0x4236D751fa8Bb2141b4407dfad9E88E2BDEC1880": [
+        {
+            "tx_hash": "0xc68186902305e7ed9dac2ebdcde6e0098480045ce8a27fdc6f9eedf4bcaf71d5",
+            "user_address": "0x4236D751fa8Bb2141b4407dfad9E88E2BDEC1880",
+            "token0": "UNI",
+            "amount0": -210938958270718099,
+            "token1": "USDT",
+            "amount1": 1995180,
+            "timestamp": "2024-06-27 23:21:23",
+            "pool_liquidity": 6610070915337131
+        }
+    ],
+    "0xA57e55ec968aAF937c4Df7179cC884381b684C28": [
+        {
+            "tx_hash": "0xe5907082f60408fb0c75898cf116b139c532e942aa5262482d6d9364b30477de",
+            "user_address": "0xA57e55ec968aAF937c4Df7179cC884381b684C28",
+            "token0": "UNI",
+            "amount0": 21404407031122464768,
+            "token1": "USDT",
+            "amount1": -202122940,
+            "timestamp": "2024-06-28 09:10:47",
+            "pool_liquidity": 6610070915337131
+        },
+        {
+            "tx_hash": "0x6aa35e3936ea3e9419779c7e29204a40143c630b114ba79b67e0fac5d9e5b5ec",
+            "user_address": "0xA57e55ec968aAF937c4Df7179cC884381b684C28",
+            "token0": "UNI",
+            "amount0": 29335388568536457216,
+            "token1": "USDT",
+            "amount1": -216863415,
+            "timestamp": "2024-07-05 02:51:23",
+            "pool_liquidity": 6911452258372399
+        },
+        {
+            "tx_hash": "0x8b28c4c1652acbd1c34630d7d667940e8df64d11795356fb4831c8c9996da677",
+            "user_address": "0xA57e55ec968aAF937c4Df7179cC884381b684C28",
+            "token0": "UNI",
+            "amount0": -133692350249738876152,
+            "token1": "USDT",
+            "amount1": 1056840944,
+            "timestamp": "2024-07-12 02:23:59",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0xA5A13F62ce1113838e0d9B4559b8CAf5F76463C0": [
+        {
+            "tx_hash": "0xd066b4f5930a32db6537c888977273ba15baa731640240eadbb77032207b8d8f",
+            "user_address": "0xA5A13F62ce1113838e0d9B4559b8CAf5F76463C0",
+            "token0": "UNI",
+            "amount0": 16231234365796311523,
+            "token1": "USDT",
+            "amount1": -145654395,
+            "timestamp": "2024-06-29 13:11:59",
+            "pool_liquidity": 6952381538309801
+        },
+        {
+            "tx_hash": "0x712bfa8938f30731d5b51d57dfad29df24ed77d2832bce29408de993b085d7f5",
+            "user_address": "0xA5A13F62ce1113838e0d9B4559b8CAf5F76463C0",
+            "token0": "UNI",
+            "amount0": -18475528920345536181,
+            "token1": "USDT",
+            "amount1": 169090214,
+            "timestamp": "2024-06-30 22:22:11",
+            "pool_liquidity": 6610070915337131
+        },
+        {
+            "tx_hash": "0x32b12146eebd26f7d81cdbe2a32312c07a65a260232ce1cd68240a46afdbb900",
+            "user_address": "0xA5A13F62ce1113838e0d9B4559b8CAf5F76463C0",
+            "token0": "UNI",
+            "amount0": 24136234531098371132,
+            "token1": "USDT",
+            "amount1": -191881802,
+            "timestamp": "2024-07-11 03:20:59",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0x46547f6fffe0b3176b2ca2e3cdda72bb10d3611346a69dc15e28fbc0f01b2c4d",
+            "user_address": "0xA5A13F62ce1113838e0d9B4559b8CAf5F76463C0",
+            "token0": "UNI",
+            "amount0": 144491859951157984673,
+            "token1": "USDT",
+            "amount1": -1135909625,
+            "timestamp": "2024-07-11 21:20:47",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0x120EF026EACD78fB8eBeAeb4A73D71b96327DDf6": [
+        {
+            "tx_hash": "0xc8e88eabb29585f35fd92eb45a34389e8b2e7024406c287f7e6992c7e21668de",
+            "user_address": "0x120EF026EACD78fB8eBeAeb4A73D71b96327DDf6",
+            "token0": "UNI",
+            "amount0": -61846736427766529119,
+            "token1": "USDT",
+            "amount1": 570045884,
+            "timestamp": "2024-06-29 16:23:23",
+            "pool_liquidity": 6610070915337131
+        }
+    ],
+    "0x0951b0B2cc25F7a0b7466b48a0deE6B71c948355": [
+        {
+            "tx_hash": "0x41c392f0230f9b837c236a34f00160b71d9e6bf36741bab63e61ab03a93b7c90",
+            "user_address": "0x0951b0B2cc25F7a0b7466b48a0deE6B71c948355",
+            "token0": "UNI",
+            "amount0": 52708086732414417942,
+            "token1": "USDT",
+            "amount1": -484906920,
+            "timestamp": "2024-06-29 16:23:23",
+            "pool_liquidity": 6952381538309801
+        }
+    ],
+    "0x7ab9df0E46Ad7d0139c278518E72F66e3aF1596D": [
+        {
+            "tx_hash": "0x999939371b277159d0e19860f89f9341254193e50df662e3cdf9bb7c378f6893",
+            "user_address": "0x7ab9df0E46Ad7d0139c278518E72F66e3aF1596D",
+            "token0": "UNI",
+            "amount0": 11000000000000000000,
+            "token1": "USDT",
+            "amount1": -96197393,
+            "timestamp": "2024-06-30 02:54:47",
+            "pool_liquidity": 6952381538309801
+        }
+    ],
+    "0x1c8F6A5F009E051CaB9C3851ca2DA2c936b2775A": [
+        {
+            "tx_hash": "0x1050943ca8d27f788686a392a3661fbf6de3ab062f42dba04021e54ebd746888",
+            "user_address": "0x1c8F6A5F009E051CaB9C3851ca2DA2c936b2775A",
+            "token0": "UNI",
+            "amount0": -13661569671615673905,
+            "token1": "USDT",
+            "amount1": 120331928,
+            "timestamp": "2024-06-30 03:17:35",
+            "pool_liquidity": 6952381538309801
+        }
+    ],
+    "0x432eBB95CE31E6b252fff3ef034648251947753C": [
+        {
+            "tx_hash": "0x9cdbea1c51dfe7d14ff3318c6a8e8df0899f49225bc0da89fbbf89aabbf0739d",
+            "user_address": "0x432eBB95CE31E6b252fff3ef034648251947753C",
+            "token0": "UNI",
+            "amount0": -10000063506973028602,
+            "token1": "USDT",
+            "amount1": 88975922,
+            "timestamp": "2024-06-30 05:14:23",
+            "pool_liquidity": 6952381538309801
+        }
+    ],
+    "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9": [
+        {
+            "tx_hash": "0x00aef9d4f4bb43dd1388b2959010ec401277bf34d637763602ade1b2a35d3a0b",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": 25146937047727185920,
+            "token1": "USDT",
+            "amount1": -234565565,
+            "timestamp": "2024-06-26 18:19:23",
+            "pool_liquidity": 6610070915337131
+        },
+        {
+            "tx_hash": "0x18cdd35af461dd724fa4663659c3e9216f5b0d8ce5e35badff2fe2e1e589b7d2",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": 63682164240844029952,
+            "token1": "USDT",
+            "amount1": -454086658,
+            "timestamp": "2024-07-05 02:59:47",
+            "pool_liquidity": 6911452258372399
+        },
+        {
+            "tx_hash": "0xf079aaf81d1fecdef5f272a303a53ebbaa1982d2f2b241aa548180207c40ca18",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": 30103669888285728768,
+            "token1": "USDT",
+            "amount1": -223596571,
+            "timestamp": "2024-07-08 01:26:35",
+            "pool_liquidity": 6911452258372399
+        },
+        {
+            "tx_hash": "0x6c8cfc112588c17e1f449a7f6ef17be52fff949412e16aa621d9051f84eb6171",
+            "user_address": "0xb64619712B73Fb0E6740040Af205A0f8134eF8F9",
+            "token0": "UNI",
+            "amount0": -25840503220554900037,
+            "token1": "USDT",
+            "amount1": 199975646,
+            "timestamp": "2024-07-08 08:06:35",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x431B5A84aCC1297Eda88259f300262F1bc3A74f3": [
+        {
+            "tx_hash": "0x2b2fd586599a7e5b1c9b8e4d5e9f0b6aa5841345d236821220bc2524c117d5a5",
+            "user_address": "0x431B5A84aCC1297Eda88259f300262F1bc3A74f3",
+            "token0": "UNI",
+            "amount0": 14947191430372802021,
+            "token1": "USDT",
+            "amount1": -137216655,
+            "timestamp": "2024-07-02 00:03:47",
+            "pool_liquidity": 6610070915337131
+        },
+        {
+            "tx_hash": "0xf7a61bcb807d8d8859023ac1c04288b7884f8d3513bb398546a38aea45b1e3ff",
+            "user_address": "0x431B5A84aCC1297Eda88259f300262F1bc3A74f3",
+            "token0": "UNI",
+            "amount0": 38487352818933556425,
+            "token1": "USDT",
+            "amount1": -293838312,
+            "timestamp": "2024-07-05 00:20:11",
+            "pool_liquidity": 6911452258372399
+        },
+        {
+            "tx_hash": "0xee10762c255c4c04cbb0b5c81b9091e04134140093c647a43f668fe7d6facdc6",
+            "user_address": "0x431B5A84aCC1297Eda88259f300262F1bc3A74f3",
+            "token0": "UNI",
+            "amount0": -32004021281739427101,
+            "token1": "USDT",
+            "amount1": 234143512,
+            "timestamp": "2024-07-05 11:46:11",
+            "pool_liquidity": 6911452258372399
+        }
+    ],
+    "0x57C82Cc9375BD839cae7DEA05266B4e353074472": [
+        {
+            "tx_hash": "0x739dd1b59b7ca57c5666f8cb05d177986c1d156008b165ab23728f676097b569",
+            "user_address": "0x57C82Cc9375BD839cae7DEA05266B4e353074472",
+            "token0": "UNI",
+            "amount0": -10939103334532307186,
+            "token1": "USDT",
+            "amount1": 99400000,
+            "timestamp": "2024-07-02 13:24:23",
+            "pool_liquidity": 6610070915337131
+        },
+        {
+            "tx_hash": "0xe0e862d2d2cff9ba8b8331295ac5f2e635e7a0ab68dcd5ac730b10c2bc4e993c",
+            "user_address": "0x57C82Cc9375BD839cae7DEA05266B4e353074472",
+            "token0": "UNI",
+            "amount0": -12369480674893411485,
+            "token1": "USDT",
+            "amount1": 99400000,
+            "timestamp": "2024-07-11 02:39:59",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0xe4636c1bf71525df2d5cb5d76e170ebad1cdf5065230101add1655c05dd37b0a",
+            "user_address": "0x57C82Cc9375BD839cae7DEA05266B4e353074472",
+            "token0": "UNI",
+            "amount0": -14124529255244208072,
+            "token1": "USDT",
+            "amount1": 99400000,
+            "timestamp": "2024-07-05 04:27:23",
+            "pool_liquidity": 6911452258372399
+        }
+    ],
+    "0x546b7CBeD0fC6B424FC8f7debfddd3066d93786d": [
+        {
+            "tx_hash": "0x92b0d5cb85bea4432df244dd5513323384a1fa7bf10e7841f43384514080d4d3",
+            "user_address": "0x546b7CBeD0fC6B424FC8f7debfddd3066d93786d",
+            "token0": "UNI",
+            "amount0": 52272956420000000000,
+            "token1": "USDT",
+            "amount1": -463873817,
+            "timestamp": "2024-07-02 14:44:47",
+            "pool_liquidity": 6952381538309801
+        }
+    ],
+    "0x03D9c4E0840626354D395c01aD5514FEDE8C7f8c": [
+        {
+            "tx_hash": "0x6459162ecb2727918b1b056111a92cdc120b043ddb29ae53cb03db465f80ac70",
+            "user_address": "0x03D9c4E0840626354D395c01aD5514FEDE8C7f8c",
+            "token0": "UNI",
+            "amount0": 28000910645866741760,
+            "token1": "USDT",
+            "amount1": -248076175,
+            "timestamp": "2024-07-03 03:16:35",
+            "pool_liquidity": 6952381538309801
+        }
+    ],
+    "0x60b86AF869f23aEb552fB7F3CaBD11B829f6Ab2F": [
+        {
+            "tx_hash": "0x119415544b2eb9cb35945949bbd4b235578fcb4f85e296d4417098aa4b212759",
+            "user_address": "0x60b86AF869f23aEb552fB7F3CaBD11B829f6Ab2F",
+            "token0": "UNI",
+            "amount0": -16745064448458907012,
+            "token1": "USDT",
+            "amount1": 148532540,
+            "timestamp": "2024-07-03 06:49:11",
+            "pool_liquidity": 6952381538309801
+        }
+    ],
+    "0xbBC2A11Fae7171b32d607df3c4E0Dc63D18ee5d2": [
+        {
+            "tx_hash": "0x64c66534bf0fc22e08a6cc0e306473ff8e0ff59aabfbbc28c960b331e49696e2",
+            "user_address": "0xbBC2A11Fae7171b32d607df3c4E0Dc63D18ee5d2",
+            "token0": "UNI",
+            "amount0": -25863855270128376497,
+            "token1": "USDT",
+            "amount1": 228094790,
+            "timestamp": "2024-07-03 16:33:59",
+            "pool_liquidity": 6952381538309801
+        }
+    ],
+    "0x5EC4eBA528C8eB8477aE9Ec625555f412a710c9F": [
+        {
+            "tx_hash": "0x1eaf971980956bc95943690bfefd0326cf0fc0b5cb4ac0f0665760273a1d1409",
+            "user_address": "0x5EC4eBA528C8eB8477aE9Ec625555f412a710c9F",
+            "token0": "UNI",
+            "amount0": 24517438964429688832,
+            "token1": "USDT",
+            "amount1": -201563126,
+            "timestamp": "2024-07-04 06:30:35",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xB25b8AB695F767542FC5E6Cb1aE7C3AF7aADb37d": [
+        {
+            "tx_hash": "0xeef7636efb2a3de4e651bc3aadf8a01653fa83640cef81e09d8494cdf6235e0e",
+            "user_address": "0xB25b8AB695F767542FC5E6Cb1aE7C3AF7aADb37d",
+            "token0": "UNI",
+            "amount0": 11993588000000000000,
+            "token1": "USDT",
+            "amount1": -94223886,
+            "timestamp": "2024-07-04 21:50:23",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x678111a6cA5749f1744b5E080A855CEC8d631E20": [
+        {
+            "tx_hash": "0x7bcdfee69af584660ce380a247aa8a7240d6359ad1501fdf792c846526fd8716",
+            "user_address": "0x678111a6cA5749f1744b5E080A855CEC8d631E20",
+            "token0": "UNI",
+            "amount0": -11182446755992954821,
+            "token1": "USDT",
+            "amount1": 88353134,
+            "timestamp": "2024-07-04 21:55:11",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0x926b3fe03301871c627a6790dcd7c91c3ae49c05b868bc2496151cd22f1ae8db",
+            "user_address": "0x678111a6cA5749f1744b5E080A855CEC8d631E20",
+            "token0": "UNI",
+            "amount0": -5397444062053735952,
+            "token1": "USDT",
+            "amount1": 42932683,
+            "timestamp": "2024-07-04 22:40:59",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x8967aCa6dcB7fD4AcAf3899BC85a98E8a54ba787": [
+        {
+            "tx_hash": "0x6ecc489ef271058afff94e2479cbd6d0bfd591b6e6d708ffd4de7a7e0505dbd7",
+            "user_address": "0x8967aCa6dcB7fD4AcAf3899BC85a98E8a54ba787",
+            "token0": "UNI",
+            "amount0": 27169822346655436800,
+            "token1": "USDT",
+            "amount1": -212949167,
+            "timestamp": "2024-07-04 23:21:59",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0x2520f93cfdc8779705eb0094692c55f2b5324217768b3f39178a0a4d640cf973",
+            "user_address": "0x8967aCa6dcB7fD4AcAf3899BC85a98E8a54ba787",
+            "token0": "UNI",
+            "amount0": 232097700501082636288,
+            "token1": "USDT",
+            "amount1": -1824698286,
+            "timestamp": "2024-07-11 15:47:35",
+            "pool_liquidity": 305309151523603468
+        },
+        {
+            "tx_hash": "0x077acd285a28190eae4969649e83b6098b6121a543eb630dd10e62308a14d841",
+            "user_address": "0x8967aCa6dcB7fD4AcAf3899BC85a98E8a54ba787",
+            "token0": "UNI",
+            "amount0": -32832218212626853822,
+            "token1": "USDT",
+            "amount1": 234230997,
+            "timestamp": "2024-07-05 10:30:47",
+            "pool_liquidity": 6911452258372399
+        }
+    ],
+    "0x41995207Fcf9372864b0f15534CB86Cc304F1587": [
+        {
+            "tx_hash": "0xbf5708364676f0a7656a10c443cdcdbc2934d76811dbfffb62703bfcfb9b028d",
+            "user_address": "0x41995207Fcf9372864b0f15534CB86Cc304F1587",
+            "token0": "UNI",
+            "amount0": 27809689433904513024,
+            "token1": "USDT",
+            "amount1": -256715095,
+            "timestamp": "2024-06-28 16:41:47",
+            "pool_liquidity": 6610070915337131
+        }
+    ],
+    "0xe97881a663A97B1FeCbfe51A6318f2d53c7A49cD": [
+        {
+            "tx_hash": "0x468e1f720875306781f5ddd90c9e2134e6a105be82229877fcc6a04bd6a004ab",
+            "user_address": "0xe97881a663A97B1FeCbfe51A6318f2d53c7A49cD",
+            "token0": "UNI",
+            "amount0": 22602114728479559680,
+            "token1": "USDT",
+            "amount1": -203930524,
+            "timestamp": "2024-06-28 18:22:47",
+            "pool_liquidity": 6952381538309801
+        }
+    ],
+    "0x0e3E59824b920e63911eadBb49d714CE90376a6f": [
+        {
+            "tx_hash": "0x4b0cf298bc9e5c352effefed29798643ccc76adf96bfc0a500d02c1869abf03e",
+            "user_address": "0x0e3E59824b920e63911eadBb49d714CE90376a6f",
+            "token0": "UNI",
+            "amount0": -22076578287997221567,
+            "token1": "USDT",
+            "amount1": 200348110,
+            "timestamp": "2024-06-28 19:38:11",
+            "pool_liquidity": 6610070915337131
+        }
+    ],
+    "0x0124D0fA0DfB1430dFcff16eC6A96945E7a0BC10": [
+        {
+            "tx_hash": "0xcfdc944b3889b860df34d27005b0e674392dc94eb827a4a3f7672023fe38efcf",
+            "user_address": "0x0124D0fA0DfB1430dFcff16eC6A96945E7a0BC10",
+            "token0": "UNI",
+            "amount0": 10603917004894460849,
+            "token1": "USDT",
+            "amount1": -95110095,
+            "timestamp": "2024-06-29 04:27:11",
+            "pool_liquidity": 6952381538309801
+        },
+        {
+            "tx_hash": "0xaefae38213fb3952baed6119e2feea2e6457ad56375d1bdc6e23509aa4e7e568",
+            "user_address": "0x0124D0fA0DfB1430dFcff16eC6A96945E7a0BC10",
+            "token0": "UNI",
+            "amount0": 10161594186208135022,
+            "token1": "USDT",
+            "amount1": -76818373,
+            "timestamp": "2024-07-08 04:55:47",
+            "pool_liquidity": 6911452258372399
+        }
+    ],
+    "0x29Bd2258485Da9f4224A99c512e14D4F64d81a50": [
+        {
+            "tx_hash": "0x6cc5dd96a3e0d18e0868fa1839a8dc05d9b9f55f756bd7408f007218bee9f149",
+            "user_address": "0x29Bd2258485Da9f4224A99c512e14D4F64d81a50",
+            "token0": "UNI",
+            "amount0": -6529329070983326589,
+            "token1": "USDT",
+            "amount1": 58813904,
+            "timestamp": "2024-06-29 04:46:35",
+            "pool_liquidity": 6952381538309801
+        }
+    ],
+    "0x3517624778Eb2A6003cEb9B3483216D59dA2E192": [
+        {
+            "tx_hash": "0xd9d192e9244e67549f38f47d1d3a9aed152261262e3b8133dacbba891f16fbb1",
+            "user_address": "0x3517624778Eb2A6003cEb9B3483216D59dA2E192",
+            "token0": "UNI",
+            "amount0": -7404906644041432881,
+            "token1": "USDT",
+            "amount1": 67103271,
+            "timestamp": "2024-06-29 05:35:47",
+            "pool_liquidity": 6952381538309801
+        }
+    ],
+    "0xe308DC183DA83b094A036ccDC93897510DA5a5D5": [
+        {
+            "tx_hash": "0x339006481b69974968e5cf6c8ec7ea78150e2b97f788cc59f2ee6473ac54d499",
+            "user_address": "0xe308DC183DA83b094A036ccDC93897510DA5a5D5",
+            "token0": "UNI",
+            "amount0": 1060298303308797828,
+            "token1": "USDT",
+            "amount1": -9413510,
+            "timestamp": "2024-06-30 07:53:35",
+            "pool_liquidity": 6952381538309801
+        }
+    ],
+    "0x188c91DAa2dd6B99331a65F87bE6F9b0F18F218f": [
+        {
+            "tx_hash": "0xa7c79956b49b17441ba9150497d383b0b7d5f0d21e4dd8b6d9b4463de9774077",
+            "user_address": "0x188c91DAa2dd6B99331a65F87bE6F9b0F18F218f",
+            "token0": "UNI",
+            "amount0": -21207418911463721873,
+            "token1": "USDT",
+            "amount1": 200274980,
+            "timestamp": "2024-07-01 02:10:35",
+            "pool_liquidity": 6610070915337131
+        },
+        {
+            "tx_hash": "0x45686a4b96c02c672bd6de1c7d3491c05ce5272cbdbf0762ba5893d3ed11165f",
+            "user_address": "0x188c91DAa2dd6B99331a65F87bE6F9b0F18F218f",
+            "token0": "UNI",
+            "amount0": 25285022687046189056,
+            "token1": "USDT",
+            "amount1": -214656087,
+            "timestamp": "2024-07-04 01:13:47",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0x9ef9352e789fc65d05423404cf134f7b848e4a8fa0249711dcaef85598120db3",
+            "user_address": "0x188c91DAa2dd6B99331a65F87bE6F9b0F18F218f",
+            "token0": "UNI",
+            "amount0": -203164254234650840411,
+            "token1": "USDT",
+            "amount1": 1593020311,
+            "timestamp": "2024-07-12 01:37:47",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0x8f1ba9871db3a7515c2f86041F9b27Eb54A6D32b": [
+        {
+            "tx_hash": "0xe8e2dab4d69e60b2cbdcc336626e6cd8e6deb350956ed140cc1ffdebaf7b495b",
+            "user_address": "0x8f1ba9871db3a7515c2f86041F9b27Eb54A6D32b",
+            "token0": "UNI",
+            "amount0": -461452619379727495,
+            "token1": "USDT",
+            "amount1": 4304648,
+            "timestamp": "2024-07-01 10:18:59",
+            "pool_liquidity": 6610070915337131
+        }
+    ],
+    "0x7d8E134ab26C72791b9868dD8df5A102f61e3786": [
+        {
+            "tx_hash": "0x4340a90e3fbb9a2ff6d48e3f652d4957466cdcb30d3251eebf6759da35740ced",
+            "user_address": "0x7d8E134ab26C72791b9868dD8df5A102f61e3786",
+            "token0": "UNI",
+            "amount0": 3694600000000000000,
+            "token1": "USDT",
+            "amount1": -34207647,
+            "timestamp": "2024-07-01 10:43:11",
+            "pool_liquidity": 6610070915337131
+        }
+    ],
+    "0xe190ACE68308464Dc43B8bd73eFa38CC23B93e76": [
+        {
+            "tx_hash": "0xf5d647b62e16860f73975c334e837e77fc6edb158837857774e578b1746f60c6",
+            "user_address": "0xe190ACE68308464Dc43B8bd73eFa38CC23B93e76",
+            "token0": "UNI",
+            "amount0": 3972000000000000000,
+            "token1": "USDT",
+            "amount1": -32082463,
+            "timestamp": "2024-07-10 16:52:23",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xf9acb7991F3FA91f4BE79882Ed22Dbe203AdaC5C": [
+        {
+            "tx_hash": "0x176b20521f6a51338773a3625daa068f8b929296a4e1a250121b4cb3ee7713f7",
+            "user_address": "0xf9acb7991F3FA91f4BE79882Ed22Dbe203AdaC5C",
+            "token0": "UNI",
+            "amount0": 9244441835873046986,
+            "token1": "USDT",
+            "amount1": -86757089,
+            "timestamp": "2024-07-01 09:31:23",
+            "pool_liquidity": 6610070915337131
+        }
+    ],
+    "0x80106E5297a148bC05d25A6FEA8C76e4B7BdCDAe": [
+        {
+            "tx_hash": "0xe195e5e7c5e044ebabc7746cfa61fe6fdf6e415357ef504af08511167cfeb212",
+            "user_address": "0x80106E5297a148bC05d25A6FEA8C76e4B7BdCDAe",
+            "token0": "UNI",
+            "amount0": 8638800202544049583,
+            "token1": "USDT",
+            "amount1": -80406437,
+            "timestamp": "2024-07-01 09:43:11",
+            "pool_liquidity": 6610070915337131
+        }
+    ],
+    "0x421125ca608A35458B2C99DA39CD55B70bA202a4": [
+        {
+            "tx_hash": "0x5cc0898d9f2a2e9c43332e064470f2099e6100255f6b40bcd4570df0e1d30779",
+            "user_address": "0x421125ca608A35458B2C99DA39CD55B70bA202a4",
+            "token0": "UNI",
+            "amount0": 17872870741606239889,
+            "token1": "USDT",
+            "amount1": -143083061,
+            "timestamp": "2024-07-11 00:19:35",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0xc2468ddcc49bf50aa2aa7c084374d85b22832ee97f5243ccd2ff2be348c2b6e3",
+            "user_address": "0x421125ca608A35458B2C99DA39CD55B70bA202a4",
+            "token0": "UNI",
+            "amount0": 54225514415909969315,
+            "token1": "USDT",
+            "amount1": -423664259,
+            "timestamp": "2024-07-08 14:34:35",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x35A20ccD6f346b87E99C7030A0a95bd9f2E3c22C": [
+        {
+            "tx_hash": "0xaad7e60c640eca8e351cbde8ec2b023abc65c26c6ea6c88855452be5ffcf9eca",
+            "user_address": "0x35A20ccD6f346b87E99C7030A0a95bd9f2E3c22C",
+            "token0": "UNI",
+            "amount0": -9970360160990871285,
+            "token1": "USDT",
+            "amount1": 79760000,
+            "timestamp": "2024-07-11 13:07:11",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xFF82BF5238637B7E5E345888BaB9cd99F5Ebe331": [
+        {
+            "tx_hash": "0x5fea58bb466eaa97ec8ab63b0b0ecb9946afa6cad5c738c7665b76b0da87954a",
+            "user_address": "0xFF82BF5238637B7E5E345888BaB9cd99F5Ebe331",
+            "token0": "UNI",
+            "amount0": -302276329600893662204,
+            "token1": "USDT",
+            "amount1": 2378807467,
+            "timestamp": "2024-07-11 16:20:35",
+            "pool_liquidity": 305309151523603468
+        },
+        {
+            "tx_hash": "0xe417758fd3281a3c0bebfb3e426deb2bb9f5bef6dc5c72985f1ca3dbc4f34401",
+            "user_address": "0xFF82BF5238637B7E5E345888BaB9cd99F5Ebe331",
+            "token0": "UNI",
+            "amount0": -21683127842824486795,
+            "token1": "USDT",
+            "amount1": 174776024,
+            "timestamp": "2024-07-06 16:41:59",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0xa2a498a5992da2b9e074de55384cec048baa1e0dde85b7657557d0ad91b34db7",
+            "user_address": "0xFF82BF5238637B7E5E345888BaB9cd99F5Ebe331",
+            "token0": "UNI",
+            "amount0": -15433421505487569609,
+            "token1": "USDT",
+            "amount1": 119939088,
+            "timestamp": "2024-07-06 06:41:23",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0xf4b13597bece0f798e21201a0e7903df541c74c97ac43ade738ba8aa70d234ad",
+            "user_address": "0xFF82BF5238637B7E5E345888BaB9cd99F5Ebe331",
+            "token0": "UNI",
+            "amount0": -13946762592421841662,
+            "token1": "USDT",
+            "amount1": 106230161,
+            "timestamp": "2024-07-08 04:56:47",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xc2Abc0ec201fb685ac62dFe1CaE9565AF1d79233": [
+        {
+            "tx_hash": "0x314dabd51e1fb88891aab2b11cabbf31eecd920942133e9edf662849b92c538c",
+            "user_address": "0xc2Abc0ec201fb685ac62dFe1CaE9565AF1d79233",
+            "token0": "UNI",
+            "amount0": 9750000000000000000,
+            "token1": "USDT",
+            "amount1": -76474335,
+            "timestamp": "2024-07-11 16:42:59",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0x408613bA0Eaf85675999cD3729ea3cbff84a6b21": [
+        {
+            "tx_hash": "0x94556caf1dd837c9bb42a4f4b15aff3abb752a31022770f3be4aa06a3c5c0b48",
+            "user_address": "0x408613bA0Eaf85675999cD3729ea3cbff84a6b21",
+            "token0": "UNI",
+            "amount0": -202721339266084158018,
+            "token1": "USDT",
+            "amount1": 1602483406,
+            "timestamp": "2024-07-11 17:06:47",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0x8cb2aba2eb8113a75131e07f0face441b23232ef898328d940f5b0d2210f38a1",
+            "user_address": "0x408613bA0Eaf85675999cD3729ea3cbff84a6b21",
+            "token0": "UNI",
+            "amount0": 28182503835204288512,
+            "token1": "USDT",
+            "amount1": -247290995,
+            "timestamp": "2024-07-03 10:30:59",
+            "pool_liquidity": 6952381538309801
+        }
+    ],
+    "0x2A31c7C2C45Bc8f5e9113BA4C9E3CB6b7FeDCfa9": [
+        {
+            "tx_hash": "0x5a8b9cce53ec2cd1767e1cdc3398f984a32386afeb7129af9210a8fb3db10bdf",
+            "user_address": "0x2A31c7C2C45Bc8f5e9113BA4C9E3CB6b7FeDCfa9",
+            "token0": "UNI",
+            "amount0": -126642349208558897554,
+            "token1": "USDT",
+            "amount1": 1001292180,
+            "timestamp": "2024-07-12 00:39:35",
+            "pool_liquidity": 305309151523603468
+        },
+        {
+            "tx_hash": "0x703e25b3135dbfc948ebd197c968a01192866a97a0634f965d095cc0cfc02d77",
+            "user_address": "0x2A31c7C2C45Bc8f5e9113BA4C9E3CB6b7FeDCfa9",
+            "token0": "UNI",
+            "amount0": 187325226029650903040,
+            "token1": "USDT",
+            "amount1": -1472124512,
+            "timestamp": "2024-07-11 20:14:35",
+            "pool_liquidity": 305309151523603468
+        },
+        {
+            "tx_hash": "0xebbe7224274147a15e35cfb45202ecd1799832d4629ce986f07c07ceb0fcc5c0",
+            "user_address": "0x2A31c7C2C45Bc8f5e9113BA4C9E3CB6b7FeDCfa9",
+            "token0": "UNI",
+            "amount0": 154440993802736599040,
+            "token1": "USDT",
+            "amount1": -1206635566,
+            "timestamp": "2024-07-11 23:21:35",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0x36a454aEF52938c8637CD4689B2980C1Cfd43389": [
+        {
+            "tx_hash": "0x45838973e700970ce27952e9f8a7666f09816d4795957c94123026911b92a84b",
+            "user_address": "0x36a454aEF52938c8637CD4689B2980C1Cfd43389",
+            "token0": "UNI",
+            "amount0": 119664025409600458401,
+            "token1": "USDT",
+            "amount1": -940513596,
+            "timestamp": "2024-07-12 01:14:23",
+            "pool_liquidity": 305309151523603468
+        },
+        {
+            "tx_hash": "0xdcef4c517481da73b66dd8f62baa9dee4d8f64f4c563541288a99d57afba1b5a",
+            "user_address": "0x36a454aEF52938c8637CD4689B2980C1Cfd43389",
+            "token0": "UNI",
+            "amount0": 14991473803708008087,
+            "token1": "USDT",
+            "amount1": -118943090,
+            "timestamp": "2024-07-07 12:45:11",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0xc5d9d42687aa244a110269ef6e0839fada5dd16b3622b06f5f7fc74a72c8a4d9",
+            "user_address": "0x36a454aEF52938c8637CD4689B2980C1Cfd43389",
+            "token0": "UNI",
+            "amount0": 120253285581887277656,
+            "token1": "USDT",
+            "amount1": -945029613,
+            "timestamp": "2024-07-12 04:10:11",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0xa483254773CFe94d502557099945Caf90725473f": [
+        {
+            "tx_hash": "0x8c23d511c8013739b635ee5188a8bdab211d29e0c634e85e830e695ac2939e48",
+            "user_address": "0xa483254773CFe94d502557099945Caf90725473f",
+            "token0": "UNI",
+            "amount0": 167179540985253208225,
+            "token1": "USDT",
+            "amount1": -1310518886,
+            "timestamp": "2024-07-12 01:15:35",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0xaFDc6373e653FcBd4583F41E2A5742cFcB5Effc7": [
+        {
+            "tx_hash": "0xa645f7c05361cd786db3fef86e8233988602191f400abe7f8809880b983c4464",
+            "user_address": "0xaFDc6373e653FcBd4583F41E2A5742cFcB5Effc7",
+            "token0": "UNI",
+            "amount0": 154062633469134263298,
+            "token1": "USDT",
+            "amount1": -1204150834,
+            "timestamp": "2024-07-12 01:18:11",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0x0CA5Dc4c3b675B441229fc1D8e8b5ad912588e5e": [
+        {
+            "tx_hash": "0x5700095e39e3fc6b33cdd43ae57a6299d0a7bc37f7c75daa38350ee9b56ca5a8",
+            "user_address": "0x0CA5Dc4c3b675B441229fc1D8e8b5ad912588e5e",
+            "token0": "UNI",
+            "amount0": 177464568149260107776,
+            "token1": "USDT",
+            "amount1": -1382865210,
+            "timestamp": "2024-07-12 01:19:23",
+            "pool_liquidity": 305309151523603468
+        },
+        {
+            "tx_hash": "0x5d7aaf424ce514fc1227933b71012791a9df3dd4b28a8cb53f8ebf56325803c1",
+            "user_address": "0x0CA5Dc4c3b675B441229fc1D8e8b5ad912588e5e",
+            "token0": "UNI",
+            "amount0": -44065368603083987210,
+            "token1": "USDT",
+            "amount1": 344951914,
+            "timestamp": "2024-07-08 14:47:35",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819": [
+        {
+            "tx_hash": "0xdf90009f6f4284c968c3762edc0a3308a54ebee2cea6e7b50105eb5988637386",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": 164663589360199401472,
+            "token1": "USDT",
+            "amount1": -1279117101,
+            "timestamp": "2024-07-12 01:25:35",
+            "pool_liquidity": 305309151523603468
+        },
+        {
+            "tx_hash": "0xc4e848d6aa533cf574912f910b56099d628145c380ea56599c5dc34f362d9899",
+            "user_address": "0x5B5871BFaE9e0fa8ca8A6dddf844e5B09c2E0819",
+            "token0": "UNI",
+            "amount0": 36224291001364795392,
+            "token1": "USDT",
+            "amount1": -299757688,
+            "timestamp": "2024-07-04 01:43:47",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x578aFFeE4b4AE2E34d3D6E9661c8c812BB60131B": [
+        {
+            "tx_hash": "0xd4974da48431e3dbffcc5bad3a6aabcce9f897e045722e00d9823dd43f6c9716",
+            "user_address": "0x578aFFeE4b4AE2E34d3D6E9661c8c812BB60131B",
+            "token0": "UNI",
+            "amount0": -2002604841787237178,
+            "token1": "USDT",
+            "amount1": 16622459,
+            "timestamp": "2024-07-04 03:42:11",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x4AA3A9d749806447F64229B2eC755B9FE4742643": [
+        {
+            "tx_hash": "0x71dba7eeb597063f174f8256ab41e4294b18517854d6173e29a9ea1e962c3e53",
+            "user_address": "0x4AA3A9d749806447F64229B2eC755B9FE4742643",
+            "token0": "UNI",
+            "amount0": 37405539851897158787,
+            "token1": "USDT",
+            "amount1": -299822379,
+            "timestamp": "2024-07-04 12:53:35",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xE21fDAD34928A4Cbc83245d3E0b22711690BC9cD": [
+        {
+            "tx_hash": "0x79b6f9966d5766d5e03610ed2dcc8c2b43ac2d72e506607fb5e327d752ac3f36",
+            "user_address": "0xE21fDAD34928A4Cbc83245d3E0b22711690BC9cD",
+            "token0": "UNI",
+            "amount0": -12518491544127937907,
+            "token1": "USDT",
+            "amount1": 92846590,
+            "timestamp": "2024-07-05 01:51:47",
+            "pool_liquidity": 6911452258372399
+        }
+    ],
+    "0x5449E9c1af70f70013a3EDB7264E8Ee0Ef2e8034": [
+        {
+            "tx_hash": "0x36085a66d006df6741083fc69a6b60f3b5512d11c5795ff2bd90109037efcd8d",
+            "user_address": "0x5449E9c1af70f70013a3EDB7264E8Ee0Ef2e8034",
+            "token0": "UNI",
+            "amount0": 74920266013139434584,
+            "token1": "USDT",
+            "amount1": -512226697,
+            "timestamp": "2024-07-05 04:50:47",
+            "pool_liquidity": 6911452258372399
+        }
+    ],
+    "0x042523DB4F3Effc33d2742022B2490258494f8B3": [
+        {
+            "tx_hash": "0x37c4048aa8f54829f7a881f7d6a0fbb5806a1ac8f741649ff2439c604a5af2dc",
+            "user_address": "0x042523DB4F3Effc33d2742022B2490258494f8B3",
+            "token0": "UNI",
+            "amount0": -85186511497549606404,
+            "token1": "USDT",
+            "amount1": 588298655,
+            "timestamp": "2024-07-05 04:50:47",
+            "pool_liquidity": 6911452258372399
+        }
+    ],
+    "0x8a8285f839b406207C82AFaE6A3d940af670D898": [
+        {
+            "tx_hash": "0x264061f43764d722b5fee10efb8e6ba66c050d35ae5d3f8ecea21121f9751f9a",
+            "user_address": "0x8a8285f839b406207C82AFaE6A3d940af670D898",
+            "token0": "UNI",
+            "amount0": 4208837419413223944,
+            "token1": "USDT",
+            "amount1": -30941782,
+            "timestamp": "2024-07-05 14:39:59",
+            "pool_liquidity": 6911452258372399
+        }
+    ],
+    "0x0515d080B6a16B8f732d798a5546667c51A224EA": [
+        {
+            "tx_hash": "0x7c076d451303fa9d882191cdc61bdcb29575e267c2d47c43d88b6d43c60d9c28",
+            "user_address": "0x0515d080B6a16B8f732d798a5546667c51A224EA",
+            "token0": "UNI",
+            "amount0": -14230378632385416440,
+            "token1": "USDT",
+            "amount1": 99700000,
+            "timestamp": "2024-07-05 10:07:47",
+            "pool_liquidity": 6911452258372399
+        }
+    ],
+    "0x76e40D0a69Fd81826B5eb7D18145626d46EAFdef": [
+        {
+            "tx_hash": "0xf7c84638128927c6eb4e85cd07b7b5d2a8dd502112f1489cd7b3d51133cc4dfc",
+            "user_address": "0x76e40D0a69Fd81826B5eb7D18145626d46EAFdef",
+            "token0": "UNI",
+            "amount0": -16651555309141027718,
+            "token1": "USDT",
+            "amount1": 129883867,
+            "timestamp": "2024-07-06 00:34:11",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0x9454f6182137b035a095322766bb3c0605364753407ddf27735f09adf4df95c7",
+            "user_address": "0x76e40D0a69Fd81826B5eb7D18145626d46EAFdef",
+            "token0": "UNI",
+            "amount0": 13896142773906195176,
+            "token1": "USDT",
+            "amount1": -111812332,
+            "timestamp": "2024-07-07 04:37:11",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0xbb14fd0cc954adb029477ad2b9760d13f01e25845cc8e116a2923a8da69048f4",
+            "user_address": "0x76e40D0a69Fd81826B5eb7D18145626d46EAFdef",
+            "token0": "UNI",
+            "amount0": -20337841296713582365,
+            "token1": "USDT",
+            "amount1": 165736987,
+            "timestamp": "2024-07-10 04:10:47",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x55a0AbF28C768e9E925aCc6B8d9d176421c60E03": [
+        {
+            "tx_hash": "0xfca519662701e89bbb8f5ad75a64418598389685142fb0c3026779db5ddd70b0",
+            "user_address": "0x55a0AbF28C768e9E925aCc6B8d9d176421c60E03",
+            "token0": "UNI",
+            "amount0": 20697200480000000000,
+            "token1": "USDT",
+            "amount1": -160217569,
+            "timestamp": "2024-07-06 01:25:35",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0xcb2063c360a4ea9913a94e494fc07bd90e8e86d3638ef2e631fc9299fd0e8467",
+            "user_address": "0x55a0AbF28C768e9E925aCc6B8d9d176421c60E03",
+            "token0": "UNI",
+            "amount0": 15908795510000000000,
+            "token1": "USDT",
+            "amount1": -127862205,
+            "timestamp": "2024-07-08 13:06:11",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xCA8ca14DAE835F306a1C517953641324f5712de0": [
+        {
+            "tx_hash": "0x7d1850b28f092a914f700111da05b6b2843a8a1e561bd29dfedab04a5ce38fae",
+            "user_address": "0xCA8ca14DAE835F306a1C517953641324f5712de0",
+            "token0": "UNI",
+            "amount0": -5343471626173461478,
+            "token1": "USDT",
+            "amount1": 41874000,
+            "timestamp": "2024-07-06 11:55:47",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xA28062Bd708Ce49e9311d6293dEf7DF63f2b0816": [
+        {
+            "tx_hash": "0x525fe9e9f634c35f1c5cf25a5ad6c3f7d53f3aed6fb664097a53c24a4c0bcd2f",
+            "user_address": "0xA28062Bd708Ce49e9311d6293dEf7DF63f2b0816",
+            "token0": "UNI",
+            "amount0": -351853242105625471,
+            "token1": "USDT",
+            "amount1": 2763622,
+            "timestamp": "2024-07-06 12:27:59",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x4E0fb94480f579F136832EE9542d67D92Bfe8Dd1": [
+        {
+            "tx_hash": "0xd986b0eca8d14593d9b078bad97d498484fea3d0ead791e015ead2adf337ac35",
+            "user_address": "0x4E0fb94480f579F136832EE9542d67D92Bfe8Dd1",
+            "token0": "UNI",
+            "amount0": 25761710903508197376,
+            "token1": "USDT",
+            "amount1": -201064394,
+            "timestamp": "2024-07-07 13:43:23",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xb8Cb92746F47A7D0BE0a04999d3584BFeDBABba2": [
+        {
+            "tx_hash": "0x788fee896b304356b04e6cb2f2e33ac45e1f79b2295fd1ef0f196a7517f25903",
+            "user_address": "0xb8Cb92746F47A7D0BE0a04999d3584BFeDBABba2",
+            "token0": "UNI",
+            "amount0": -9074300073328481797,
+            "token1": "USDT",
+            "amount1": 71132727,
+            "timestamp": "2024-07-07 17:51:47",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x8C0553539Fb41cdd91B50cEdbe283b488F40D70a": [
+        {
+            "tx_hash": "0xea712653d29752e219fc5aded3d8a4ce1a7d6b72d52f5975a7219a6713125f2d",
+            "user_address": "0x8C0553539Fb41cdd91B50cEdbe283b488F40D70a",
+            "token0": "UNI",
+            "amount0": -10020790687198435738,
+            "token1": "USDT",
+            "amount1": 77331754,
+            "timestamp": "2024-07-05 20:06:11",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x3cb3eF0368a6548F71357F4d346330195BCA1160": [
+        {
+            "tx_hash": "0xe2f7d82579808332b7c5db1634930d3880675c63b1c8ccf3051e6ea2e0e7103e",
+            "user_address": "0x3cb3eF0368a6548F71357F4d346330195BCA1160",
+            "token0": "UNI",
+            "amount0": -13977333587576324152,
+            "token1": "USDT",
+            "amount1": 114321403,
+            "timestamp": "2024-07-06 21:04:47",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xd2CF565805CA58ab785895Fe80c3648AdfAE9845": [
+        {
+            "tx_hash": "0x9e21872e80eb02c7e6b0a0093a8fc221d333aa48352dc13901dcf7359b9aded9",
+            "user_address": "0xd2CF565805CA58ab785895Fe80c3648AdfAE9845",
+            "token0": "UNI",
+            "amount0": 379381071989218515,
+            "token1": "USDT",
+            "amount1": -3101692,
+            "timestamp": "2024-07-06 21:26:11",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x177B8EbE208cb71DA818b6b8814C946C027240Cd": [
+        {
+            "tx_hash": "0x740a51789d492145fbfd82e91d1d13e1076bfce98a49d13b19a1cc5686c2abaa",
+            "user_address": "0x177B8EbE208cb71DA818b6b8814C946C027240Cd",
+            "token0": "UNI",
+            "amount0": 15609638960021371778,
+            "token1": "USDT",
+            "amount1": -124101202,
+            "timestamp": "2024-07-07 07:35:11",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xAE976aae662505C655Ba97A6692dBBAE5cDb884B": [
+        {
+            "tx_hash": "0x121087be9db42b725ea4adcb1d758e22e8fed9ec9be898588a4e9beec1250bb2",
+            "user_address": "0xAE976aae662505C655Ba97A6692dBBAE5cDb884B",
+            "token0": "UNI",
+            "amount0": -12740704493911200470,
+            "token1": "USDT",
+            "amount1": 101785600,
+            "timestamp": "2024-07-07 11:12:59",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x3109826fFa4D0D684ef20F665F06c8ae40a7908E": [
+        {
+            "tx_hash": "0x0767fa903882eeb28d6f8e1ea76ca945f8e3baccf358ef233748610f99100770",
+            "user_address": "0x3109826fFa4D0D684ef20F665F06c8ae40a7908E",
+            "token0": "UNI",
+            "amount0": -3835411943974598203,
+            "token1": "USDT",
+            "amount1": 30222349,
+            "timestamp": "2024-07-07 21:02:35",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x77eB9084CE8168901bcb11F14f02A7aAb36fCd0c": [
+        {
+            "tx_hash": "0x2ced87695036cb3675dc8cda2ad4939b9eee67b5d93bbeefccb12b0e0a9c366f",
+            "user_address": "0x77eB9084CE8168901bcb11F14f02A7aAb36fCd0c",
+            "token0": "UNI",
+            "amount0": 13549967825253856156,
+            "token1": "USDT",
+            "amount1": -104581124,
+            "timestamp": "2024-07-07 23:37:23",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xbF7a18C881e971041fCB0D57a679e8944C742edF": [
+        {
+            "tx_hash": "0x6b9e94dac7ae1ff15de96537f38a5adb0b417dedf0bd4816b503b3bf2ccd3a92",
+            "user_address": "0xbF7a18C881e971041fCB0D57a679e8944C742edF",
+            "token0": "UNI",
+            "amount0": 26573251302534529024,
+            "token1": "USDT",
+            "amount1": -201849583,
+            "timestamp": "2024-07-08 00:39:11",
+            "pool_liquidity": 6911452258372399
+        },
+        {
+            "tx_hash": "0x5adaf79ef80dbc3742e700530f5cfcad699e48c27c45728087987ce3740fc5b9",
+            "user_address": "0xbF7a18C881e971041fCB0D57a679e8944C742edF",
+            "token0": "UNI",
+            "amount0": -25566527969486850147,
+            "token1": "USDT",
+            "amount1": 199974423,
+            "timestamp": "2024-07-12 13:18:11",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x0Fc06977378fd94aa23Af24ee75B993C265c140B": [
+        {
+            "tx_hash": "0x25836bbe6a44c51a1ed0d90a20c4e735c1a20edefc515f2e54165d9dd93baab3",
+            "user_address": "0x0Fc06977378fd94aa23Af24ee75B993C265c140B",
+            "token0": "UNI",
+            "amount0": -25314303615094751054,
+            "token1": "USDT",
+            "amount1": 199976106,
+            "timestamp": "2024-07-08 08:23:23",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0x2a395ce08d842248fd811a5d8b730fb495049728a730775bf48057614c89be71",
+            "user_address": "0x0Fc06977378fd94aa23Af24ee75B993C265c140B",
+            "token0": "UNI",
+            "amount0": -130956744049285690811,
+            "token1": "USDT",
+            "amount1": 1032701303,
+            "timestamp": "2024-07-12 02:18:35",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0x43bbAcFEdD7e52deD6f76d5575669b71b1B6EbBA": [
+        {
+            "tx_hash": "0x1b083c91181f6e036d1570c04cf12422d4be1ed081ecdcecf32602e4386b5835",
+            "user_address": "0x43bbAcFEdD7e52deD6f76d5575669b71b1B6EbBA",
+            "token0": "UNI",
+            "amount0": 7839929910000000000,
+            "token1": "USDT",
+            "amount1": -63311390,
+            "timestamp": "2024-07-09 06:57:23",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x8C3D58B7432195B2f7A2215283d7666bB42B61E6": [
+        {
+            "tx_hash": "0xd0c9c71bd27869a0b8d849cf9813a4079d5aa98656b3920ee525c52aa780a432",
+            "user_address": "0x8C3D58B7432195B2f7A2215283d7666bB42B61E6",
+            "token0": "UNI",
+            "amount0": 1452498189973501641,
+            "token1": "USDT",
+            "amount1": -11922645,
+            "timestamp": "2024-07-09 11:53:23",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xD4f9b170E0b5DDa0141864d29632BE7c92A752F3": [
+        {
+            "tx_hash": "0x779798750f78664494776632b241302485633cee9eafa7fd202c2608c766ec46",
+            "user_address": "0xD4f9b170E0b5DDa0141864d29632BE7c92A752F3",
+            "token0": "UNI",
+            "amount0": -7191936628630612361,
+            "token1": "USDT",
+            "amount1": 58800000,
+            "timestamp": "2024-07-09 20:27:11",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x520c602cb82538e9eb71d0310449F3e2EAFa9d18": [
+        {
+            "tx_hash": "0x3307f1a47ddd192043cb52dc7e511146adc29006c308aba2f6a64747cd662c2e",
+            "user_address": "0x520c602cb82538e9eb71d0310449F3e2EAFa9d18",
+            "token0": "UNI",
+            "amount0": 17805974808853776260,
+            "token1": "USDT",
+            "amount1": -144081394,
+            "timestamp": "2024-07-10 00:58:11",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0x69c11ef2fd571ba0228283b705139349831131c22978f3d504103e720c0face0",
+            "user_address": "0x520c602cb82538e9eb71d0310449F3e2EAFa9d18",
+            "token0": "UNI",
+            "amount0": 149019044356533097511,
+            "token1": "USDT",
+            "amount1": -1154070104,
+            "timestamp": "2024-07-12 10:08:47",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0xd17c6A7f820AdB768f568B8045e001CBB467D057": [
+        {
+            "tx_hash": "0xd5ced60ad5740c02f5e0c159e2decbc4d6d5ef7baa3f99d2f79d5cbebf164d21",
+            "user_address": "0xd17c6A7f820AdB768f568B8045e001CBB467D057",
+            "token0": "UNI",
+            "amount0": -7218737820360859738,
+            "token1": "USDT",
+            "amount1": 59391388,
+            "timestamp": "2024-07-13 11:38:47",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x4dcCA0Afc8Da8Db4aED6344a8bf2E9DEdcB85018": [
+        {
+            "tx_hash": "0x1eb206d85fb837a149672c445ef85f74b9e5b0fcb582a17416fd6dd12933bdc6",
+            "user_address": "0x4dcCA0Afc8Da8Db4aED6344a8bf2E9DEdcB85018",
+            "token0": "UNI",
+            "amount0": 7149679897570560275,
+            "token1": "USDT",
+            "amount1": -59883689,
+            "timestamp": "2024-07-15 11:10:11",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xde3a22Fc346A7ae8E4F84eaAEF9C0cCa016Bc20b": [
+        {
+            "tx_hash": "0x90d733caa87123da25514f033c7022f9e10406bd9dbbce3e7581b45e50424c40",
+            "user_address": "0xde3a22Fc346A7ae8E4F84eaAEF9C0cCa016Bc20b",
+            "token0": "UNI",
+            "amount0": -4000025918669192458,
+            "token1": "USDT",
+            "amount1": 33660973,
+            "timestamp": "2024-07-15 15:15:59",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x56f03DbC2D16f4A252A7176E1Fc3f05b53C6Aad5": [
+        {
+            "tx_hash": "0xb7deb1edd9e18008fc9dca426071e9b4162bc8acf5382c45e10d5bfcbaabafd8",
+            "user_address": "0x56f03DbC2D16f4A252A7176E1Fc3f05b53C6Aad5",
+            "token0": "UNI",
+            "amount0": -16456377180875020876,
+            "token1": "USDT",
+            "amount1": 133729956,
+            "timestamp": "2024-07-09 01:16:23",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x072CC4898CaBE51a937F2bF4265c69C4203C0D8c": [
+        {
+            "tx_hash": "0x6de88607de1910c6694435ca3aa70cbba53dd4ec4e202ade45b39e44a8b61abc",
+            "user_address": "0x072CC4898CaBE51a937F2bF4265c69C4203C0D8c",
+            "token0": "UNI",
+            "amount0": 2500000000000000000,
+            "token1": "USDT",
+            "amount1": -20042298,
+            "timestamp": "2024-07-09 03:12:23",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x74d02d1FeBBE6DFDCC318d386b3473bEDbED6fbF": [
+        {
+            "tx_hash": "0xcc61d97fbf1a27f23404074746b0e533af0c03d4fa8a1305dc8c292bf9213017",
+            "user_address": "0x74d02d1FeBBE6DFDCC318d386b3473bEDbED6fbF",
+            "token0": "UNI",
+            "amount0": 24877131889771945984,
+            "token1": "USDT",
+            "amount1": -202007999,
+            "timestamp": "2024-07-09 13:41:47",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xbC0D9b8201089fcdF3cecE45484Cee06c5a7C88d": [
+        {
+            "tx_hash": "0xd0842faa73432365c56c65e05de210686510e94f88ad9e8650baa28f84c25a27",
+            "user_address": "0xbC0D9b8201089fcdF3cecE45484Cee06c5a7C88d",
+            "token0": "UNI",
+            "amount0": -9823973955568186104,
+            "token1": "USDT",
+            "amount1": 79760000,
+            "timestamp": "2024-07-09 18:25:11",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x88bE76A1CB92fc36cB661FBE8FB6Ff6450D5b30b": [
+        {
+            "tx_hash": "0x148ae6561a420d02ccf9fa7c102682c37b7c8339ea8e24708aaed147346e0f81",
+            "user_address": "0x88bE76A1CB92fc36cB661FBE8FB6Ff6450D5b30b",
+            "token0": "UNI",
+            "amount0": -22498486932938311146,
+            "token1": "USDT",
+            "amount1": 186613525,
+            "timestamp": "2024-07-10 04:45:23",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x8aA7BA6eF3a9C653A6C93AA51eE8C7130D7Bd964": [
+        {
+            "tx_hash": "0x5477be81b5d1bf3c06c253d89662df387b2fe2ac571a344263c0a18f6bc2a0ca",
+            "user_address": "0x8aA7BA6eF3a9C653A6C93AA51eE8C7130D7Bd964",
+            "token0": "UNI",
+            "amount0": 9575183815400000000,
+            "token1": "USDT",
+            "amount1": -79369391,
+            "timestamp": "2024-07-10 06:48:47",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xD530068Ae13De839B9D9f40364B780E9345422FE": [
+        {
+            "tx_hash": "0x9e7efd017b200ce6e5235af7c9d45a296f5d86886fa3c805231536543c72e274",
+            "user_address": "0xD530068Ae13De839B9D9f40364B780E9345422FE",
+            "token0": "UNI",
+            "amount0": 24691499859413946368,
+            "token1": "USDT",
+            "amount1": -201799998,
+            "timestamp": "2024-07-10 07:47:11",
+            "pool_liquidity": 6941112317625206
+        },
+        {
+            "tx_hash": "0x04acb78780e50f67806370f4151dd5f0fedde47f0adf2fcce2b2cb47df100e4a",
+            "user_address": "0xD530068Ae13De839B9D9f40364B780E9345422FE",
+            "token0": "UNI",
+            "amount0": -201970357147866709963,
+            "token1": "USDT",
+            "amount1": 1592055902,
+            "timestamp": "2024-07-12 00:27:47",
+            "pool_liquidity": 305309151523603468
+        },
+        {
+            "tx_hash": "0xfbd154834040084a7d4a36da1dbb1c763cc0cf41d73b20167322fc7c8d4a4620",
+            "user_address": "0xD530068Ae13De839B9D9f40364B780E9345422FE",
+            "token0": "UNI",
+            "amount0": 128998368427881906176,
+            "token1": "USDT",
+            "amount1": -993845121,
+            "timestamp": "2024-07-12 10:20:35",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0x4d9dd69be09Ba79fC1cDFD27E579F7c622Bd072c": [
+        {
+            "tx_hash": "0xbcbbd6feefb92c7b915f6048df4f2b07e67df4a87d5d87a016f1601ca200f3bd",
+            "user_address": "0x4d9dd69be09Ba79fC1cDFD27E579F7c622Bd072c",
+            "token0": "UNI",
+            "amount0": 20550099812255220128,
+            "token1": "USDT",
+            "amount1": -161449425,
+            "timestamp": "2024-07-19 07:32:11",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0x877e949115bB78506ACE0e790013BcB2F4E10653": [
+        {
+            "tx_hash": "0xb3999447a2051f96e8c1ec0694e11076fea4caa121e874c65264b2e0b3ab48b2",
+            "user_address": "0x877e949115bB78506ACE0e790013BcB2F4E10653",
+            "token0": "UNI",
+            "amount0": 1709847480000000000,
+            "token1": "USDT",
+            "amount1": -13313226,
+            "timestamp": "2024-07-19 08:10:59",
+            "pool_liquidity": 6941112317625206
+        }
+    ],
+    "0xd5a809D6dbEe62A34Cf4106080C6e04B8d9ce285": [
+        {
+            "tx_hash": "0x0458cb423298660dcc0dd2b52edb7db0211bcdda042fff168ffb0b1a9c115161",
+            "user_address": "0xd5a809D6dbEe62A34Cf4106080C6e04B8d9ce285",
+            "token0": "UNI",
+            "amount0": -184816009026786596548,
+            "token1": "USDT",
+            "amount1": 1461123774,
+            "timestamp": "2024-07-11 21:10:35",
+            "pool_liquidity": 305309151523603468
+        },
+        {
+            "tx_hash": "0xcdfb6f8f4ad8563cd7a58d3765e007cbac008ddb32d8f25acd4b0955384ab0ea",
+            "user_address": "0xd5a809D6dbEe62A34Cf4106080C6e04B8d9ce285",
+            "token0": "UNI",
+            "amount0": 146725100643377283072,
+            "token1": "USDT",
+            "amount1": -1133252387,
+            "timestamp": "2024-07-12 10:09:11",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0xF0361B42b5b28D31F7c407F792c343b86E4983FE": [
+        {
+            "tx_hash": "0x7c93245a822b63032fcca9d2e35de62f9ccf9dad63c0175fb3a2e01393612368",
+            "user_address": "0xF0361B42b5b28D31F7c407F792c343b86E4983FE",
+            "token0": "UNI",
+            "amount0": -132508253057596411949,
+            "token1": "USDT",
+            "amount1": 1041311353,
+            "timestamp": "2024-07-12 00:08:11",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0x872837E964D00E1e11B575e5B338f2499B7046c0": [
+        {
+            "tx_hash": "0x645098cb063bdf55cd85ddbc4a76ccd84b55c5c0c282ac5e7d664230008a9e11",
+            "user_address": "0x872837E964D00E1e11B575e5B338f2499B7046c0",
+            "token0": "UNI",
+            "amount0": 165754411133552099328,
+            "token1": "USDT",
+            "amount1": -1296649494,
+            "timestamp": "2024-07-12 07:33:59",
+            "pool_liquidity": 305309151523603468
+        }
+    ],
+    "0x50dcb3f5766527319CA2F3BE8dae5FD24b72C807": [
+        {
+            "tx_hash": "0x81ad9078d116936e34904dd88ecd16fa12949cdb12d46ddece483208ac9f93a9",
+            "user_address": "0x50dcb3f5766527319CA2F3BE8dae5FD24b72C807",
+            "token0": "UNI",
+            "amount0": -143400958733933516552,
+            "token1": "USDT",
+            "amount1": 1127990236,
+            "timestamp": "2024-07-12 01:47:11",
+            "pool_liquidity": 305309151523603468
+        }
+    ]
+}
