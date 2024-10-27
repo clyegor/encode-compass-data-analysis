@@ -74,13 +74,17 @@ Analysis Steps
 
 Results and Interpretation
 
+  		![Volume distribution](image_1.png)
 	1.	Profitability Metrics:
 	•	Identify the top users in terms of profitability and trading activity for the selected pairs.
 	•	Provide insights into the behaviors of the most successful traders, such as average trade volume and frequency.
+ 		![Total Volume Correlation](image_2.png)
 	2.	Correlation Insights:
 	•	The correlation analysis examines whether trading volume from the most active and profitable users aligns with market volatility in ETH.
 	•	Filtering based on percentile thresholds (e.g., top 10%) helps isolate significant activity days, offering a more targeted view of user influence on volatility.
+   		![75% quantile](image_3.png)
 	3.	Interpretation:
 	•	High correlation values might indicate that high-volume trading days tend to coincide with higher ETH volatility.
 	•	This insight could suggest that certain traders or pools influence ETH’s market stability.
+ 		![90% quantile](image_4.png)
 	
